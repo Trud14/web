@@ -1,0 +1,86 @@
+---
+title: "Reference list for all pictures"
+author: "Trudy Boan"
+date: "2022-10-27"
+output: html_document
+---
+
+References
+
+Baron Douglas-Scott-Montagu HJ (1853) *St. Helena, Moreton Bay* [artwork], <https://nla.gov.au/nla.obj-134723485/view>, accessed 11 October 2022.
+
+Brisbane City Council (1868) *Tree clearing on St Helena Island* [photograph], [https://library-brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23385/0), accessed 11 October 2022.
+
+------ (1890) *Land under cultivation, St. Helena penal establishment* [photograph], <https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23407/0>, accessed 12 October 2022.
+
+------ (1912a) *Bootmaker's shop, H.M. Penal establishment, St Helena* [photograph], [https://library](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23161/0) [brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23161/0](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23161/0), accessed 12 October 2022.
+
+------ (1912b) *Saddler's shop, H.M. Penal Establishment, St Helena* [photograph], <https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23143/0>, accessed 12 October 2022.
+
+------ (1915a) *Backview of stockade, St Helena Penal Establishment* [photograph], <https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23186/0>, accessed 12 October 2022.
+
+------ (1915b) *Corridor 'D' Wing, St Helena Penal Establishment* [photograph], <https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23182/0>, accessed 12 October 2022.
+
+------ (1915c) *Old signal gun, St Helena Penal Establishment 24 pounder* [photograph],[https://library](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23136/0) [brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23136/0](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23136/0), accessed 12 October 2022.
+
+------ (1915d) *Sisal hemp, raspador, silos and old chimney, St Helena Penal Establishment* [photograph], [https://library-brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23150/0), accessed 12 October 2022.
+
+------ (1915e) *Tailor's shop, St Helena Penal Establishment* [photograph], [https://library-brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23139/0), accessed 12 October 2022.
+
+------ (1920a) *Aerial photograph of St Helena prison in the 1920s* [photograph], [https://library-brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23184/0), accessed 12 October 2022.
+
+------ (1920b) *North cell block, St Helena Island, 1920s* [photograph], [https://library-brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23294/0), accessed 12 October 2022.
+
+------ (1930) *The prison vegetable garden, St Helena Island* [photograph], [https://library-brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23386/0), accessed 12 October 2022.
+
+------ (1937) *Sugar mill, St Helena Island* [photograph], [https://library](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23408/0) [brisbane.ent.sirsidynix.net.au](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23408/0), accessed 12 October 2022.
+
+Cooper C (2020) *Prison cell* [photograph], [https://www.google.com/maps](https://www.google.com/maps/uv?pb=!1s0x6b93dfbbe18c8ef5%3A0x29c9140524331d61!3m1!7e164!15sCgIgAQ&hl=en&viewerState=ga&imagekey=!1e10!2sAF1QipOjxYz9FzSt2YTDv3aYUnhtDeYoYqC_hVA5gm0), accessed 23 October 2022.
+
+Cope M (2019) *The Black Napoleon* [artwork], <https://www.megancope.com.au/works/the-black-napoleon>, accessed 21 October 2022.
+
+CyArk (1894) *Building plan, St Helena* [sketch], [https://www.cyark.org/projects/st-helena-island-national-park](https://www.cyark.org/projects/st-helena-island-national-park/in-depth), accessed 20 October 2022.
+
+Gray J (2012a) *Saint Helena Island prisoner cemetery* [photograph], <http://beyondourpatch.blogspot.com/2012/05/tour-of-saint-helena-island-ex-convict.html>, accessed 21 October 2022.
+
+------ (2012b) *St Helena original prison door and lock* [photograph], <http://beyondourpatch.blogspot.com/2012/05/tour-of-saint-helena-island-ex-convict.html>, accessed 11 October 2022.
+
+Irving A (1914) *St Helena Penal Establishment - new penitentiary* [sketch], <https://www.archivessearch.qld.gov.au/items/ITM328272>, accessed 21 October 2022.
+
+Jepson D (2019) *St Helena prison guide* [photograph], [https://www.google.com/maps](https://www.google.com/maps/uv?pb=!1s0x6b93dfbbe18c8ef5%3A0x29c9140524331d61!3m1!7e164!15sCgIgAQ&hl=en&viewerState=ga&imagekey=!1e10!2sAF1QipO21QrDjYbvnrQZKn1onnMTkO7gHtuzoAE5VZwS), accessed 23 October 2022.
+
+King B (2019) *Shark swimming pool* [photograph], [https://dynamic-media-cdn.tripadvisor.com](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a3/bf/73/shark-swimming-pool.jpg?w=1400&h=-1&s=1), accessed 12 October 2022.
+
+Levez J (2016) *St Helena Penal Establishment prisoner cemetery information board* [photograph], <http://www.australiancemeteries.com.au/qld/brisbane/st_helena/img_0389lge.jpg>, accessed 9 October 2022.
+
+Moreton Bay Police (1887) *General record and description of male prisoners* [photograph of document], <https://www.archivessearch.qld.gov.au/items/ITM271423>, accessed 20 October 2022.
+
+------ (1893) *Mug shots of prisoners associated with the Barcaldine Shearers' Strike* [photograph], <https://ehive.com/collections/3606/objects/553427/mug-shots-of-prisoners-associated-with-the-barcaldine-shearers-strike>, accessed 20 October 2022.
+
+National Library of Australia (1870) *Penal station at St. Helena, Moreton Bay, Queensland* [artwork], <https://catalogue.nla.gov.au/Record/1890845>, accessed 11 October 2022.
+
+------ (1951) *Australia's St Helena, Queensland hell hole of the Pacific*, <https://catalogue.nla.gov.au/Record/1414022> [photograph], accessed 21 October 2022.
+
+Nawaz F (2017) *Punishment list* [photograph], [https://www.google.com/maps](https://www.google.com/maps/uv?pb=!1s0x6b93dfbbe18c8ef5%3A0x29c9140524331d61!3m1!7e164!15sCgIgAQ&hl=en&viewerState=ga&imagekey=!1e10!2sAF1QipNkrCWnbz_7BD-3heYoc0e89f0xVFNFgEKHb3Z2), accessed 23 October 2022.
+
+Pascoe W and Pascoe F (1871) *Sketch of theinterior of the sugar house at St. Helena* [sketch], <https://hdl.handle.net/10462/deriv/193649>,accessed 12 October 2022.
+
+Queensland Parks and Wildlife Service, Department of National Parks, Sport and Racing (2015) 'St Helena Island National Park map' [map], <https://parks.des.qld.gov.au/__data/assets/pdf_file/0015/160440/st_helena_map.pdf>, accessed 11 October 2022.
+
+Queensland Parliament Legislative Assembly (1887) 'Plan of the island of St. Helena, H.M. Penal Establishment, Queensland [map]', <http://nla.gov.au/nla.obj-232189719>, accessed 11 October 2022.
+
+Queensland State Archives (2021) *Escape from St Helena Island* [photograph], <https://www.archivessearch.qld.gov.au/items/ITM519924>, accessed 15 October 2022.
+
+Rasputin C (2017a) *Model of St Helena prison* [photograph], [https://www.google.com/maps](https://www.google.com/maps/contrib/118157579939035149773/place/ChIJ9Y6M4bvfk2sRYR0zJAUUySk/@-27.3916667,153.2327778,3a,75y/data=!3m8!1e2!3m6!1sAF1QipPE1MkAGxitb-jsvA0qRORrHq8fDDHXGbe16WOd!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPE1MkAGxitb-jsvA0qRORrHq8fDDHXGbe16WOd%3Dw520-h260-k-no!7i4160!8i2080!4m6!1m5!8m4!1e2!2s118157579939035149773!3m1!1e2), accessed 23 October 2022.
+
+------ (2017b) *Prisoner's private life* [photograph], [https://www.google.com/maps](https://www.google.com/maps/contrib/118157579939035149773/place/ChIJ9Y6M4bvfk2sRYR0zJAUUySk/@-27.3916667,153.2327778,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipPhELwrbKOpjWXDdVuzfeJVVsgDpBxiyW1Wbxtl!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPhELwrbKOpjWXDdVuzfeJVVsgDpBxiyW1Wbxtl%3Dw520-h260-k-no!7i4160!8i2080!4m6!1m5!8m4!1e2!2s118157579939035149773!3m1!1e2), accessed 23 October 2022.
+
+Russell A (2017) *Work station* [photograph], [[https://www.google.com/maps]{.underline}](https://www.google.com/maps), accessed 23 October 2022.
+
+State Library of Queensland (1893) *Freed unionist shearers following the 1891 shearers' strike* [photograph], <https://hdl.handle.net/10462/deriv/132229>, accessed 11 October 2022.
+
+Toni D (2017) *St Helena prisoner grave* [photograph], [https://www.tripadvisor.com.au/Profile/Daniele_Toni](https://www.tripadvisor.com.au/Profile/Daniele_Toni?fid=d16d163e-93b4-474c-9c50-62304c1f6324), accessed 21 October 2022.
+
+Winn C (1878) *Only known painting of St Helena Island as a working prison* [artwork], [http://treetopsolives.com.au](http://treetopsolives.com.au/news/2015/7/6/history-of-olives-in-australia), accessed 15 October 2022.
+
+Woods P (2011) *St Helena Island towards Manly* [photograph], <https://www.flickr.com/photos/patriciawoods/6092565622/in/photolist-ahnSgL-ahnZuS-aho1RS>, accessed 21 October 2022.

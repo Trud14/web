@@ -1,0 +1,2157 @@
+The scarlet legacy: the British Army's
+forgotten presence in Moreton Bay, 1860-69
+Authors: Jeff Hopkins-Weise and Rod Pratt
+Date: June 2001
+From: Sabretache(Vol. 42, Issue 2)
+Publisher: Military Historical Society of Australia
+Document Type: Article
+Length: 20,044 words
+
+
+Full Text:
+
+The object of this paper is twofold. First it is to widen Australian intellectual horizon of the South
+African War, 1899-1902 and second it is to extend its historical boundaries from an Australian
+point of view. Such an approach should show that there was in conducting this war, from
+London, an overall want of better organisation and a need for more effective general
+administration. This was especially so at higher levels in the employment of human and material
+resources. This was certainly the view of the future Major-General Sir William Throsby Bridges,
+who when arriving at Cape Town on 6 December 1899 from Sydney, confided to his diary
+something to the effect that nothing seems to have been done in South Africa for the systematic
+employment of colonial troops. Hitherto, wars had been in the main matters for the British
+Regular Army. (2) Consequently in 1899 colonial military assistance with troops at first caused
+confusion, rather than being a contribution to British military power.
+
+The role of British soldiers in the newly formed colony of Queensland in the decade of the 1860s
+was quite unlike their former service in the penal station of Moreton Bay from 1824 to 1842. Not
+only had convict transportation to the eastern Australian Colonies ceased, and as a
+consequence the penal station became a free settlement, but the post-Crimean British Army
+itself had evolved into a more professional and humane organisation. Furthermore, with the
+cessation of transportation and the increasing cost of garrisoning a global empire with a thinly
+distributed British Army came the realisation in Britain that those colonies which possessed self-
+government should also take on the responsibility, at least in part for their own defence. (3) It is
+by comparing the role of British military detachments at Moreton Bay during its penal operation
+to its emergence as a colonial metropolis in the 1860s that we can see that the despised red-
+coated gaolers became the honoured representatives of Empire and an integral aspect of
+colonial society. This is not to say that the British soldier in early Queensland entirely escaped
+the onerous duty of guarding criminals, although a clear distinction needs to be made between
+the `convict' as a product of an imperial policy of transportation up to 1840 and the `prisoner'
+who was a colonial civil offender in the 1860s; a distinction to which contemporaries were very
+much alive to. Thus within the period of transportation to free settlement at Moreton Bay there is
+not only a transfer of authority from a military to a civil administration, but also an increasing
+acceptance that these soldiers were becoming more a part of colonial society rather than
+remaining apart from it. With this change of role (and status) the British soldier was not only
+defender and gaoler, but his scarlet-coat would serve as a reminder within Britain's the far-flung
+corners of empire that the `imperial sentiment' which Governor George Ferguson Bowen so
+fervently fostered, (4) would be a visible and tangible reassurance to colonists, a nucleus upon
+which local volunteer forces could be raised and the foundation of Bowen's gubernatorial
+authority as Queensland's first governor. (5)
+
+Despite this being a geographically specific case study, its implications for continuing
+
+investigations into the role of the British Army (and Navy) throughout the Australian and New
+Zealand Colonies are far reaching and enduring. Sadly, this history largely remains to be
+explored by either Australian, New Zealand, and for that matter, British, military historians.
+Therefore it is hoped that in undertaking this study we may stimulate not only greater awareness
+of this neglected field of study, but also encourage others to commence related research into the
+various Imperial garrisons stationed throughout these Colonies during the late eighteenth and
+much of the nineteenth centuries.
+
+The British Army in Australasia
+
+The units of the British Army and Royal Navy which served in the Australasian Colonies (6)
+during the nineteenth century represented the moral and physical presence of Empire situated in
+the distant south-west Pacific region. The presence of `redcoats' and `jack tars' as the day-to-
+day Imperial representatives provided a sense of security and strength often beyond their actual
+numbers on station or in garrison. On this, Peter Burroughs, in a review of imperial defence and
+the Victorian Army expressed:
+   Except possibly in India, ... garrisons throughout the empire were too
+   sparse and thinly spread to overawe local populations. Often their presence
+   did no more than betoken a power held in reserve, ready to be summoned when
+   necessary; in this respect the threat of force was as potent as its actual
+   employment, a form of imperial bluff that masked considerable weaknesses
+   and vulnerability. (7)
+
+Burroughs' argument that the Empire was held together by this `Imperial bluff' is particularly
+evident in the Australasian context. Despite their numbers being limited at times, the presence
+of Imperial soldiers or sailors nonetheless were constant reminders for the public of each
+Colony's inclusion within a greater coalition of colonies and territories that made up the powerful
+British Empire -- the Colony of Queensland was no exception. The small elements of the 12th
+(East Suffolk) Regiment of Foot (1860/61-66), followed by the 50th (Queen's Own) Regiment of
+Foot (1866-69), and including the Royal Marines at Somerset, Cape York (1864-67), providing
+that sense of Empire and place in colonial Queensland.
+
+In relation to the presence of the British Army in Australasia, Burroughs also directed attention to
+the neglected topic of `the impact of British military garrisons on colonial economies and
+societies'. From review of the available Empire historiography, Burroughs was able to state that
+this has revealed
+   ... our knowledge is extremely sketchy [on the impact of the British
+   military], yet British spending on wars of conquest and pacification,
+   military works and permanent garrisons must at times have constituted large
+   injections of capital into relatively small communities, have shaped their
+   operations through commissariat spending and manipulation of rates of
+   exchange, and have made fortunes for some local contractors and
+   merchants....
+
+   Almost equally virgin territory is the impact of British military garrisons
+   on colonial societies.... (8)
+
+Similarly as occurred in Moreton Bay, contracts for the Imperial Commissariat were very
+significant in the convict period but by the 1860s this was rivalled by the `informal' contributions
+of soldiers themselves working day jobs as civilians. This occurrence was prevalent amongst the
+soldiers of the 12th Regiment in Brisbane, for which their commanding officer, Lieutenant D T
+Seymour, turned a blind eye. However, soldiers themselves had very little disposable income of
+their own.
+
+Another purpose for Army or Empire research is to re-incorporate the experience of the British
+military garrisons and navy stationed in Australia, their involvement in, and the impact of the
+New Zealand wars of the 1840s and 1860s, back into Australian historiography. This still
+
+remains to be effectively carried out with regard to Australia's frontier conflict where the British
+Army played a significant role from initial European settlement until the 1840s, and was also a
+body from which personnel for the Mounted Police were procured from the 1820s until 1850.
+This of course is quite apart from the role and place of former soldiers in sailors as part of this
+experience. Amongst writers of Australian military history especially there has been a common
+misnomer to ignore or avoid the role and place of the British soldiers and sailors from the history
+of colonial Australia. Often this has occurred (and still occurs) because of the `blinkered'
+approach of seeing such military personnel as British only and not Australian, and therefore able
+to be left out of the historiographical picture. This somewhat jaundiced perspective is particularly
+evident in the historiographic treatment of the rise of various Australasian colonial forces. Many
+histories convey the impression that such voluntary forces sprang forth ex nihilo fully trained,
+uniformed and accoutred without the benefit of any regular military instructors or indeed any
+model upon which to base such a force. Indeed, upon surveying the histories so far written on
+the local volunteer forces of the Australian colonies, one might be forgiven for assuming that
+such corps were the product of spontaneous generation, since scant, if any reference is made
+either to those British regulars who instructed these volunteers and frequently composed their
+commissioned and non-commissioned ranks. (9) Such perspectives are not only forgetful, but
+are disparaging to the many dedicated professional British soldiers who laid the foundation for
+what has become today the Australian Defence Force.
+
+As a result of these omissions a significant aspect of the history of the British Army in
+Australasia has received little or no recognition. That is the recruitment of colonials -- some
+Australian born, others immigrants to, but residents of these colonies, into the British line
+regiments in garrison in Australia. In this way these largely unrecognised `Australian' colonials
+also went on to serve in New Zealand during the 1860s. The 40th Regiment garrisoned in
+Melbourne especially, but also the 12th Regiment in Sydney, enlisted, or recruited for men to
+bring regimental numbers up to strength from the late 1850s into the 1860s. (10) Other
+members of the British Army serving in Australasia were Australian born but appear to have
+enlisted in Great Britain or other locales within the Empire while others had prior British military
+service enrolled in the colonial volunteer forces thus adding their professionalism and expertise
+to this spontaneous voluntary movement. (11) Many of these men may well have been sons,
+some orphaned, of British soldiers who had garrisoned these Colonies in earlier periods. An
+1864 obituary for a young officer of the 70th Regiment, Captain D M Fraser, who saw service in
+New Zealand, reveals not only Australian birth, but also a family connection via his mother who
+was from Parramatta, New South Wales, who had married an officer of the 80th Regiment. (12)
+The 80th Regiment had been in garrison in Australia (including detachments at Moreton Bay
+between August 1839 to May 1842 and New Zealand 1836-44) before departing Sydney for duty
+in India where it was soon on active service during the Sutlej Campaign of 184546. (13) This
+particular family lost their father and husband during the battle of Ferozeshuhur (21-22
+December 1845), revealing in the process the path into the military that orphaned sons often
+found themselves, in this case via a deceased father's regiment. (14)
+
+While it is apparent that many such men were to see service in the New Zealand wars of the
+1860s, evidence for similar Australian connected individuals in the 1840s is not as clear.
+Between 1829 and 1846 enlistment in the British Army was theoretically for life, though after
+fifteen years service a free discharge could be procured, or else discharge on medical grounds.
+Soldiers with less that the requisite fifteen years service could only obtain their discharge by
+purchase (20 [pounds sterling]), though the sum involved required many years of savings or
+money from relatives or friends. (15) Changes in 1847 in the form of the Limited Enlistment Act
+saw the maximum term of service in the infantry set at ten years, with provisions for re-
+enlistment permitted for an additional eleven years. (16) Heaton in 1879 stated that recruiting for
+the British Army first commenced in New South Wales on 1 April 1839, but more recent research
+has revealed Australian born or enlisted personnel joined units of the British Army as early as
+the 1800s. (17) Review of monthly strength returns of the British Army in Australia allowed
+Maurice Austin to point out: `it is apparent commencing with the New South Wales Corps (102nd
+
+Regiment), that a steady trickle of local recruits flowed into all British garrison regiments until the
+last, the 18th, left Australia in 1870.' (18)
+
+Despite the start made by the late Brigadier Maurice Austin, few detailed studies of the role and
+experience of Regiments in Australasia have emerged revealing evidence of the importance of
+the social and economic interaction of the British Army and colonial Australasians, nor the
+significant numbers of Australian born or enlisted men within regiments. This in itself sheds light
+on the failings of much of the history written about the colonial history of Australasia. For
+Australia the impact of the Anzac legend has dominated the thinking and writing of this nation's
+military history, compounded by the myth of the peaceful settlement of Australia, has dealt a
+deathly silence towards the service of the British Army and Navy in this country.
+
+One aspect rarely noted or analysed is to ascertain the presence, significance, and contributions
+of personnel who had been former British officers, non-commissioned officers or men within not
+only the Queensland Volunteer movement, but as prevalent within the ranks the Police, Prison
+or other civil services. In both Australia and New Zealand, most Volunteers Units had a small
+cadre of retired or discharged Military personnel who provided the experience, enthusiasm, and
+military structure around which colonial units were formed, trained and operated. In the
+Australian context, one of the few historians to draw attention to this phenomenon has been
+Peter Stanley in his `Heritage of Strangers'. In discussing the impact of such former or seconded
+British personnel upon the development of the Australian Colonial Volunteers, Stanley pointed
+out:
+   ... The colonial volunteer forces were not established in emulation of the
+   red-coated regular regiments which they supplemented and later replaced,
+   but, rather, on the model of the British rifle volunteers, whose character
+   and motivation was altogether different from those of the infantry of the
+   line. The regulars drew on men who were supposed to have no option but to
+   enlist, who served and fought under rigid unthinking discipline....
+   Colonial Troops, respectable men, serving voluntarily and finding
+   restrictive discipline and rigid tactics unnecessary, nevertheless still
+   needed military skills, and called upon former regulars to provide both
+   commissioned and non-commissioned direction....
+
+   Of equal importance to shaping the military force ... may have been the
+   non-commissioned officers and warrant officers who joined colonial forces
+   after their retirement from the British Army. Other British NCOs sought or
+   accepted secondment to the colonial forces, often becoming officers, and in
+   the meantime enjoying a prosperity and standard of living to which few
+   could have aspired after discharge in Britain. (19)
+
+Of course records detailing a soldier's discharge in a location such as New Zealand does not
+always mean such former soldiers stayed in that Colony as settlers. Numbers of the soldiers of
+the 12th and 40th Regiments who took their discharge in New Zealand quickly departed that
+Colony to return to the Australian Colonies. This was undertaken because of the belief of better
+opportunities, to return to family or friends, or job offers made while part of the garrison forces
+before their departure for New Zealand service. These return cross-Tasman travellers are
+examples of the `inter-colonial fluidity' that existed throughout the 19th century, and are
+indicative of a greater experience of, and willingness by individuals and families to travel from
+colony to colony in search of better economic and social conditions. (20) Such discharged
+personnel therefore maintained long-term social and economic connections and contribution in
+Australia, as did the many who remained in New Zealand, long after their war service had
+terminated. (21) In relation to former members of Queensland's small 12th Regiment
+detachment who departed Brisbane for New Zealand service in late 1866, at least eight men
+who had served with the Queensland Detachment of the 12th took their discharge in early 1867
+just prior to the Regiment's departure for England. (22) Of these, two -- Patrick Clancy (23) and
+Daniel Cahill (24) -- are confirmed as returning to Queensland shortly after obtaining their
+discharges. Further substantial evidence of the presence of such ex-British military personnel in
+
+Queensland colonial society can be found in the voluminous ledgers of the Imperial Pensions
+Registers detailing hundreds of such people (and not only men) frequently holding positions of
+responsibility and all contributing to the colony's economy. (25)
+
+The British Army in Queensland, 1859-66: the 12th Regiment Experience
+
+With the withdrawal of Ensign George Arnold Cameron's detachment of the 11th Regiment from
+Brisbane in July 1850, the infant settlement was for the first time since its creation without any
+military force. (26) This was the source of much consternation and petitioning by local
+inhabitants to have such a force restored. (27) Governor Bowen, immediately prior to his
+assuming office as Queensland's first governor almost a decade later was fully in accord with
+this view albeit for different reasons. In his correspondence to the Duke of Newcastle, who then
+administered the Colonial Office, Bowen had requested in August 1859 a full company of regular
+soldiers. (28) Though this request was readily acceded to, numerous obstacles arose to prevent
+its fulfilment for within the complex system of regimental rotations, inter-colonial rivalry, and
+hostilities breaking out in New Zealand, it would be another seven years before this company of
+regulars eventually arrived in Brisbane. Although Bowen had been authorised to raise a local
+volunteer force, on the model of spontaneous national voluntaryism that was then sweeping
+Britain, he personally held such local forces in low regard. Quite apart from Bowen's conviction
+that a handful of redcoated regulars would bolster the sentimental bonds of Empire in the
+isolated colonial metropolis, he also held an abiding distrust of any locally raised force as being
+`politically partial'. (29) Bowen felt such a force would not remain aloof from the sway of local
+politics, as would a force of British regulars. There were other reasons for Bowen's preference
+for British regulars as well. He felt it his personal right as a colonial governor to have such a
+force loyal to his position and authority. Apart from this there was the necessity of having
+professional instructors and British regulars to form a `nucleus' upon which any local force would
+be trained and would rally around in time of crisis. (30) Again, Bowen held little faith in local
+volunteers who could not be depended upon in an emergency. However, due to the inadequacy
+of troop strengths in Western Australia, elements of the 12th Regiment could not be spared for
+their return to New South Wales, which Colony would then be enabled to supply the requested
+company of regulars for Brisbane. (31) Although before all this could take place, events in New
+Zealand required every available British soldier the Australian colonies could spare. This did not
+prevent Bowen from continuing a stream of correspondence with both the Colonial Office and
+the Commanding Officer of British Forces, Major-General Sir Thomas Pratt, imploring that only a
+few dozen soldiers might be spared to assist in training a local volunteer force.
+
+By September 1860 a temporary compromise was reached in providing a well qualified drill and
+musketry instructor in the person of Colour-Sergeant William Green of the 12th Regiment whose
+`pleasing and winning manner is calculated to secure the esteem, as well as respect of those
+under his tuition'. (32) In April 1863 Green was replaced by Sergeant Thomas D P Hawkes of
+the same regiment and continued his tireless efforts to revive a flagging volunteer movement
+which, through a variety of causes almost ceased to exist until renewed hostilities in New
+Zealand during 1868-69 revived the movement. In January of 1861 the first detachment of the
+12th Regiment under the command of Lt David Seymour arrived in Brisbane and quickly
+established a reputation for drunken rowdiness and desertion. (33) The presence of these
+soldiers was not merely to bolster imperial sentiment and train volunteers. There was also the
+harsh economic reality that under the Queensland Military Contribution Act of 1864, the cost of
+the entire Brisbane detachment of the 12th Regiment was still less than the annual wages of
+four constables employed at the colonial government's expense. (34) Even though the War
+Office had declared that such British troops were not to be used as substitutes for constables or
+gaolers, this stricture was disregarded in view of the money saved by an impoverished colonial
+treasury.
+
+Due to the relatively small size of the Brisbane 12th Regiment detachment, combined with their
+multiplicity of duties such as providing guards for prisoners, the Treasury and the Military
+
+Barracks (both in William Street and later from 1864 at Petrie Terrace), left little interaction with
+the early Queensland Volunteer movement. The exception being the provision of a single
+instructor and parties to clean the guns of the Volunteer Artillery who whether due to a lack of
+skill or motivation appear to have left this menial task to their regular comrades in arms. (35)
+Another aspect notable with the detachment of the 12th Regiment at Brisbane was its relatively
+high level of desertion which accounted for almost one in five of all those soldiers of the 12th
+posted here. The reasons for this are not difficult to discover since the Brisbane Courier
+contained frequent complaints from disgruntled workers who noted that soldiers, after their
+morning parade, would don civilian attire and put in a day's work in Brisbane before retiring in
+the evening back to their barracks. Although these were frequently referred to as `deserters'
+(and undoubtedly some were), the majority were more guilty of the lesser offence of being
+absent without leave by supplementing their meagre military pay in a labour hungry colonial
+metropolis. Commanding Officer of the detachment, Lieutenant David Seymour who was in the
+invidious position of also being Police Commissioner was singled out as negligent in preventing
+this practice particularly since many of these soldiers were `working as mechanics at a much
+lower rate of pay'. (36) In an anonymous retort which, judging by the intimate knowledge of
+military and police duties suggests it may have been penned by Lieutenant Seymour himself,
+this claim was weakly rebuffed by denying that any soldiers were engaged in such a practice
+and that, even if they were, it was more the responsibility of the police to arrest such offenders
+than it was of the commanding officer to ensure that it didn't happen in the first instance. (37) It
+is more likely that those soldiers who did indeed intend to desert travelled westward to the
+Darling Downs to seek labour and anonymity rather than run the risk of detection in Brisbane
+and there exist examples of such soldiers being apprehended at locations such as Ipswich and
+Dalby. (38)
+
+The interaction of members of Brisbane's 12th Regiment detachment with colonial society,
+although not as pervasive as their successors of the 50th Regiment were later to be, was still
+significant for laying the foundations upon which the latter detachment substantially built upon.
+The rise of the Queensland Rifle Association in May 1861, intended as it was to emulate the
+newly formed British National Rifle Association, was locally patronised by such notables as Sir
+Maurice Charles O'Connell, Captain H D Pitt, RA, as well as Governor Bowen himself. (39) This
+Association was intended to compliment the early Volunteer movement with which it became
+synonymous and to inculcate a martial spirit among Brisbane's citizenry. Ultimately it shared the
+same waning interest the Volunteer movement laboured under until events in New Zealand
+generated a revival of matters military. `Prize shoots' were arranged for various shooting
+matches arranged within the Volunteers, or in competition with soldiers of the 12th Regiment for
+purses of money, National Rifle Association medals, or coveted `prize rifles' such as the newly
+invented Terry & Calisher's capping breech-loader. (40) This generated a brief interest in
+shooting matches in the early 1860s for which the 12th Regiment's detachment demonstrated
+considerable marksmanship, even though their target practice did result in the death of one
+wandering cow and narrowly missing a very fortunate pelican when a soldier's bullet lodged into
+a post in Russell street, South Brisbane. (41)
+
+Brisbane's detachment of the 12th Regiment also officiated at formal functions in conjunction
+with elements of the Volunteer units at levees and the opening of parliament where they
+provided a guard of honour for His Excellency's entourage. On a few instances, this force drilled
+alongside members of the Brisbane company of the Volunteer Rifles; a practice that became
+more common with the arrival of the 50th Regiment in October 1866. Although the presence of
+the 12th Regiment in Brisbane was more ceremonial or ornamental than practical, there were
+occasions when their roles were more active. These included providing guards for prisoners in
+Brisbane prior to the use of the Proserpine as a prison hulk or the establishment of the penal
+station on St Helena Island in Moreton Bay. (42) Of greater note were the demands made upon
+the detachment of the 12th during the Brisbane Riots (which in fact extended far beyond
+Brisbane) in September 1866. While the Brisbane Courier recorded public thanks for the role of
+the Queensland Volunteer Artillery in promptly turning out in full strength during this civil unrest,
+
+it was less effuse in admitting that the small detachment of the 12th Regiment had actually
+provided a guard for Parliament House for '84 hours without rest' during the period of the
+disturbance. (43) This was almost the last activity involving the detachment of the 12th since the
+following month in October they were replaced by the long awaited company of the 50th
+Regiment direct from New Zealand. (44) Sergeant Thomas Hawkes, who had succeeded
+Colour-Sergeant William Green was granted a testimonial dinner in recognition of his services to
+the local Volunteer movement and the detachment itself was publicly feted on its departure as
+having `conducted themselves in a manner so creditable to them'. (45)
+
+The Place of Former British Army or Honourable East India Company Servicemen in Colonial
+Queensland
+
+The role of individuals with prior service in the British Army (or Navy) and Honourable East India
+Company was certainly significant to the growth of the Volunteer movement, quite apart from
+members of the detachments of the 12th and 50th Regiments posted to Brisbane. Among those
+with such prior service who went on to serve in the Queensland Volunteer Rifles were such
+notables as Major Edward Lewis Burrowes late of the 97th Regiment. Burrowes was appointed
+Deputy Surveyor General of Queensland and was also gazetted a 1st Lieutenant in the Brisbane
+Troop of the Queensland Mounted Rifles. (46) Likewise, Francis Robert Chester Master, who
+had commanded the detachment of the 58th Regiment stationed at Brisbane briefly between
+November 1844 and January 1845 before serving in the New Zealand conflict of the 1840s. (47)
+Master sold his commission in the 58th Regiment upon his return from New Zealand and bought
+`Mangoola' at Warwick in 1854. His hospitality was remarked upon in Oscar de Satge's Pages
+from the journal of a Queensland squatter and he became a noted local celebrity. Indeed, with
+the initial raising of the Queensland Volunteer Rifles, Master offered his services as an officer
+although this met with some difficulty. (48) Master went on to contribute to the formation of the
+Queensland Rifle Association as well as the framing of its rules and regulations. Similarly,
+Colonel Charles Gray, sometimes termed the `father of Ipswich' was also instrumental in the
+formation of Queensland's first volunteer corps at Ipswich. (49) Gray had served at the battle of
+Waterloo in the elite 95th Rifle Regiment as Aide-decamp to Major-General Johnstone and had
+been earlier wounded at the siege of Badajoz during the Peninsular Campaign. On 26 May 1860
+he was gazetted Captain of the Ipswich Company of the Queensland Volunteer Rifle Brigade
+and was active in this and the Queensland Rifle Association until the Volunteer movement in
+Queensland waned to such an extent that his commission, along with many other officers, was
+cancelled.
+
+Another notable, more for his political than military contribution was Charles Lilley whose entry
+to military life was less than conspicuous. He had enlisted on 3 December 1851 as a private in
+the prestigious 1st Dragoon Guards and began preaching to his comrades upon industrial
+reform and temperance before going absent without leave, which earned him the displeasure of
+his officers as well as a twenty-eight day solitary cell punishment. (50) In this respect his brief
+military career paralleled that of Richard Cobden who was also described as an educated
+agitator although by February 1854 Lilley decided military life did not agree with him and so
+purchased his discharge for 30 [pounds sterling]. However his service with the Queensland
+Volunteer Forces won him greater esteem with his contemporaries. With the formation of the
+Spring Hill and Fortitude Valley Volunteer Rifle Corps (later known as No. 3 Company, QVRB) in
+June 1867, Lilley was elected Captain and was also on the Queensland Rifle Association's
+committee of management until his resignation on 23 May 1868. So popular was Lilley with his
+corps that he was presented with a handsome framed testimonial by these Volunteers.
+Ultimately, Lilley's contribution to the Queensland Volunteer movement was to be the most
+enduring since after many redesignations this corps survived as the 9th Battalion.
+
+Although Governor George Bowen is credited with the impetus for forming Queensland's
+Volunteer Forces, efforts to create such a body predate Bowen's arrival. John Kent, a resident of
+Ipswich had in July 1839 replaced George Thom as Deputy Assistant Commissary General at
+
+Brisbane and by August 1859 proposed the formation of a North Australian Rifle Club to `act as
+light troops for defence'. (51) Although this request met with no immediate response, it was not
+long before Queensland's first volunteer corps was formed under the designation number 1
+Company Queensland Rifle Brigade with John Kent appointed as its 1st Lieutenant on 23 May
+1860. Kent's predecessor, George Thom had been a sergeant in the 4th Regiment when it was
+despatched for convict guard duties to New South Wales in 1835. Thorn was a veteran of both
+the battle of Albuera and Waterloo and was instrumental in the formation of the Ipswich
+Volunteers, forming a member of the recruiting committee. The service of William Martin Boyce
+with the Queensland Volunteers is an interesting one since Boyce, along with another notable,
+Louis Hope, had enlisted with the Honourable East India Company (HEIC) which was quite
+distinct from the British Army even though personnel were frequently shared, (52) In the years
+immediately following the Indian Mutiny in 1857, many officers and men were unwilling to
+continue their military service as part of the British Army and such dissatisfaction eventually
+escalated into what has been described as the `White Mutiny'. (53) Many officers took the
+opportunity of taking their discharge and Governor Bowen, although initially reluctant at the
+prospect of accepting a soldier-settlement scheme for ex-Indian Army officers and men,
+eventually acquiesced. In this way Queensland, due to its climate, was promoted as an ideal
+place of retirement for those taking their discharge from the HEIC or accepting an out-pension in
+the Colony. Boyce may have been one of the many who came to Queensland under this
+scheme, which certainly benefited the Queensland Volunteer Force and was instrumental at its
+inception and that of the para-military Queensland Rifle Association. Boyce was immediately
+gazetted as Queensland Volunteer Force secretary and Quarter-Master with the rank of 1st
+lieutenant with number 2 Company of the Queensland Volunteer Rifles. However, by 1863 with
+the rapid deterioration of the Queensland Volunteer movement and the disbanding of most units,
+the office of Quartermaster was abolished and with it Boyce's commission.
+
+It is apparent from such biographical cameos that many ex-British Army or HEIC personnel
+served with, or were involved in the formation of the Queensland Volunteer Forces. Their roles
+were quite significant as officers, NCOs and instructors and hence imparted their training and
+professional knowledge to the newly formed Queensland Volunteers Force. How many other ex-
+British soldiers formed the ranks as Volunteer privates is difficult to quantify although by
+examining the lists of those receiving British Army out-pensions it is possible to identify many
+names. (54) Names such as James Warner (late 15th Dragoons), John Walsh (late 38th Regt),
+David McFarlane (late 42nd `Black Watch' Regt), James Dignam (late 48th Regt) and Edward
+Deshon (late 68th Regt) (55) who briefly put the volunteers through a `course of musketry', all
+contributed to the development of Queensland Volunteer Force. (56)
+
+The service of ex-Indian Army officers gave a `flavour' to Queensland's colonial society which is
+most apparent in the style of architecture they brought with them. The familiar high-set homes
+with deep set verandahs, wide windows and a central corridor allowing the free flow of cool air
+had been a feature of British India for which Queensland's climate was quite comparable. There
+is a sense of isolated camaraderie apparent among such `Old Indians' who took up land in
+Queensland; glimpses of which appear in Robert Gray's Reminiscences of India and North
+Queensland. While looking for suitable country to settle he found a lonely hut near Herberton,
+`on looking into one of the huts on the afternoon of our arrival, I saw a man lying on one of the
+bunks fast asleep, quite unconscious of the flies which were -- well, fairly busy. His face seemed
+familiar, and on his waking up I found that he was Stewart of the 79th [Regt], whom I had last
+seen in the Immaum Bara at Lucknow'. Similarly, while Gray and his wife were visiting Charters
+Towers, they encountered the Dickens family. `Charles Short Dicken, who had been a lieutenant
+in the 87th [Regt], and whom I had not seen since the early `sixties' was present as well as `an
+old friend whom I had known as a captain in the 75th [Regt] in India. The Rev C M Pym having
+left the army, had been ordained.' (57) An examination of the Queensland Imperial Pension
+Register for the period 1872-99 indicates that there were thirty-four other ex-service personnel
+who had served in either the army or navy in India whilst members of the HEIC and, after 1857,
+the Queen's Regiments stationed there. (58)
+
+Many more ex-soldiers who had served with their regimental detachments at Brisbane evidently
+enjoyed their posting and returned to settle in the district upon their discharge. Apart from
+Sergeants Brady (59) and Pike (60) of the 50th Regiment, many other soldiers returned to settle
+at their earlier posting such as Privates Joseph Tristram, William Kilner and Thomas Walker of
+the 12th Regiment who nominated Brisbane as their place of residence. (61) However, among
+the greatest contributors to colonial Queensland's development were from men who had served
+in the British Army and used their administrative skills in the service of the New South Wales
+and later Queensland Governments. These ex-soldiers were evident from the very beginning of
+the Moreton Bay penal settlement and continued to the close of the century. Among the first of
+these was Private Charles Fraser, late of the 48th Regiment, who accompanied Colonial
+Botanist and explorer Allan Cunningham on his expeditions as he earlier had with John Oxley in
+1817. (62) The arrival of Cunningham and Fraser at Moreton Bay on 5 June 1828 is noted in a
+passenger manifest necessary for any vessel proceeding to the penal settlement of Moreton
+Bay. Fraser had originally enlisted in the 56th Regiment at Perth, Scotland on 8 June 1815,
+
+when he gave his occupation as gardener. (63) Certainly Fraser's gardening skill must have
+been extraordinary to be appointed Colonial Botanist by Governor Lachlan Macquarie in
+January 1821. At the time of Macquarie's retirement and Sir Thomas Brisbane's appointment as
+Governor of New South Wales in December 1821, Macquarie recommended Fraser to Sir
+Thomas Brisbane's `patronage, protection and kindness'. At the time of Fraser's arrival at
+Brisbane, William Whyte, an officer late of the 57th Regiment who had arrived in August 1829,
+as assistant to the Superintendent of Agriculture, and later as clerk in the Commandant's
+(Clunie's) office until 1842. (64) During this time, in 1838, Andrew Petrie was appointed
+Superintendent of Works at Moreton Bay and was attached to the Royal Engineers posted to
+Sydney under the Commanding Royal Engineer, Colonel George Barney. Petrie was a trained
+civil engineer whose achievements are well recorded elsewhere. (65)
+
+One of the most influential personalities at Moreton Bay at the time of the district's opening to
+free settlement, in February 1842, was Dr Stephen Simpson, Commissioner of Crown Land.
+According to one biographer who quotes from Henry Smart Russell's Genesis of Queensland,
+Simpson had served in the 14th Light Dragoons during the war against Napoleon. (66) However,
+Russell makes no reference to Simpson's military service other than to say that he `had been
+attached to a crack cavalry corps in the old war' mentioning nothing of the 14th Light Dragoons
+specifically. (67) Furthermore, an examination of the official Army Lists between 1790 and 1830
+do not mention him as a serving officer although the possibility exists that he may have served
+in a non-commissioned rank. Nevertheless, it is evident from an examination of his journal that
+Simpson was quite familiar with light cavalry tactics and recommended such a force be raised to
+protect squatters in his district. In a report to Governor George Gipps dated 5 January 1844,
+Simpson complained of the inefficiency of the Mounted Police assigned to him and proposed
+instead the formation `of the lightest irregular cavalry, whereas we are equipped [Mounted
+Police] as the heaviest Dragoons'. (68) Clearly Simpson had more than a passing acquaintance
+with the usage of light cavalry whether he served as an officer in the 14th Light Dragoons or not.
+
+Other positions of civil responsibility were also assumed by ex-military officers such as Philip
+Doyne Vigors of the 11th Regiment, who also undertook extensive instruction in engineering
+having mastered `surveying, levelling, the use of instruments, plotting, mapping and a fair
+course of mathematics'? His credentials as a skilled engineer won him considerable praise from
+his instructors. According to Nehemiah Bartley he was appointed as Surveyor of Roads at
+Moreton Bay in 1855 and, despite his credentials, was criticised for his levelling of the road
+between Brisbane and Ipswich. Bartley recalled that,
+   He had been an Army lieutenant, a fact which, in early Australian days,
+   seemed to be held sufficient qualification for a man to fill any office
+   outside of the church. He was appointed Superintendent of roads for Moreton
+   Bay, and set to work to clear the road between Brisbane and Ipswich. But,
+   in place of stumping and clearing the trees off in the old orthodox
+   fashion, he put men on with crosscut saws to shave the trees down at the
+   level of the earth, and the ungrateful bushmen, who used the road, used to
+   complain that in wet weather these wooden `tables' were more slippery than
+   a wood pavement to a galloping horse, besides tripping him up as the earth
+   washed away from the edge of the stump. The experiment was not a success,
+   as the trees soon grew up again, and a bit of straight road near Ipswich,
+   got up in this fashion, was known, long afterwards, as `Virger's Avenue'.
+   He was, of course, known by the witty young ladies of the period as `Poor,
+   dear Virger.' (70)
+
+By February 1856 Vigors had been offered the position of Adjutant within his original regiment,
+the 11th, a position `which I am desirous of accepting' and so forwarded his resignation to
+Governor Sir William Thomas Denison. (71)
+
+Captain William Irving, late of the 28th Regiment, was one of the few Waterloo veterans who
+chose to settle in the Moreton Bay district. Irving is rarely mentioned as a settler in the district
+although he did gain some attention as an expert witness in the trial of some soldiers of the 11th
+
+Regiment at Brisbane who had been charged with manslaughter in 1849 in `The Affray at Yorks
+Hollow'. (72) Captain Francis Durrell Vignoles also of the 28th Regiment was another settler who
+became owner of Western Creek station on the Darling Downs. Vignoles had initially purchased
+a 32 perch block of land at Ipswich for 8 [pounds sterling] 16s in June 1849 before taking up
+Western Creek where his grave remains. All those who knew him described him in affectionate
+terms. (73)
+
+Similarly, there exist references to other retired military officers having settled in the district
+although their presence is known only in a passing phrase from the Brisbane Courier. In
+describing a levee called by Governor Bowen in honour of the Queen's birthday, a few officers,
+retired in the district, were invited such as Captain H D Sullivan late of the 13th Light infantry
+and Captain J E D MacCarthy late of the 40th Regiment. (74) Another officer, Lieutenant D C
+Mitchell, late of the Dumfries Militia, in a letter to the editor of the Brisbane Courier, described his
+astonishment at the lack of esprit de corps among the `young men of Brisbane' in allowing the
+Queensland Light Horse to be disbanded through lack of interest. Mitchell in response proposed
+the formation of a Yeomanry corps composed of `fifty young gentlemen'. (75)
+
+More intriguing were the numbers of non-commissioned ranks who, upon taking their discharge
+settled near Brisbane to take employment or perhaps serve in the local Volunteers. Undoubtedly
+they were well represented within this force with their prior rank usually resulting in their
+appointment within the Volunteers, at the same (or higher) rank during the corps formation in
+1860. However, due to the high inter-colonial mobility of these men it has not been possible to
+identify those among the ranks of the Volunteers who had served in the Army from those who
+had not. If the number of ex-British Army Volunteer officers is, in any way proportionate to the
+number of ex-regulars who served in the Volunteer ranks, it would also seem that their number
+might be significant.
+
+Even long after the last of the Imperial regiments left the Australian colonies in 1870, the
+economic legacy of having so many military out-pensioners certainly had significant
+contributions to the colonial treasuries of which Queensland was no exception. For the period
+1872 to 1899 there were no less than seven hundred and twenty-two persons residing in that
+Colony who were receiving an Imperial pension who, although mostly ex-soldiers also included
+ex-marines, sailors, soldier's widows and children, as well as many former East India Company
+veterans. (76) However this figure for Queensland recipients of pensions is a deceptive statistic,
+since the majority of ex-military personnel never received pensions but had rather obtained their
+discharged by means of purchase or they had received land grants in lieu of a pension which
+was especially true for New Zealand veterans. (77)
+
+Queensland's 12th Regiment Detachment, and the impact of the New Zealand Wars of 1860 &
+1863
+
+In early 1860, Queensland through its Governor George Ferguson Bowen sought to obtain an
+initial garrison detachment of 50 men and two officers for the newly created Colony's military
+protection. In his solicitations on behalf of `Her Majesty's loyal subjects in Queensland', Bowen
+contended:
+   `... while the creation of permanent local Corps would lend (among many
+   other disadvantages,) to create a feeling of isolation, -- the Imperial
+   feeling (if it may be so termed,) that is, the existing feeling of pride
+   and affection towards the Mother-Country, -- would be fostered by the
+   presence in the Colony of soldiers of some of those regular regiments of
+   the British Army, whose annals are part of the national history; and who
+   bear on their flags the names of victories, which are as much household
+   words among the inhabitants of Queensland as among their fellow subjects in
+   the United Kingdom, or in any other portion of Her Majesty's dominions.'
+   (78)
+
+The news of the outbreak of conflict in Taranaki saw Queensland's regular troop expectation
+lowered in consideration to a smaller detachment of twenty-five men and one officer. Major-
+General Pratt replied to Queensland from Army Headquarters in Melbourne on 17 April that he
+was not able to accede to this detachment for Brisbane, pointing out New South Wales'
+reluctance to allow a further drain on its now diminished garrison to satisfy its new northern
+neighbour. General Pratt concluded: `I am now entirely precluded from sending even a small
+portion of Troops to you just now, by a demand for reinforcements for New Zealand, with which it
+is imperative I must comply', but would send troops as soon as it was possible. (79)
+
+Orders by Major-General Pratt were finally issued on 4 July 1860 to the Officer Commanding
+Troops at Sydney `to send with as little delay as possible' a detachment consisting of one officer,
+two sergeants, one drummer, and twenty-five rank and file for service in Queensland. (80)
+Commissariat and other preparations required saw that it was another six months before such
+troops materialised, though Colour-Sergeant William Green of the 12th Regiment arrived to fulfil
+the role of drill instructor to the Queensland Volunteers in August 1860. (81) It was not until 13
+January 1861 that Brisbane's detachment of `redcoats' consisting of Lieutenant David
+Thompson Seymour, (82) twenty-seven soldiers, three women and nine children of the 12th
+Regiment arrived in Brisbane aboard the Telegraph. (83) New Zealand's Taranaki War therefore
+had a direct impact on the proper establishment of Queensland's allotment of British troops and
+defences during 1860-61.
+
+The impact of the Taranaki War, and New South Wales' reluctance to part with further troops
+continued to delay Queensland receiving its allotted regular troop garrison throughout 1861 until
+1866. The arrival of the first elements of the 12th Regiment in January 1861 was then followed
+by a further small contingent of thirteen enlisted men in July 1862. These additional soldiers by
+and large merely replaced those who had already deserted in Brisbane during 1861-62. This still
+left Queensland with a woefully inadequate regular garrison, and Governor Bowen continued to
+correspond on the subject through 1862 and 1863 in the hope of procuring the numbers
+allocated for the Colony's defence. In March 1862, Major General Pratt informed Governor
+Bowen:
+   With reference to my letter of the 13th instant, No. 62/50, I ... annex
+   copy of a Telegram which has reached me from the Officer Commdg. The Troops
+   in New South Wales.
+
+   The numbers at present in Sydney are below those which that Government have
+   obtained the sanction of the Home Authorities to be stationed there; but
+   additional Troops have been asked from New Zealand by this Government; and
+   I shall not fail to send you the additional force for your Government
+   whenever it is in my power. (84)
+
+Despite this apparent optimism the commencement of renewed conflict in New Zealand in 1863
+dampened such prospects -- New Zealand's wars far outweighed Queensland's right to a
+complete troop garrison. (85)
+
+On 14 August 1863 an official New Zealand Government party headed by the Native Minister,
+the Hon. Francis Dillon Bell, John Eldon Gorst, the Civil Commissioner for the Waikato, Colonel
+G.D. Pitt and Captain Rogers-Harrison of the New Zealand Militia, and other officials arrived in
+Sydney. This Government party came bearing a request for military aid for the consideration of
+the New South Wales Imperial and Colonial authorities. As a result an array of Australian
+Imperial and Colonial support in aid was set in motion. This extended from the `liberal' supply of
+quantities of Commissariat stores, artillery pieces, arms and ammunitions, `every facility' for the
+recruitment of Military Settlers which commenced in Sydney during August, as well as
+preparations for the despatch of the first contingent of Imperial troops to depart during 1863.
+(86) Shortly after this Sydney event, in Queensland on 19 August a telegram was reported
+having been received by the `head of the military department in Queensland' -- Captain Henry
+Dowdeswell Pitt, Royal Artillery. (87) This requested Captain Pitt to commence enrolling in
+
+Brisbane `as many volunteers as are willing to offer themselves for military service in New
+Zealand'. The Courier concluded by stating the `war is now assuming a serious aspect, and it is
+anticipated that a strong succession to the force at present there may be received from
+Queensland'. (88)
+
+On 1 September the Courier reported a communication received from Sydney to hold the
+Brisbane detachment of the 12th Regiment in readiness to proceed to New Zealand at short
+notice, the departure of which would depend on `news received by the next boat from New
+Zealand'. (89) On 7 September, Lieutenant D T Seymour, commanding Brisbane's small 12th
+Regiment garrison, laid before Governor Bowen a letter received from Brigadier-General Trevor
+Chute in Melbourne. This urged the `immediate Despatch to New Zealand of as many Officers
+and Men as can possibly be dispensed with'. In response to this request Bowen outlined
+Queensland's position:
+   The detachment in Queensland consists, as you are aware of only two
+   Officers and about forty five rank and file -- that is, of less than half
+   the contingent appointed for this Colony by the War Office; -- as you will
+   perceive from the correspondence of Major General ... Pratt ... in the
+   early part of 1862. Queensland is, of course, in a different position from
+   the older and more populous colonies of the Australian group. This young
+   community is necessarily as yet without the numerous and efficient
+   Volunteer Companies of Victoria and New South Wales; and it is felt that
+   even the present detachment is too weak to form the nucleus of, and to
+   supply drill instructors &c. for the local force which we are endeavouring
+   gradually to create.
+
+   However, after consultation with my Executive Council, I am under all the
+   circumstances of the case ready to concur in the immediate despatch of one
+   of the two Officers here, and all of the Men, with the exception of about
+   thirty (30) fit for duty. This is, I think, all that can be expected from
+   this Colony; the capital of which would be practically defenceless without
+   a guard of regular soldiers. (90)
+
+Bowen concluded by offering thoughts towards the Brisbane detachment being `restored to at
+least its present strength as soon as the exigencies of the New Zealand War' would permit such
+troop redistributions to occur. (91) The arrangements to send the available 12th Regiment troops
+was to take place immediately, but a telegram from the military authorities was received
+`directing the Officer Commanding the Troops at Brisbane to suspend all action until further
+orders'. Shortly after, further orders were received and Governor Bowen consented to Ensign
+Arthur Henry Brittain (92) proceeding to Sydney `taking with him every man that can possibly be
+spared'. Queensland's small Imperial contribution would comprise one officer and ten rank and
+file of the 12th Regiment. (93)
+
+On the eve of the departure of this portion of Brisbane's small Imperial contingent and the
+Military Settler volunteers the Courier asserted:
+   In a few days we shall witness the departure from our shores of a portion
+   of the small military force which the Imperial Government, in its wisdom,
+   has hereto considered necessary for our protection....
+
+   ... One thing is certain, that from the Colonies of Victoria, New South
+   Wales, and `little' Queensland, some fine manly corps could be selected.
+   (94)
+
+The steamer Clarence departed Brisbane without any public fanfare on 10 September, carrying
+eleven soldiers of the 12th Regiment, as well as thirty-five Brisbane enlisted Military Settler
+volunteers who upon arrival in Sydney on 12 September were immediately trans-shipped onto
+the Charlotte Andrews for conveyance to New Zealand. (95) The eleven Brisbane 12th
+Regiment personnel would wait in Sydney until 22 September when they too departed for New
+Zealand as part of the large contingent of reinforcements totalling fourteen officers and 274
+
+other ranks of the 12th Regiment who departed aboard HMS Curacoa. (96)
+
+With regard to Queensland's remaining 12th Regiment Detachment, it should not be forgotten
+that they also departed Brisbane for New Zealand service in late 1866. This took place with the
+arrival of a relief detachment of one company of the 50th Regiment on 14 October, direct from
+Auckland following the completion of that Regiment's war service. The Alice Cameron cleared
+Brisbane on 16 October for Sydney carrying `Captain Mair, (97) Dr M'Kane, seventeen men 12th
+Regiment, three women, and six children'. (98) Arriving in Sydney on 22 October, these former
+Brisbane 12th Regiment troops awaited the arrival of a small contingent of their Regiment from
+Tasmania, before embarking together for New Zealand to rejoin the main body of the Regiment
+aboard the Alice Cameron on 31 October. (99) Just prior to the arrival of the small Queensland
+and Tasmanian 12th Regiment detachments, those remaining elements of the 12th Regiment in
+Sydney, comprising three officers and 64 rank and file (and nine wives and 25 children) also
+departed for New Zealand aboard the Auckland on 17 October. (100) These former Queensland,
+Tasmanian, and New South Wales personnel landed at Tauranga in the Bay of Plenty where
+they were able to participate in the last operations where elements of the British Army undertook
+active field service. (101) Over December 1866 to February 1867, elements of the 12th
+Regiment assisted Colonial Forces including the 1st Waikato Military Settler Regiment on the
+East Coast in what became known as the Tauranga Bush Campaign. (102)
+
+Queensland and the Experience of the 50th Regiment Detachments, 1866-69
+
+The Alice Cameron arrived in Brisbane on 15 October 1866, direct from Auckland, New
+Zealand, bearing one Company of the 50th Regiment. This force comprised `Captain and Mrs.
+Creagh, (103) child, and servant, Lieutenant Rolleston, (104) Ensign Hunt, Assistant-surgeon
+M'Shane, 92 men, 5 women, [and] 12 children' of this Regiment, as well as `61 quarter-barrels
+ammunition' for the Officer Commanding at Brisbane. The steamer Kate brought these troops up
+the Brisbane River, landing them at Queen's Wharf from where they were marched to the
+Barracks at Petrie Terrace under the command of Captain Charles Augustine Fitzgerald Creagh.
+(105) These and other Companies of this Regiment arrived in their respective Australian
+garrisons after completion of New Zealand war service, the Sydney Morning Herald on 23
+October acknowledging in a detailed column upon the long and respected history of this
+Regiment -- `The Fiftieth or `Queen's Own' Regiment':
+   The return of this gallant regiment to the colony after the lapse of so
+   many years has no doubt awakened recollections of former times in the minds
+   of many whose colonial experience is large enough to extend to a quarter of
+   a century; and a former acquaintance with so distinguished a corps of Her
+   Majesty's army will invest its career during the term of absence with
+   considerable interest....
+
+   The head-quarters reached here on the 9th October [1866] ... with 350 men,
+   one company being at Brisbane. The rest of the regiment is to remain in the
+   Taranaki district, New Zealand. (106)
+
+This account related details of the 50th Regiment's first Australian tour of service during
+1834-40, during which elements participated in the 1834 rescue expedition to Taranaki. After
+Australian service the Regiment departed for Indian service during the 1840s and participated in
+the Crimean War in the 1850s. The Regiment then served six years in Ceylon before
+commencing war service in New Zealand in late 1863:
+   In this war little scope was found for the bold dashing charges of the
+   50th, the Maori enemy preferring desultory and retreating tactics, but
+   wherever the Maori would make a stand and dare a conflict the regiment did
+   good service. They were present at the storming of the important rebel
+   position Rangiawahia [20 February 1864], and General Cameron referring to
+   the affair in his depatch ... says, `I cannot too highly praise the
+   admirable conduct of the troops during the attack ... and the operations of
+   the following two days, but particularly that of the mounted artillery and
+
+   of the 50th Regiment under Colonel Weare.' Again at Nukumaru [24 and 25
+   January 1865 (107)] the regiment was engaged, and had two officers severely
+   wounded, and of the killed and wounded rank and file the number was
+   twenty-two. ... The last occasion on which they were actively engaged was
+   in the attack, by a detachment under Major[-General] Chute, on the strong
+   rebel position, Patahi [Te Putahi, 7 January 1866] ... (108)
+
+Brisbane's 50th detachment was therefore largely replete with veteran officers and men who
+apart from being revered by many colonial residents for their Imperial war experience, their
+presence was a major boost for the morale and training of the Colony's flagging volunteer
+movement.
+
+Of all the regimental detachments of the British Army to have served at Moreton Bay since
+1825, those of the 50th Regiment were to have the most significant influence not only upon the
+revival of the flagging Queensland Volunteer movement, but on Brisbane colonial society in
+general. Within the first month of their arrival Ensign Arthur Carew Hunt was appointed Adjutant
+to the Queensland Volunteers and Colour-Sergeant Robert Brady as drill and musketry
+instructor; both of whom were veterans fresh from the West Coast and Waikato campaigns in
+New Zealand. Whereas joint drills between the previous detachment of the 12th Regiment and
+the Queensland Volunteers had been relatively infrequent affairs, Ensign Hunt and his
+successor to this position, Lieutenant Robert Smart MacGregor, (109) ensured they were a
+matter of routine. These officers even added the exciting public spectacle of `sham fights' with
+the detachment of the 50th Regiment and members of the Queensland Volunteer Rifles
+opposing each other in open skirmishing order. (110) The zeal and dedication of these officers
+and NCOs imparted a flesh vigour into the local Volunteer movement. And it is not surprising
+that these local defence forces were not only brought up to a standard comparable with the
+other Australian colonies, but the foundations of stable permanency and professionalism within
+the colonial Volunteer Force were firmly established. Similarly, the flagging Queensland Rifle
+Association whose fortunes were inextricably linked with the Volunteer movement also received
+full support from the officers of the 50th Regiment and regular shooting matches between these
+two bodies were arranged, and often with substantial prizes awarded.
+
+While such shooting matches became significant events in Brisbane's social calendar with
+scores recorded in detail by the Brisbane Courier, the role of the 50th Regiment in colonial
+Queensland society extended far beyond military activities and a series of sporting activities also
+provided some distraction from otherwise quiet garrison duties. Within two months of their
+arrival, soldiers on the 50th Regiment began to prepare their own cricket pitch and soon issued
+challenges to the volunteer fare brigade, the Queensland Volunteer Artillery and the Volunteer
+Rifles. (111) By 1868 the 50th had formed their own football team to compete with the newly
+formed Brisbane Football Club (with the former soundly thrashed). (112) The interaction of
+Brisbane's 50th Regiment detachment with the society, of which it now formed part, took on
+greater intimacy with the relief of Captain Creagh's force by a second detachment. (113) This
+second detachment arrived under Captain Thomas Millard Benton Eden (114) in February 1868
+accompanied by Lieutenant MacGregor and Ensign James `Bloomfield' (although his name was
+in fact Bromfield he was only ever referred to by this misspelling). (115)
+
+Although as early as December 1866 soldiers of the 50th had arranged a Christmas concert,
+such amateur dramatic performances now assumed a philanthropic role. A series of fired-raising
+efforts for the Brisbane Orphan School were financially successful in spite of the `very
+amateurish acting' as reported by the Brisbane Courier. (116) To these acts of social
+benevolence can be added the role played the Captain Creagh and his detachment in
+extinguishing a fire within the central business district and the spectacle of a public `military fete'
+wherein Colour-Sergeant Brady demonstrated his considerable dexterity with the bayonet and
+broadsword. (117)
+
+Similarly, as with the detachment of the 12th Regiment they relieved, the 50th Regiment
+
+provided an impressive spectacle for ceremonial occasions such as the opening of Parliament,
+sombre funeral processions and, had it not been for an unexpected deluge, Governor Bowen's
+farewell parade. (118) However the most significant of such ceremonial events was surely the
+visit by His Royal Highness the Duke of Edinburgh to Brisbane in February 1868 for which
+planning and preparation among the detachment of the 50th as well as the Queensland
+Volunteers had commenced as early as September 1867. The Australian Steamship and
+Navigation Company had offered to convey the band of the 50th from Sydney to Brisbane for
+the occasion although this resulted in some grumbling in the press over the lack of attention the
+band of the Queensland Volunteers had received. (119) The guns of the Queensland Volunteer
+Artillery were cleaned and polished by soldiers of the 50th as had men of the 12th Regiment
+before them had done and probably for the same reasons. (120) Ensign Hunt took careful
+management for the royal visit by personally meeting with and drilling both the Brisbane and
+Ipswich Volunteer companies of Rifles and Artillery as well as ensuring that the detachment of
+the 50th Regiment was resplendent in their scarlet tunics and pipe-clayed belts. (121) The final
+official engagement of the 50th Regiment at Brisbane was to form a guard of honour in
+November 1868 to welcome Governor Bowen's replacement Governor Samuel Wensley Blackall
+who had himself served in the British Army as well as the Irish militia. (122)
+
+While the service of the 50th Regiment's Brisbane detachments demonstrated a high level of
+social involvement they were still plagued by the same problem of desertion which had faced the
+12th Regiment. Of all the soldiers forming both detachments of the 50th Regiment posted to
+Brisbane, 12% (roughly one in eight soldiers) had deserted while 20% had been charged with
+the lesser offence of being absent without leave during the tour of Brisbane. (123) There had
+also been a few minor incidents involving Private John White being arrested for burglary and
+Private Charles Iscon (given as Ison in the Courier) for assaulting police but compared to
+previous detachments posted to Moreton Bay they were considered well behaved. (124) As the
+date of their departure neared in March 1869 the Brisbane Courier gave a somewhat guarded
+editorial assessment of their service in Brisbane:
+   The soldiers of the 50th at present stationed in Brisbane have, on the
+   whole, behaved themselves in an orderly and decent manner while they have
+   been amongst us -- very much better than the detachment of the same
+   regiment whose place they supplied. They will be leaving in a few days for
+   England, and it would be a pity for anything to happen in the meantime
+   which would tend in the least degree to lower them in the estimation of the
+   public. There is some danger of this, however, unless the officers insist
+   upon a stricter observance of discipline by the men during the remainder of
+   their stay. No doubt there are a few reckless spirits among the `rank and
+   file' who would be very content to leave the service and stay in the
+   colony, and who would not mind a month or two's imprisonment in order to
+   secure this object. It would seem as though something of the kind had been
+   decided upon by some of the men, for yesterday we had complaints from
+   residents in one of the streets leading from George Street to North Quay of
+   a rather determined attempt, on the part of two or three soldiers, to
+   forcibly enter private houses, at 3 o'clock in the morning, for some
+   purpose or other, and it could hardly be an honest one. We trust that the
+   officer at the barracks will take the hint, and keep the men under more
+   strict surveillance during the remainder of their stay. (125)
+
+The 50th Regiment Military Guard and the St Helena Penal Establishment, 1867-69
+
+One aspect of the service of the Brisbane 50th Regiment Garrison rarely acknowledged was
+utilisation of elements of the available personnel as a Military Guard during the construction and
+initial years of operation of Her Majesty's St Helena Penal Establishment in Moreton Bay,
+1867-69. Although the surviving documentation is not clear, the soldiers who made up the
+Military Guard appear to have been regularly rotated with the rest of the garrison in Brisbane.
+The numbers of soldiers involved in this Military Guard are not clear, though figures sometimes
+referred to range from eleven to sixteen (including a Non-commissioned Officer in charge).
+Again the surviving records do not make it clear how long such soldiers served on St Helena,
+but it does appear each Military Guard detachment served at least several weeks at a time
+before rotation with another incoming replacement detachment.
+
+Any analysis of the formative stages of the construction and development of the Penal
+Establishment on St Helena Island must also acknowledge the crucial involvement and
+management undertaken by the first Superintendent, John McDonald, who served in this
+capacity from 1867 until 1882. (126) John McDonald is a significant example of colonial
+Australian settlers whose prior British (or Honourable East India Company) military service was
+to prove highly marketable in obtaining employment in the Australasian colonies. In the colonial
+Queensland setting such former military personages can be widely found throughout the civil
+services such as the Police, Native Police (as Officers and NCOs), Prisons, Post and Telegraph
+Departments, the Volunteers, and other government services. Their former Imperial service
+generally guaranteed access and employment in a variety of such occupations -- for John
+McDonald this was to include the Queensland Police, Water Police, and then the Prison service.
+
+John McDonald, born in Nairn, Scotland (circa 1837), had joined the British Army and served in
+the 93rd (Sutherland) Highland Regiment. During this period he saw active service in the
+Crimean War (1854-56), for which he received the British Crimean War Medal with bars `Alma',
+`Balaclava', `Inkermann' and `Sebastopol'; as well as the Turkish Crimean War Medal. In
+correspondence in 1879, McDonald elaborated on his prior Army service and his rise from the
+ranks to commissioned officer:
+   I beg to point out that I know discipline in every shape from previous
+   training, having served ten years in the 93rd Sutherland Highlanders, as
+   private, non-commissioned and subsequently commissioned officer ... on the
+   staff of Lord Raglan, and since then held appointments in the Queensland
+   service for nineteen years ... (127)
+
+In some official 1860s Queensland Govern-ment publications there is reference to John
+McDonald's first date of appointment in the civil service (either under the Government of New
+South Wales or Queensland) as 26 February 1861. It is unknown what position this actually was,
+but from his subsequent service in 1862 onwards, a police role would seem highly likely. On 15
+
+February 1862, John McDonald who was stated to be Acting Sergeant was promoted to rank of
+Sergeant, and Sergeant in Charge at the Brisbane Police Station. On 10 October 1862, John
+McDonald was appointed Inspector of Water Police for the Port of Moreton Bay. As Inspector of
+Water Police, John McDonald then obtained appointment as an Officer of Customs (`Coast
+Waiter') on 20 January 1863. After this McDonald became Keeper of the Hulk Proserpine (128)
+on 18 May 1864, and for which he was appointed Gaoler of this prison hulk on 1 June 1865.
+(129) In this transmission from Police, Water Police, to Gaoler of the prison hulk Proserpine,
+McDonald became intimately associated with the establishment of the Penal Establishment on
+St Helena Island during 1866-67. In assessing the initial stages of building and works on the
+island, the Colonial Architect relayed in early 1867:
+   Some eighteen prisoners had been employed on the Island of St Helena from
+   February 1866, first in the erection of a Lockup, and latterly in the
+   construction of the two buildings, under the supervision of a Foreman of
+   Carpenters, assisted by one freeman for the better joiner's work, the
+   prisoners passing backwards and forward to the Hulk `Proserpine' anchored
+   off Fisherman's Island, some four or five miles distant, until within the
+   last two months [November 1866], when the Hulk was removed to an anchorage
+   nearer the Island in order to allow the full compliment of prisoners to be
+   put to work at the new Convict depot, in finishing the buildings above
+   mentioned, clearing the scrub, and completing a jetty near the Lockup.
+   (130)
+
+John McDonald's importance in the works under way, and the control of the prisoners being
+employed, was confirmed by appointment as the first Superintendent of the Penal Establishment
+at St Helena on 14 May 1867. (131) Superintendent McDonald quickly established himself as an
+imposing disciplinarian presence on St Helena, a position he maintained until resigning on 4
+April 1882. (132) William Townley the second Superintendent at St Helena -- another former
+Imperial officer who had served in the Military Train, and later captain in the Queensland
+Volunteer Artillery (1875-77) -- was appointed to this position on 17 October 1883, though this
+appointment was backdated so as to take effect from 1 May. (133)
+
+The Colonial Architect's report dated 10 January 1867, indicates some building construction had
+already taken place on St Helena as the island was initially intended to become a Quarantine
+Station. With the `project of making St Helena a Quarantine Station being abandoned' these
+buildings were converted `into convict buildings' so as `to meet the demand for extra prison
+accommodation' when it was decided to instead use the St Helena for that purpose. (134) This
+report also included details on the pro-posed accommodation on the eastern side of the island of
+the Military Guard who were shortly expected to commence duties:
+   The prisoners are now engaged on these works and one of the buildings, that
+   on the West Side of the bluff, will be ready for the reception of about 60
+   prisoners in the course of a week ... but as it is the intention of the
+   Government to put a military guard over the prisoners on St Helena, and no
+   shelter being as yet available, the prison wards cannot be used until the
+   building on the East bank has been temporarily fitted up for the reception
+   of the guard, and this cannot be finished for some three or four weeks to
+   come, as the roof is not yet on the building, and the work being done by
+   prisoners, a longer time is required than if it were being done by free
+   men. (135)
+
+Following the receipt of approval of Governor Bowen, the role and duties of the Military Guard
+for St Helena on 14 May 1867 comprised:
+   The military guard stationed at St. Helena will be under the immediate
+   control of the NCO whose Duty it will be to co-operate with the
+   superintendant, and do all in his power to establish the security of the
+   prisoners by night and day, and maintain order and repress insubordination
+   on the part of such prisoners.
+
+The NCOs in command of the military guard will act under instructions having been submitted
+to, and approved by, His Excellency the Governor in Council. (136)
+
+To assist the Non-Commissioned Officers of the 50th who were placed in charge of this Military
+Guard, `Instructions' were also set out during November 1867 which elaborated upon their
+duties while stationed at the St Helena Penal establishment:
+   1. The Non-Commissioned Officer will be responsible for the conduct of the
+   men, under his charge.
+
+   2. He will see that all Standing Orders and other Instructions which may be
+   issued from time to time, are strictly and promptly executed, and shall
+   duly report any neglect of the same.
+
+   3. It is not desirous to lay down any precise course of conduct for the
+   Non-Commissioned Officer, or to say how much of his time should be occupied
+   in the actual performance of his duties, but he will at all times
+   co-operate with the Superintendent and render every assistance in his power
+   for the maintenance of good order and the general security of the
+   prisoners.
+
+   4. He will feel the importance of making occasional visits to the Sentries,
+   seeing that they are on the alert and attending to their duty.
+
+   5. He will inspect every sentry before turning him out on duty, see that he
+   is perfectly sober, clean, correctly dressed, armed and accoutred that his
+   rifle is loaded and capped, and that he is supplied with ten rounds of
+   ammunition and a proportionate number of caps, all of which must be in good
+   condition. He will then march them to their respective posts, and see that
+   the Sentries on numbers One, Two and Three posts do duty with fixed
+   bayonets.
+
+   He will attend at every muster of the prisoners with the proper number of
+   Sentries requited for duty. Station them at their respective posts, and see
+   that each Sentry fully understand the instructions relating to his post.
+
+   He will see that the Sentry for number `Three' post is on duty at the time
+   the prisoners are released from their Cells in the morning, and that he
+   does not leave it until after the hoisting of the `All right' signal at
+   night.
+
+   He will understand that `Night Duty' is from the time the prisoners are
+   locked up in the evening until they are released in the morning and will
+   post his Sentries accordingly.
+
+   Day Posts
+
+   No.1. is in front of the Prison Buildings
+
+   No.2. is at the south-east corner of the Yard to command a view of the
+south and east angles.
+
+   Night Posts
+
+   No.1. is in front of the Prison Buildings including the ends.
+
+   No.2. is at the back of the Prison Buildings within the Yards including the
+   Hospital and Cook House.
+
+   No.3. Day Post only -- is at the Stone Quarry on the beach, to command a
+   view of all the south end of the Island and a portion of the West Side.
+   (137)
+
+Apart from the instructions for use by NCOs, the Privates of the 50th who would serve as part of
+the Military Guard were also provided with lengthy and detailed `General Instructions' for their
+
+guidance. (138)
+
+The formalisation of procedures and instructions for both NCOs and Privates serving in the
+Military Guard appear to have been at least partially instituted following complaints by
+Superintendent John McDonald about the manner these Soldiers were carrying out their tasks to
+the perceived detriment of operations of the Penal Establishment.
+
+On 31 October 1867, McDonald outlined to the Colonial Secretary:
+   I have ... [found] fault on several occasions with the manner in which some
+   of the military guard performed their Duties ... and more especially when
+   on the points of landing. That orders on that post, or part of the orders
+   is not to allow any person to land without the written order of the
+   Colonial Secretary or Visiting Justice. But some of the military do not pay
+   the slightest attention to the above order and their attention has been
+   especially called to the part of their orders by the NCO in charge of the
+   guard.
+
+   On several occasions persons have been allowed to land from the steamer
+   `Kate' without the sentries demanding their authority and allowed to pass
+   to the prison, the consequence is that anything might be passed to the
+   prisoners at work all over the island. It is necessary that the above order
+   should be strictly carried out; there is another matter I should bring
+   before your notice, viz, of sending Lance Corporals in charge of the guard
+   who do not appear to have the least control over their men which is not the
+   case with a full Sergeant or full Corporal. I think if the matter was
+   brought before the notice of the Capt. Commanding the troops, that he would
+   cause the duties to be more satisfactorily performed in future. (139)
+
+Shortly after McDonald again followed up his concerns with another complaint about the
+behaviour of the Guard in December 1867:
+   I had to complain to the visiting justice of the careless manner in which
+   the military guard perform their duties. [This?] month I found soldiers
+   while on guard talking with prisoners, and on one occasion I found one of
+   them sitting down reading a book while on prison guard, there seems to be a
+   great lack of discipline amongst the guard, as a rule, I have reason to
+   believe that the guard conveys letters to and from prisoners on the island,
+   and the prisoners are kept as well informed of all passing events as if
+   they were in Brisbane Gaol! While such conduct amongst the guard which I
+   have to depend so much upon, is allowed to be carried on, what confidence
+   can be placed in them, there are some of the men trustworthy but, very few
+   of them can be trusted out of sight with prisoners, I have on several
+   occasions reported the men to the NCO in charge who very often is a
+   L/Corporal who has little or no control over their men, if there is not
+   soon a change for the better in the conduct of the military guard it will
+   be quite impossible for me to carry out that order and discipline that
+   should be carried out on the island. (140)
+
+Correspondence in January 1868 indicates that Superintendent McDonald made a specific
+charge of `negligence of duty' against a Private Poynter, one of the Military Guard who had just
+been released from duty on St Helena. Captain Eden, 50th Regiment, Commanding the Troops,
+informed the Colonial Secretary he had `in accordance with the desire of the Visiting Justice'
+taken action in the matter, though countering that this was only carried out as far as `the
+conflicting evidence I have gathered will permit'. (141)
+
+On 1 February 1868, Superintendent McDonald reported to the Colonial Secretary that the
+`large prison building' under construction was expected to be completed by the end of March.
+Once this building was ready this would allow for the accommodation for 150 prisoners on St
+Helena. McDonald again used this forum of his regular report as an opportunity to again
+complain about the Military Guard, suggesting in the process, Warders be used to replace them:
+
+   If the prisoners are increased to the above number the number of warders
+   will also have to increase, there ought to be one warder for every ten ...
+   prisoners together with the military guard as at present established on the
+   island. I would recommend that three warders be substituted for the
+   military guard. The guard is of no service in charge of prisoners at work
+   as they do not take the slightest interest, and pay little or no attention
+   the orders I give them; and as a rule they make free with the prisoners, so
+   that it is impossible to carry out the same discipline that could be
+   carried out with warders. (142)
+
+In defence of the conduct of the soldiers of the 50th Regiment, their use as prison guards was
+definitely a role Imperial troops were not generally use to, or expected to undertake in the latter
+1860s. Nor was it a task for which Imperial soldiers would derive any satisfaction or sense of
+military purpose, though of course Imperial forces in Australia had often been used to assist the
+civil power in times of perceived or real crisis. The soldiers of the Military Guard were for all
+intents and purposes, as isolated on St Helena as the prisoners they were expected to guard.
+Being selected to make up the personnel for mounting this Military Guard no doubt was highly
+unpopular within the ranks of Brisbane's 50th garrison. Those men selected had to contend with
+not only the isolation but also the strict regime of the prison administration and operation. When
+combined with general dissatisfaction at their placement, some of these soldiers quite naturally
+adversely reacted to their surrounds and duties -- earning in the process the ire of
+Superintendent McDonald. The soldiers who made up this small Military Guard also quickly
+found that life on St Helena was a far cry from the facilities, opportunities and pleasures garrison
+life in Brisbane offered. Certainly if McDonald regarded the detachment of the 50th posted to St
+Helena as ill disciplined, this poor behaviour was not evident in their comrades stationed in
+Brisbane; a fact which reflects more on McDonald and the penal duties on St Helena than of the
+men of the 50th themselves.
+
+For those soldiers who were tasked with service on St Helena -- they too had complaints of their
+own regarding the conditions of their accommodation and the rations they were expected to
+tolerate. On 3 March 1868, Lieutenant MacGregor, 50th Regiment, temporarily `Commanding
+Troops', wrote to the Queensland Colonial Secretary about certain grievances of the men who
+had served in the Military Guard detachment:
+   I have the honour to bring to your notice the aged and dirty state of the
+   beds provided for the military guard at St. Helena, and beg to request that
+   you will cause the proper authorities to provide new ones at once. There
+   being no change of beds, or bedcovers, nor means of [?] them I am unable to
+   cast any blame on the soldiers of the guard.
+
+   I have also to request your attention to the inferior quality of the tea
+   ration which is far below that required by the ordinary Commissariat
+   contract. (143)
+
+On 17 June 1868, Captain Eden, the officer now commanding the 50th Regiment detachment in
+Brisbane, in a detailed correspondence, also brought a variety of complaints of the men of the
+Military Guard before the Colonial Secretary.
+   With a view to its receiving your early attention I ... bring to your
+   notice that the Detachment 50th Regt, last returned from St. Helena ... on
+   the 8th Inst. complain in a body of the inferior quality of the rations
+   issued to them at that station. I understand them to say among other things
+   that for the space of their days they had no Bread whatever, and that no
+   potatoes were issued to them for, I think, a period of eight days. I am
+   informed that in the first case a certain quantity of some description of
+   flour was presented to them, in place of Bread with a suggestion that they
+   could make their own ... The scale for the Issue of Rations to the Troops
+   at St Helena, if I remember right, was authorized by yourself, and provides
+   for a daily portion of bread and potatoes for the soldiers.
+
+   I also ... bring to your notice a pretty general complaint from the
+
+   soldiers (and noncomd. Officers in charge) that have of late been stationed
+   at St Helena regarding Mr. Turnkey Hamilton, who, by the way, I understand
+   to be the Issuer above alluded to -- his manner to them they designate as
+   most irritating and annoying ...
+
+   I can quite believe this complaint to be exaggerated by irritation, still,
+   judging from the well known character of many of my informants, I am
+   convinced that it contains sufficient grounds to warrant ... the attention
+   you may find it to deserve. (144)
+
+In this Captain Eden also confirms visiting St Helena on a number of occasions, during which he
+naturally would have inspected the accommodation, duties and procedures of the Military Guard
+at this penal station. Other complaints raised by the men were of offensive language or manner
+of the Chief Warder, James Hamilton, towards them; `the total, or partial absence of Sentry
+Boxes' for the protection of sentries during inclement weather; and `great complaints concerning
+an offensive cesspool' located near one guard post. But it was the actual duties that these
+soldiers were expected to perform, and the numbers of men from the Military Guard used as
+sentries at any one time that was also of concern to Captain Eden:
+   ... the fact that they are a great deal to arms, and, as I rather think,
+   not sanctioned by the `Queens Regulations'. With respect to this I
+   mentioned my objection to Mr Superintendent Macdonald, stating I could not
+   allow the use of five sentries from a guard of but eleven effective men. My
+   objection appears to have had no use yet with him, for I have ascertained
+   that he regards the military Regulations, as expressed through me, with no
+   attention whatever, and still continues to employ more sentries than the
+   Guard can properly furnish. (145)
+
+This correspondence, combined with McDonald's incessant complaints, shows that there existed
+a considerable conflict of authority and purpose between the Imperial and Colonial authorities
+that played a role in the operations on St Helena in this initial establishment phase. Similarly, a
+clash of egos was also no doubt at play, where any questioning of the manner in which
+Superintendent McDonald operated his prison fiefdom, received strong rebuke, as it did when
+criticisms were levelled at the Military Guard, so did Imperial Officers react in defence of their
+men.
+
+Of course another aspect to the role of the Military Guard on St Helena was the unenviable
+position in which soldiers might at any time find themselves called upon the fire on prisoners.
+Such a situation was a glaring potential conflict between Army and civil jurisdiction, as it was
+liability in case of death or injury that might be inflicted by a soldier. Such a situation was a
+glaring potential conflict between military and civil jurisdiction since whatever action a soldier
+took in performing his duty which may have resulted in the death or injury of a prisoner did not
+exempt him from prosecution under either codes of law. In June 1868, Captain Eden requested
+through Visiting Justice Barron, that the `instructions for the guidance of the Military Guard' be
+amended by the Government so as to provide more detail than those already in use on St
+Helena. After receiving the Government's response, Captain Eden replied on 16 June:
+   I believe it to be necessary, before these instructions can be put in
+   force, that some addition to them should be made, that shall regard the
+   necessity for using the loaded Rifles put into the soldiers hands, and
+   explicitly set down when, and from whom an order to fire on a `prisoner'
+   shall be considered valid, and an exemption from any ulterior consequences
+   that might arise out of such as act, the result of which was the wounding
+   or death of a Prisoner. I am convinced that some rule providing for an
+   emergency of this sort should be laid down and thus tend towards the
+   greater efficiency of the St Helena Detachment.
+
+   Rule No.11, of `General Instructions' only forbids the discharge of a Rifle
+   without the Superintendents sanction with a view to prevent any false
+   alarm, and, consequently, denies the Soldier that means of giving warning
+   when a real alarm is necessary, which, it is to be presumed, may occur
+
+   [soon?] at St. Helena. (146)
+
+Captain Eden concluded with the hope the Government would give this their immediate attention
+so he could implement these `revised instructions into force' the following week.
+
+Despite the ongoing simmering antagonism between Superintendent McDonald and the soldiers
+who were employed as part of St Helena's Military Guard detachment during 1867-69, these
+Imperial troops nonetheless played an important temporary prison staffing role while the penal
+establishment was being constructed. (147) The prison stockade was not finished until 1868,
+during which time these soldiers were especially important for mounting guards over the various
+prisoner work gangs and manning strategic posts on the island. Amongst the findings of the
+1869 Select Committee into expenditure and management on St Helena, exists a breakdown of
+the annual costs involved with the Military Guard:
+   Original payment, by Government, for fifteen privates and one
+   non-commissioned officer--in all sixteen men--at 40 [pounds sterling] per
+   annum: Total = 640 [pounds sterling] 0s. 0d.
+
+   Extra allowance to fifteen privates for acting as a penal guard, at 1s. per
+diem:
+
+      Total = 273 [pounds sterling] 15s. 0d.
+
+      Extra allowance to one non-commissioned officer, for penal guard, at 2s.
+      6d. per diem: Total = 45 [pounds sterling] 12s. 6d.
+
+      Total Cost of the `extra allowances' for the 15 privates and 1 NCO: =
+      319 [pounds sterling] 7s. 6d. Rations for sixteen men, as above, at 10
+      [pounds sterling] Ss. 4d. each per annum: = 164 [pounds sterling] 5s.
+      4d. Total cost for military guard = 1,123 [pounds sterling] 12s. 10d.
+      (148)
+
+Despite the fact that these Imperial soldiers were initially utilised in this prison guard role
+because of the parsimonious stance of the Queensland Colonial Government, they nonetheless
+carried out their duties effectively, despite the problems associated, and in the process added a
+`scarlet' (149) page to St Helena's history.
+
+The Departure of the Last Imperial Garrison in Moreton Bay, March 1869
+
+Queensland experienced the garrison service of elements of the 50th Regiment until ordered to
+rejoin the main body of the Regiment for departure for England in 1869. The 50th detachment
+subsequently embarked aboard the troopship Himalaya on 10 March, departing Moreton Bay on
+11 March. (150) The Courier relayed an account of the 50th detachment's final `inglorious'
+moments in Brisbane, including the removal of the last Military Guard at the St Helena Penal
+Establishment on 10 March:
+   The company of the Queen's Own 50th Regiment ... embarked yesterday aboard
+   the Himalaya, which is now lying in Brisbane Roads. The [steamer] Kate ...
+   left town early in the forenoon for the penal station at St. Helena, with a
+   party of police to relieve the military guard there. The soldiers, sixteen
+   in number, were then taken on board the Kate, and conveyed to the Himalaya.
+   The soldiers in town, sixty-four in number (nearly all of whom seemed
+   intoxicated), with their officers, Captain Eden, Lieutenant Macgregor, and
+   Ensign Bromfield, were taken to the ship in the A.S.N. Co.'s Diamantina,
+   which was chartered for the purpose of conveying the troops to the
+   transport. On the way down the river an incident occurred which for the
+   moment created some little excitement. Just as the steamer got abreast of
+   the Custom House one of the privates, who appeared loth [sic] to leave
+   Brisbane, suddenly jumped overboard with the intention of swimming
+   ashore.... he was picked up immediately, with no further hurt than a good
+   ducking. He made some resistance to getting into the steamer ... Finally,
+   however, he was taken on board, where he was secured in a manner that
+
+   prevented his getting into further mischief. The Diamantina having
+   transhipped the men to the Himalaya, returned to town ... It was expected
+   that she would bring up the company of the 18th Royal Irish but there were
+   no troops on board for Brisbane. (151)
+
+The departure of the 50th Regiment Detachment from Brisbane did not as it turned out, see the
+arrival of a replacement detachment from the 2nd Battalion 18th (Royal Irish) Regiment, the last
+Regiment of the Line to serve in Australia. This is despite being contemporarily reported as
+expected, and even as arriving in Moreton Bay. (152)
+
+The detachment of 50th Regiment was in fact the last Imperial force to be stationed in Moreton
+Bay, though individual Army and Navy officers were to continue to see service in Queensland on
+secondment. (153) The Courier on 12 March 1869 pointed out:
+   This colony is for the present without soldiers, as the detachment of the
+   50th Regiment recently stationed here left ... and the company of the 18th,
+   which was to have taken their place, was, for some cause or other, not
+   allowed to leave New Zealand. So far from regarding this as a misfortune,
+   we are disposed to look upon it with the utmost complacency, and would even
+   go as far as to suggest to the Government the desirability of seriously
+   considering the propriety of getting along for the future without any
+   military. (154)
+
+The delay in the 18th Regiment departing for Australian garrisons was actually as a result of the
+renewed conflict that had broken on both the West and East Coasts of the North Island of New
+Zealand during 1868 into early 1869. On 9 January 1869, a military party consisting of Major-
+General Sir Trevor Chute and Colonel Hyde Page left Melbourne for New Zealand, via Sydney
+aboard the steam ship Hero. (155) Despite the fact that Major-General Chute's visit was
+reported as a routine inspection of the British regular troops in New Zealand, it was also an
+obvious opportunity for the most senior Imperial officer in Australasia to judge first-hand the
+seriousness of the situation in that Colony. Chute's decision to temporarily delay the removal of
+the 18th Regiment then stationed in New Zealand, was later reported as having had a beneficial
+effect on public affairs of this Colony, where the reassuring presence of `redcoats' bolstered
+morale in threatened townships such as Wanganui. (156)
+
+Apart from New Zealand yet again having an impact on the availability of Imperial military forces
+for Queensland and the other Australian Colonies, Queensland in 1869 made a financial and
+political decision whereby it refused the Company of the 2/18th Regiment that was to be
+allocated. Correspondence from Army Headquarters in Melbourne, in June 1869, on the
+distribution of troops with the 2/14th Regiment being ordered to England, and the 2/18th
+Regiment in the process of departing New Zealand, confirmed that the `Government of
+Queensland ... [was] not desiring the presence of Imperial Troops'. Tasmania instead was in turn
+to be provided with two Companies instead of one initially planned. (157) Queensland's refusal
+of this Company of the 18th Regiment -- a far cry from the early 1860s when despite Governor
+Bowen's repeated correspondence, he was never able to achieve adequate troop numbers --
+signalled the end of Queensland's Imperial presence. In 1870 the last of the remaining British
+Army detachments were withdrawn from the Australian colonies and many contemporaries saw
+this not only as the end of an era, but not unlike the withdrawal of Rome's legions from Britain
+with the same sense of trepidation for the future. Yet this fear was greatly off-set by two
+comforting facts, that the Royal Navy maintained its presence in Australian waters until 1913,
+and that the Australian colonies, and subsequently the new Commonwealth, now had its own
+well established defence forces -- an enduring legacy of the British Army.
+
+(1) Jeff Hopkins-Weise and Rod Pratt are both currently completing their respective History PhD
+theses which each deal with aspects of the history of the British Army in Australasia. Jeff's
+research thesis is on Australian Involvement in the New Zealand Wars of the 1840s and 1860s',
+and Rod's is 'The British Army at Moreton Bay, 1824-1869'. Both have co-authored a book
+manuscript entitled: Brisbane's 50th (Queen's Own) Regiment Detachments, 1866-69: & the
+
+Saint Helena Penal Establishment Military Guard, which is soon to be published in 2001.
+
+(2) For the case of The Sudan Contingent from NSW in 1885 one should study Donald C
+Gordon, The Dominion Partnership in the Imperial Defence 1870-1914. Published by The John
+Hopkins Press, Baltimore, USA in 1965. See Chapter 4 -- Colonial willingness to serve.
+
+(3) This central tenet of Earl Grey's policy is covered in greater depth in Earl Grey's The Colonial
+policy of Lord John Russell's administration, Vol. l (London, Richard Bentley, 1853); and Robert
+L Schuyler's, "The recall of the Legions -- a phase of the decentralization of the British Empire",
+American Historical Review, Vol 26, (1920), pp 18-36.
+
+(4) CO 234/1, Bowen to Newcastle, 4 April 1860. Public Record Office (London) [hereafter
+abbreviated PRO].
+
+(5) Interested readers are referred to Duncan Anderson's, "Sir George Bowen and the Problems
+of Queensland's Defence, 1859-1868", Queensland Heritage, Vol 2, No 3, (Nov 1970), pp 32-38.
+
+(6) The term `Australasia' used throughout this analysis represents the broad social, economic,
+and geographical 19th century region comprising Australia and New Zealand. This is carried out
+in terms of placement within an Empire history framework, as well as acknowledgment of the
+shared colonial experience. It is recognised by these authors that in New Zealand today the
+term is rarely used because of its negative connotations of over emphasis of the Australian
+component, to the almost total exclusion of the New Zealand element in its usage.
+
+(7) P Burroughs, "Imperial Defence and the Victorian Army", The Journal of Imperial and
+Commonwealth History, Vol 15, No 1, (Oct 1986), p 58.
+
+(8) Ibid, p 63. In this theme Burroughs makes specific mention of the contributions of the Royal
+Engineers `to improved communications in the empire through exploration, surveying and
+mapping, as well as the building of railways and canals', and for which has yet to receive proper
+due historiographical acknowledgment (refer to p 61).
+
+(9) For examples of such histories, refer to: D H Johnson, Volunteers at Heart: The Queensland
+Defence Forces, 1860-1901 (St Lucia, Qld: University of Queensland Press, 1975); Ivan Bates,
+Queensland Mounted Units, 1860-1940 (Brisbane: Victoria Barracks Historical Society, Inc,
+1988), and his Commanders of Queensland Mounted Units, 1860-1940 (Brisbane: Victoria
+Barracks Historical Society, Inc, 1990); James Grant Ritchie, Officers of the Western Australian
+Defence Force. 1861-1901 (Swanbourne: John Burridge Military Antiques, 1988), and his From
+captains to colonels: a photographic account of the development of the Western Australian
+Defence Force from 1861 to 1901 (Swanbourne: John Burridge Military Antiques, 1991); D M
+Wyatt, A lion in the colony: an historical outline of the Tasmanian colonial volunteer military
+forces, 1859-1901 (Hobart: Anglesea Barracks, 1990); Andrew & Sandra Twining, South
+Australian military volunteers for 1855 (Kogarah, NSW: the authors, 1992); A F Harris, South
+Australian Military Forces (Adelaide: the author, 1996); G F Ward, Victorian Land forces,
+1853-1883 (Melbourne: the author, 1989); Bob Nicholls, The colonial Volunteers: the defence
+forces of the Australian colonies, 1836-1901 (Sydney: Allen & Unwin, 1988); Craig Wilcox, For
+heaths and homes: citizen soldiering in Australia, 1854-1945 (St Leonards, NSW: Allen &
+Unwin, 1998); Robert Darlington, Sudan to Vietnam (Drumoyne, NSW: Shakespeare Head
+Press, 1987).
+
+(10) Examples of Australian enlistees into the 12th Regiment include: William Barrett (born
+London, Middlesex), Private, No 722, enlisted Sydney, NSW, 2 July 1860, and deserted from
+Brisbane Detachment of the 12th Regt, 14 May 1861. Archibald Devine (born Plymouth,
+England), Private, No.836, enlisted 17 February 1862, Sydney, NSW, and deserted from
+Brisbane Detachment of the 12th Regt, 20 February 1863. Edward C Prince (born Alexandria,
+Sydney, NSW), No.253, enlisted Sydney, NSW, 4 March 1859, and deserted at Pokeno, New
+
+Zealand, 26 May 1862. Robert Graham. (born Ireland), Corporal, No 1074, enlisted NSW, 27
+August 1863, and discharged in New Zealand, 20 April 1867. The Queensland Government
+Gazette, Vol.III, No 52, 28 June 1862, p 305; Queensland Police Gazette, Vol 1, No 2, 3 August
+1864, p 7; Rod Pratt, Nominal Rolls of the 12th & 50th Regiment Detachments in Queensland,
+1860s (Rolls compiled from ongoing PhD research into `The British Army at Moreton Bay,
+1824-1869'); R Sexton, The Deserters: A Complete Record of Military and Naval Deserters in
+Australia and New Zealand 1800-65 (Magill: Australasian Maritime Historical Society, 1985), pp
+56 & 70; and H & L Hughes, Discharged in New Zealand: Soldiers of the Imperial Foot
+Regiments who took their Discharge in New Zealand: 1840-1870 (Auckland: The New Zealand
+Society of Genealogists, 1988), p 13.
+
+(11) Interested readers are referred to Hugh Cunningham's, The Volunteer Force, a social and
+political history 1859-1908 (Hamden [Connecticut]: Archon Books, 1975), and Glenn A
+Steepler's, Britons, to arms!: The story of the British Volunteer soldier and the Volunteer
+Tradition in Leicestershire and Rutland (Gloucestershire: Budding Books, 1997).
+
+(12) The 70th Regiment of Foot served in New Zealand during 1861-66. For details of this
+regiment's service in these campaigns (including reference to Captain D M Fraser on p.324),
+refer to: H W Pearse, History of the 31st Foot Huntingdonshire Regt [&] 70th Foot Surrey Regt
+Subsequently 1st & 2nd Battalions The East Surrey Regiment: Vol. 1. 1702-1914 (London:
+Spottiswoode, Ballantyne & Co. Ltd., 1916), pp.321-334.
+
+(13) For history of the service of the 80th Regiment in Australia and New Zealand, refer to:
+James P Jones, A History of the South Staffordshire Regiment: (1705-1923.) (Wolverhampton:
+Whitehead Brothers Ltd, 1923); W L Vale, History of the South Staffordshire Regiment
+(Aldershot, Great Britain: Gale & Polden, 1969); and J Bryant Haigh, "The 80th Foot in New
+Zealand". Bulletin of the Military Historical Society, Vol 26, (1976), pp 79-83.
+
+(14) Donald Maclean Fraser, Captain 70th Regiment, who died in London on the 19th
+September, 1864, at the early age of thirty-six, was the youngest son of the late Captain Simon
+Fraser, of the 80th Regiment, who was killed while gallantly leading on his men at Ferozeshah
+[sic], in India.... leaving his widow, Mrs Frazer, of Liverpool, New South Wales-and five children
+on the plains of Umballs, within hearing of the cannon roar.... He served with the 80th Regiment
+in the Burmese war of 1852 and 1853 ... He also served in the suppression of the Indian Mutiny
+in 1858 ... [and] also during the New Zealand war. Captain D M Frazer was ... a most devoted
+son-devoting a great portion of his means towards assisting his fond and widowed mother, up to
+the time of his decease .... deeply regretted by his brother officers and a very large circle of
+friends in New South Wales, India, and England.' The Sydney Morning Herald, 16 December
+1864, p 4.
+
+(15) Refer to, Henry Marshall's On the enlisting, discharging and pensioning of soldiers with the
+official documents on these branches of military duty (Edinburgh: Adam & Charles Black, 1839).
+
+(16) A R Skelley, The Victorian Army at Home: The Recruitment and Terms and Conditions of
+the British Regular, 1859-1899 (London: Croom Helm Ltd., 1977), p 251; M. Barthorp, To Face
+the Daring Maoris: Soldiers' impressions of the First Maori War 1845-47 (London: Hodder and
+Stoughton, 1979), p 27; and Hew Strachan, Wellington's legacy: the reform of the British Army,
+1830-54 (Manchester University Press, 1984), pp 70-75.
+
+(17) J H Heaton, Australian Dictionary of Dates and Men of the Time: containing the History of
+Australasia from 1542 to May, 1879 (Sydney: George Robertson, 1879), p 139.
+
+(18) M Austin, "The First Australian `Digger': John Cox of the New South Wales Corps",
+Sabretache, Vol 27, No 1, (Jan-March 1986), p 13. Also refer to the following seminal works that
+have attempted to resurrect the history of the British Army in Australia: M Austin, The Army in
+Australia 1840-50: Prelude to the Golden Years (Canberra, ACT: Australian Government
+
+Publishing Service, 1979); and P Stanley, The Remote Garrison: The British Army in Australia
+1788-1870 (Kenthurst, NSW: Kangaroo Press, 1986).
+
+(19) Peter Stanley, "Heritage of Strangers: the Australian Army's British Legacy". Australian
+Defence Force Journal, No 87, (March/April 1991), p 24. For discussion of this experience in
+respect to the formation and development of New Zealand's colonial forces, refer to, Jeff
+Hopkins-Weise, "A History of the Colonial Defence Force (Cavalry): and the Australian Context".
+The Volunteers: The Journal of the New Zealand Military Historical Society, Vol 26, No 1, (July
+2000), pp 5-25.
+
+(20) Rod Pratt coined this phrase `inter-colonial fluidity' during a research discussion with Jeff
+Hopkins-Weise on this theme of cross-Tasman connections and the movements of serving or
+discharged British soldiers throughout Australasia, March 2000.
+
+(21) Examples of such occurrences can be witnessed in June 1866 when the Argus published
+information received from New Zealand where approximately seventy men of the 40th Regiment
+who had discharged in that Colony had left for Victoria for the purpose of settlement. The Argus
+concluded that "[t]hey are all men of excellent character", while also acknowledging that
+numbers of other discharged soldiers from this Regiment were also remaining in Auckland. The
+Argus, 27 June 1866, p 1. Presumably numbers from amongst this group of discharged 40th
+Regiment personnel were formerly members of the garrison stationed in Victoria, or those from
+Tasmania or South Australia up to 1863.
+
+(22) Other confirmed former Brisbane 12th Regt Detachment personnel who took discharges in
+New Zealand in 1867 are: No 514 Pre Thomas Allan (also as Allen), discharged 19 May 1867.
+No.150 Pte Henry Thurman, discharged 14 March 1867. No 263 Cpl/Pte Michael McMahon,
+discharged 14 March 1867. No 2915 Drummer John Hughes, discharged 26 Jan 1867. No 3540
+Pte John Milmoe, discharged 10 April 1867. No 59 Pte George Rowson, discharged 9 May
+1867, and No 35 Pte Edgar Woodard, discharged 20 April 1867. Further research may in fact
+show apart from Privates Clancy and Cahill, that others similarly made the return voyage to
+Queensland to settle after obtaining their discharges. A `Thomas Allen' was appointed as a
+Customs Officer in Townsville on 1 February 1873, but as yet unable to confirm whether this
+individual the same as former No 514 Pte Thomas Allen. Queensland: Blue Book for the Year
+1881; Compiled from Official Returns in the Registrar-General's Office (Brisbane: James C.
+Beal, Government Printer, 1882), p 49; Rod Pratt, Nominal Rolls of the 12th & 50th Regiment
+Detachments in Queensland, 1860s (Rolls compiled from ongoing PhD research into `The
+British Army at Moreton Bay, 1824-1869'); and H & L Hughes (1988), op cit, pp 12-15.
+
+(23) Pte Patrick Clancy (also as Clancey), Regimental No 3500, enlisted in the 12th Regiment
+as a `Volunteer from Limerick' on 22 January 1856. After arrival with a regimental draft that
+same year he served in Hobart and Launceston. In Launceston he met and married Mary
+Marinan on 16 December 1857, and thereafter served in NSW during 1858-62. On 23 July 1862,
+Clancy arrived in Brisbane with a detachment of thirteen rank and file of the Regiment and
+served in Queensland until October 1866 when all the 12th Brisbane Detachment was ordered
+to rejoin the Regiment in New Zealand, arriving in Auckland (via Sydney) on 12 November 1866.
+On 14 March 1867 he took his discharge and was given a 1 [pounds sterling] gratuity after 11
+years service with the Regiment. Clancy promptly returned to Brisbane and applied direct to his
+former Commanding Officer of the Brisbane 12th Regiment Detachment, Lieutenant D.T.
+Seymour, now Queensland's first Police Commissioner, to join the Police Force on 1 May 1867.
+Clancy was promptly appointed Constable (No.231) and served in this force until he was
+pensioned on 1 March 1888. Patrick died on 12 January 1899 and is buried in a family plot in
+Brisbane's Toowong Cemetery. A/38739 AF225: Queensland Police Service File: Patrick Clancy,
+Queensland State Archives; Oath Book: 14 March 1866 -31 December 1867 [No.375 Patrick
+Clancy, 4 May 1867], and Register of Members of the Police Force: 1856-1917, Queensland
+Police Museum; Queensland Police Gazette, Vol 4, No 6, 5 June 1867, p 39; and Genealogical
+
+history on Patrick Clancy, Private 12th Regiment Brisbane Detachment and New Zealand war
+veteran, and history of the Clancy (and associated Kiely) family of Queensland, courtesy of
+Jodie Healy (descendant, of Brighton, NSW) to Jeff Hopkins-Weise (Dec. 1997-July 1998).
+Patrick Clancy's NZ War Medal is in the research collection of Jeff Hopkins-Weise.
+
+(24) Pte Daniel Cahill, Regimental No 296, was born in Manchester and enlisted in the 12th
+Regiment on 3 August 1859, saw service in Queensland as a member of this Regiment's
+Brisbane Detachment before departing for NZ in October 1866. Cahill took his discharge in NZ
+on 14 March 1867, the same day as Patrick Clancy. Cahill possibly returned to Queensland in
+company with Clancy, where he also joined the Police Force on 8 May 1867. Cahill did not
+remain in the police long, and in April 1869 became a Letter Carrier at the Brisbane General
+Post Office. Another former 12th Regiment soldier, Benjamin Joyner, residing at Gladstone in
+1913, recalled both Cahill and another former 12th Regt soldier, William Craft, being employed
+in the Brisbane Post Office for many years. "The Old Burial Ground", The Brisbane Courier, 13
+October 1913, p 6; Oath Book: 14 March 1866 -- 31 December 1867 [No.378 Daniel Cahill, 13
+May 1867], Queensland Police Museum; Queensland: Blue Book for the Year 1869; Compiled
+from Official Returns in the Registrar-General's Office (Brisbane: James C Beal, Government
+Printer, 1870), p 48. No 3361, Private William Craft [also as Croft], 12th Regt, is a confirmed
+member of this Regiment's Brisbane Detachment 1864-65, and appears to have taken his
+discharge whilst in Queensland before the Detachment was ordered to New Zealand in October
+1866. Craft obtained appointment in the Brisbane General Post Office on I September 1866, and
+Government records indicate he served as a Letter Carrier for the Post Office in Brisbane,
+Mackay and Rockhampton from 1866 until as late as 1899-1900.
+
+(25) A/6810: Queensland Treasury, Imperial Pension Register, 1872-99. Queensland State
+Archives [hereafter abbreviated QSA].
+
+(26) The Moreton Bay Courier, 13 July 1850.
+
+(27) Petitions requesting troops for Brisbane's defence first began with the withdrawal of the
+99th Regiment in June and September 1848 and, upon hearing the 11th Regiment was to be
+withdrawn, another petition in January 1850. The Moreton Bay Courier, 22 July 1848, 2
+September 1848, and 5 January 1850.
+
+(28) CO234/3, Bowen to Newcastle, 6 August 1859. PRO.
+
+(29) CO234/1, Bowen to Newcastle, 4 April 1860. PRO.
+
+(30) The issue of having a `nucleus' of British regulars was by far Bowen's most frequent
+argument in requesting such a force and constitutes a major theme in thirteen despatches to the
+Colonial Secretary between 1859 and 1866.
+
+(31) CO 234/3, Lugard to Merivale, 29 August 1859. PRO.
+
+(32) The Brisbane Courier, 8 September 1860.
+
+(33) The Brisbane Courier, 15 January 1861.
+
+(34) The Brisbane Courier, 21 May 1864.
+
+(35) The Brisbane Courier, 25 May 1866.
+
+(36) The Brisbane Courier, 24 & 26 June 1862.
+
+(37) The Brisbane Courier. 25 June 1862.
+
+(38) The Brisbane Courier. 31 May 1866; & 27 November 1868.
+
+(39) The Brisbane Courier. 16 May 1861.
+
+(40) The Brisbane Courier. 3 October 1861.
+
+(41) The Brisbane Courier. 27 April 1862; & 20 August 1862.
+
+(42) The Brisbane Courier. 23 December 1863.
+
+(43) The Brisbane Courier. 17 September 1866.
+
+(44) The Brisbane Courier 16 October 1866.
+
+(45) The Brisbane Courier, 20 October 1866.
+
+(46) Major Edward Lewis Burrowes, Deputy Surveyor General Queensland, and late of 97th
+Regiment, died 24 January 1884, aged 74. His grave is at Toowong Cemetery, Brisbane.
+
+(47) Master purchased his ensigncy in the 58th Regiment on 22 November 1842 and was made
+lieutenant on 8 December 1847, which was the day after his brother, Lt. Charles Chester Master,
+was killed along with Lady Mary Fitzroy, Governor Sir Charles Fitzroy's wife, in a carriage
+accident.
+
+
+
+
+(48) The Brisbane Courier, 8 November 1860.
+
+(49) Gray was made a captain in the 95th Rifle Regiment on 6 May 1809; Major on 7 April 1814;
+and Brevet-Major on 21 January 1819.
+
+(50) Charles Arrowsmith Bernays, Queensland Politics during sixty years (1859 - 1919)
+(Brisbane: [s.n.], 1919), pp. 12-13.
+
+(51) A2.42 frame 444-449. Kent to Colonial Secretary, 25 August 1859. John Oxley Library
+[hereafter abbreviated JOL].
+
+(52) The Brisbane Courier, 15 September 1860; and 16 January 1864; and Queensland
+
+Government Gazette, 22 September 1860; and 14 March 1863.
+
+(53) An excellent account of these events is given in Peter Stanley's, The White Mutiny: British
+military culture in India, 1825-1875 (London: Hurst & Co., 1998).
+
+(54) WO22/297: Returns for Chelsea out-pensioners in Queensland, 1876-1880. PRO.
+
+(55) Edward Deshon was born on 3 January 1836, the son of Lt. Col. Charles John Deshon, late
+17th Regt. He was educated at Bath Grammar School. He joined the 68th Regt as an ensign on
+6 June 1854. Lieut. 1 Dec. 1854 [and] Retired 22 Oct. 1861. He served with the 68th in the
+Crimea from 15 November 1854 and was awarded a medal with a clasp for Sebastopol and the
+Turkish Crimea Medal. After retirement, he joined the Public Service of Queensland ... in 1865,
+becoming Chief Clerk Public Lands in 1875, Under Secretary of Public Lands in 1882 and a
+Member of the Land Board in 1884. He was Auditor General of Queensland from 1890 to 1901.
+Appointed C.M.G. He died in his 88th year, on 4 September 1924 in Kemendine, Coorparoo,
+Queensland: John Bilcliffe, Well Done the 68th: The Durhams in the Crimea and New Zealand --
+1854-1866 (Patterdown, Chippenham [UK]: Picton Publishing (Chippenham) Limited, 1995),
+p.215.
+
+(56) The Brisbane Courier, 25 June 1863.
+
+(57) Robert Gray, Reminiscences of India and North Queensland (London: Constable, 1913),
+p.86.
+
+(58) A/6808: Imperial Pension Register, 1872-99. QSA.
+
+(59) Sergeant, Regimental No.425, Robert Brady, born Banbridge, and at the time of his
+enlistment on 27 June 1858, described himself as a labourer.
+
+(60) Private, Regimental No.219, John Pike, born Lambeth, and at enlistment on 24 September
+1857, described himself as a labourer. Pike never attained a rank higher than private but with
+almost twelve years experience as a British regular he was more than capable of drilling the
+volunteers after Brady's departure. Nor does it appear that Pike was ever formally paid for his
+services with the volunteers.
+
+(61) WO22/297: Returns for out-pensioners, Qld 1876-1880. Reel 3918: Australian Joint
+Copying Project.
+
+(62) A2.3 frame 212. JOL.
+
+(63) Fraser enlisted in the 56th Regt on 8 June 1815 being transferring to the 46th Regt and
+again into the 48th Regt whilst in NSW. Fraser was born at Blair Athol and aged 24 at the time of
+his enlistment. He is described on his enlistment record as a `substitute'. Since a limited
+conscription existed for service in the war against Napoleon, those who were wealthy enough to
+pay another man to be his substitute in order that military service could be escaped. In this case,
+Fraser was George Hartley's substitute.
+
+(64) A2.12 frame 859. JOL.
+
+(65) Constance Campbell Petrie, Tom Petrie's reminiscences of early Queensland (Hawthorne,
+Victoria: Lloyd O'Neil, 1975), p 2; and J G Steele's, Brisbane Town in the convict days.
+1824-1842 (St. Lucia, Qld: University of Queensland Press, 1975), devotes much attention to his
+work as an engineer at Brisbane.
+
+(66) E V Stephens, "Stephen Simpson, MD, MLC", Journal of the Royal Historical Society of
+Queensland, Vol.5, No. I, (1953), p 794.
+
+(67) Henry Stuart Russell, The Genesis of Queensland (Toowoomba: Vintage Books, 1989), p
+211.
+
+(68) A2.33 frame 321-324. John Oxley Library.
+
+(69) Ibid.
+
+(70) Nehemiah Bartley, Australian Pioneers and reminiscences, 1849-1894 (Sydney: John
+Ferguson, 1978), p 246.
+
+(71) A2.37 frame 651. JOL.
+
+(72) William Irving had entered the 28th Regt as an ensign on 9 July 1803, and during the war
+against Napoleon he soon rose in rank to captain, major (4 June 1814), and Brevet-Colonel
+upon his retirement. Charles Dalton's, Waterloo Roll Call, with biographical notes and anecdotes
+(2nd ed. London: Naval & Military Press, 1904), p 135, states he "distinguished himself in the
+Peninsula, and had a musket hall through his right arm at Quatre Bras. He quitted the service in
+1826 since both arms had been nearly disabled by wounds". The War Office's official Return of
+names of the officers in the Army who receive pensions ... (London: War Office, 1818), p.8, also
+notes that he was granted a pension of 300 [pounds sterling] pa, commencing 17 June 1816.
+For discussion of the events which occurred in the "Affray" at Yorks Hollow, refer to Rod Pratt's,
+"The Affray at Yorks Hollow, 28 November, 1849: involving the 11th (North Devonshire)
+Regiment of Foot at Brisbane Town", Mentioned in Despatches: Newsletter of the Victoria
+Barracks Historical Society, Brisbane, Inc.: Part 1 (July 1995), pp 6-7; Part 2 (August 1995), p 3;
+Part 3 (September 1995),
+
+(73) p 3; Part 4 (October 1995), p 8; and Part 5 (November 1995), p.4. Queensland Department
+of Natural Resources, Sale of Crown Lands, 1842-1859. "Bushman" [pseud. William Wilkes?],
+"Reminiscences of the Aborigines of Queensland", Darling Downs Gazette, 9 December 1876.
+
+(74) Sullivan's military career is unknown although "Capt McCarthy" may have been Capt. Justin
+E.D. MacCarthy late of the 40th who was appointed ensign on 16 December 1840, and
+lieutenant on 29 March 1844 (without purchase).
+
+(75) The Brisbane Courier, 6 March 1866. This was most likely Lt. David Cross Mitchell who was
+appointed lieutenant of the Dumfries Militia on 13 July 1859. Refer to Hart's Army List for 1860.
+
+(76) A/6808: Queensland Treasury, Imperial Pension Register, 1872-99. QSA.
+
+(77) A useful reference source for these men can be found in, Hugh and Lyn Hughes',
+Discharged in New Zealand: soldiers of the Imperial Foot Regiments who too their discharge in
+New Zealand, 1840-1870 (Auckland: NZ Society of Genealogists, 1988).
+
+(78) GOV/22: Governor's Office: Letterbook of Despatches to the Secretary of State for the
+Colonies: 18 Nov 1859 - 23 Sept 1861: Vol 1: Despatch No 30 (Military), dated Brisbane, Qld, 4
+April 1860, p 166. QSA. Also refer to, The Moreton Bay Courier, 7 February 1860.
+
+(79) GOV/A1. Governor's Office: In-letters on Official Subjects. Vol 1: 1859-65. Letter 60/107, 17
+April 1860, pp 43-45. QSA.
+
+(80) GOV/A1. Governor's Office: In-letters on Official Subjects. Vol 1: 1859-65. Letter 60/218, 4
+July 1860, pp 63-64. QSA.
+
+(81) Queensland Government Gazette, No.48, 25 August 1860, p.274; and The Moreton Bay
+Courier, 1, 8, & 15 September 1860.
+
+(82) Lt. D.T. Seymour became Queensland's first Police Commissioner, appointed Acting
+
+Commissioner on I January 1864, and later confirmed as Commissioner of Queensland Police,
+1 July 1864, having retired from the Army by sale of his commission on 12 April 1864.
+
+(83) The Sydney Morning Herald, 10 January 1861, p.4 & 5; The Moreton Bay Courier, 15
+January 1861; and E.A.H. Webb, History of the 12th (The Suffolk) Regiment 1685-1913
+(London: Spottiswoode & Co., 1914), p.281.
+
+(84) GOV/A1: Governor's Office: In-Letters on Official Subjects. Vol. 1: 1859-65: Letter 62/83, 10
+March 1862, pp.329-330. Queensland State Archives. Also refer to, GOV/A1: Letter 62/106, 26
+March 1862, p.335, QSA; Anderson (Nov. 1970), op. cit., p.33; and Johnson (1975), op. cit.,
+pp.51-53.
+
+(85) Governor Bowen's incessant attempts to obtain Imperial troops saw him utilise comparisons
+to the size of imperial forces required in New Zealand to combat the Maori. In Bowen's view this
+should equate to similar numbers of troops being available to not only provide for Queensland's
+external defence, but in the knowledge of the internal Aboriginal threat, In May 1865, Bowen
+outlined reasons to the Secretary of State why Queensland was just as entitled to an adequate
+force of Imperial troops as New Zealand had received, in this he included an extract from the
+proceedings of the Queensland Executive Council on 10 May 1865: `It is well known that, during
+the greater part of the last five years -- a period longer than the Peninsula War, -- the Imperial
+Government have maintained in the neighbouring Colony of New Zealand, in addition to a
+powerful Naval Squadron, an army of ten thousand (10,000) regular troops, to assist an
+increasing population of 150,000 British settlers to defend themselves, not against foreign
+attack, but against a decreasing remnant of 50,000 Maories; of whom it is positively stated that
+less than three thousand (3,000) men have been actually in arms against the Crown. In other
+words, the Mother Country has furnished New Zealand, at a vast cost to herself, with more than
+three soldiers for every insurgent Maorie, while she has hitherto refused to allow Queensland to
+pay, at the rate fixed by the Secretary of State, for a detachment of even fifty soldiers to assist in
+the defence of the capital of this Colony against foreign attack. It will be recollected that the
+hostile Aborigines in the interior of Queensland are more numerous at most points in proportion
+to the few scattered settlers than are the Maories in proportion to the British population in New
+Zealand; and that they have often massacred whole families, as in 1858 and 1861. Some years
+back it was calculated that even at that date, four hundred British subjects had been murdered
+by the Natives of this Colony. The entire cost of the Mounted Native Police Corps (a force
+somewhat resembling the Cape Mounted Rifles) and of the internal defence of Queensland
+generally, is borne by the Colonists, who do far themselves what has always been done chiefly
+by the Mother Country in the two other Colonies (the Cape and New Zealand) where the
+Aborigines are numerous and hostile: GOV/24: Governor's Office: Letterbook of Despatches to
+the Secretary of State for the Colonies: 1 Jan 1864 - 18 Dec 1866: Vol 3: Despatch No 30, dated
+18 May 1865, pp 272-273 (and for full details of this correspondence refer to pp 268-274). QSA.
+
+(86) The Sydney Morning Herald, 15 August 1863, p 6; and NG/26: ... 4/1666 (6 May 1861 - 30
+Sept. 1869): Governor John Young to Colonel Hamilton, dated Sydney, 17 August 1863;
+Governor John Young to Brigadier-General Chute, dated Sydney, 18 August 1863; Governor
+John Young to Governor George Grey, dated Sydney, 18 August 1863; and Governor John
+Young to Commodore Sir William Wiseman, dated Sydney, 21 September 1863: pp 109-110 &
+116. Archives Office of New South Wales.
+
+(87) Prior to arrival in Queensland, Captain Henry Dowdeswell Pitt, R.A., was active in NSW's
+volunteer movement, 1860-62. While serving in NSW he also commanded the Royal Artillery
+detachment sent from Sydney with the second
+
+military contingent to quell civil unrest at the Lambing Flat Goldfields in July 1861. On 25 July
+1862, Captain Pitt began a long relationship with Governor Bowen when he was appointed
+Private Secretary and Aide-deCamp to Queensland's first Governor. In Queensland Pitt fostered
+
+renewed interest in the volunteer movement when he was appointed Captain-Commandant of
+the Queensland Volunteer Artillery on 26 August 1862, as well as becoming Major of Brigade of
+the Queensland Volunteer Rifle Brigade. Both these positions were held until Captain Pitt
+resigned both commissions on 17 August 1866. Apart from his role and activities with the
+Queensland volunteer movement and the Governor, Captain Pitt was also socially prominent
+with involvement in the Queensland Rifle Association and the Queensland Turf Club. An
+interesting aspect to Captain Pitt's involvement in the recruiting of Military Settlers in Brisbane
+was unspecified involvement in New Zealand undertaken during 1864. On 13 January 1864,
+Captain Pitt requested from the Governor three months leave of absence "for the purpose of
+visiting the adjacent colonies on urgent private affairs", which was promptly granted. Pitt
+departed Brisbane on 19 January, arriving in Sydney on 21 January. Although it is not totally
+clear what Captain Pitt's "urgent private affairs" actually were, he did travel to New Zealand
+where he appears to have witnessed the large-scale military operations being undertaken. This
+becomes clear from evidence Pitt provided to a Select Committee gathering information for a
+report on Queensland's defences on 22 May 1866. Captain Pitt later accompanied Governor
+Bowen to New Zealand after Bowen's appointment and departure to take up the governorship in
+January 1868. On 4 November 1868, Captain Pitt was appointed Private Secretary and Aide-de-
+Camp to Bowen in New Zealand and was still serving in that capacity until at least early 1872.
+Information on Capt. H.D. Pitt via Jeff Hopkins-Weise's PhD research.
+
+(88) The Courier, 19 August 1863.
+
+(89) The Courier, I September 1863; and also refer to, 5 September 1863.
+
+(90) GOV/G1: Governor's Office: Letterbook of Governor's Official Letters to Various Persons:
+Vol. l: Dec. 1859 - 12 Aug. 1871: Despatch No 9, dated Brisbane, 8 September 1863,
+pp.125-127. QSA. A similarly worded despatch was also sent this same day to New Zealand
+Governor, Sir George Grey, informing him of Queensland's positive response to the request for
+all available troops to be sent. GOV/G1: Governor's Office: Letterbook of Governor's Official
+Letters to Various Persons: Vol 1: Despatch No 10, dated Brisbane, 8 September 1863, pp
+127-129. QSA. Governor Bowen also documented for the information of the Duke of Newcastle,
+Queensland's despatch of a portion of its small garrison to assist New Zealand, and the related
+defence implications for the Colony, in December 1863. Refer to, GOV/23: Governor's Office:
+Letterbook of Despatches to the Secretary of State for the Colonies: 6 Sept. 1861 - 14 Dec.
+1863: Vol 2: Despatch No 70 (Military), dated Brisbane, 14 December 1863, pp 511-517. QSA.
+
+(91) Brigadier-General Chute on 3 October 1863, concurred with Bowen's decision to send only
+a limited number of Queensland's small garrison, `it certainly might have been injudicious to
+have despatched a larger Detachment from Brisbane'. In this reply Chute also noted that he
+brought the totally inadequate force presently now left in the Colony (only 34, 12th Regiment
+troops of all ranks) before the imperial authorities. GOV/A1: Governor's Office: In-Letters on
+Official Subjects. Vol. 1: 1859-65: Letter 63/235, dated 3 October 1863, pp 528-529; and also
+refer to Letter 63/234, dated 3 October 1863, pp 530-531. QSA.
+
+(92) A H Brittain purchased his ensigncy on 16 April 1861, as well as his lieutenancy in 16
+August 1864, although his subsequent promotion to captain on 6 July 1874 was by merit. Hart's
+Army List for 1875 noted: `Capt Brittain served in the New Zealand War of 1863-66, including
+the expedition to the Thames and siege and capture of the Maori position at Orakau on 1st and
+2nd April 1864 (medal)'.
+
+(93) The Courier, 11 September 1863; and GOV/G1: Governor's Office: Letterbook of
+Governor's Official Letters to Various Persons: Vol. 1: Dec. 1859 - 12 Aug. 1871: Despatch No 9,
+dated Brisbane, 8 September 1863, pp 125-127. QSA.
+
+(94) The Courier, 8 September 1863.
+
+(95) Queensland Daily Guardian, 10 September 1863, p.2; and 11 September 1863, p.2; The
+Courier, 10 September; 11 September; 14 September; and 19 September 1863; and The
+Sydney Morning Herald, 12 September, p.7; and 14 September 1863, p.4. The Courier's
+account of the departure from Brisbane stated that the volunteers for New Zealand, were
+mustered in the barrack yard about 6.00pm under the superintendence of Sergeant Thomas
+Hawkes, 12th Regiment (who was also Drill Instructor and Sergeant-Major to the Queensland
+Volunteers, 1863-66), before being marched down Queen Street. The Courier, 10 September
+1863.
+
+(96) The Sydney Morning Herald, 23 September 1863, p.4; and for an account of the arrival of
+this 12th Regiment contingent in Auckland on 2 October, refer to, 14 October 1863, p.8. Also
+refer to, F Eadie, Troopships Engaged in the Maori Wars ... 1840-1865. South African War ...
+1899-1902. The Great War ... 1914-1918 (New Zealand: Auckland Historical Centennial
+Research Committee, [19407]), p 2.
+
+(97) Captain William Crosbie Siddons Mair, according to Hart's Army List for 1875, purchased
+his ensigncy (28 March 1858), his lieutenancy (16 August 1859) and his captaincy (8 August
+1865). Was noted to have `served throughout the NZ war of 1860-61 including the capture of the
+Pahs at Kihihi, capture of Matarikori, relief and repulse of the night attack on No.3 Redoubt,
+action of Huirangi, and skirmish in front of Tearie. Served during the first part of the Waikato
+campaign, also as Adjutant of the Flying Column during the war of 1863-1864 (medal).'
+
+(98) The Brisbane Courier, 11 October, p 2; 13 October, p 6; 15 October, p 2; 16 October, p 2;
+and 17 October 1866, p.2; and GO 47. Governor's Office: Governor's Inward Correspondence
+on Military Matters. 14 Dec. 1861 - 30 Sept. 1870: Copy of Brigade Order No.446, dated Head
+Quarters, Melbourne, 27 September 1866: Archives Office of Tasmania. During the 12th
+Regiment's period of garrison in Brisbane approximately eighty enlisted men served in
+Queensland at some stage during 1861-66. Rod Pratt, Nominal Rolls of the 12th and 50th
+Regiment Detachments in Queensland, 1860s (Rolls compiled from ongoing PhD research into
+`The British Army at Moreton Bay, 1824 - 1869').
+
+(99) The Sydney Morning Herald, 23 October, p.4; 24 October, p.4; 31 October, p.4; and 1
+November 1866, p 4.
+
+(100) The Sydney Morning Herald, 18 October 1866, p.4; and also refer to, 20 October 1866, p
+8.
+
+(101) A 1913 letter by a former 12th Regiment soldier outlined: 'Sir.-Re the letters on "Early
+Burial Grounds." There is a slight mistake as regards the 12th and 50th Regiments. In 1863 a
+detachment of the 12th Foot was in Brisbane, under the command of Lieutenant Seymour and
+Ensign Britten [sic. Brittain], in 1866 the right wing of the 50th Regiment left New Zealand for
+Sydney, under the command of Colonel Waddy, and relieved a detachment of the 12th Foot, and
+also the detachment at Brisbane. in 1866 I was stationed at Tauranga (New Zealand) with my
+regiment (12th Foot) and helped to assist the detachment of the 12th from Brisbane to
+disembark. At that time there were no wharves at Tauranga. The steamer came close to the
+shore, and then the men were transhipped into punts, and from them were either carried ashore
+by us or else waded through the water to dry land. If a Mr. Cahill, or a Mr. Croft, who was in the
+PO at Brisbane, and belonged to the 12th, are alive, they could tell you the date they left for
+New Zealand. I belonged to the 12th, and served in the Regiment during part of the war. I also
+am in possession of the war medal.' Letter to Editor entitled "The Old Burial Ground", The
+Brisbane Courier, 13 October 1913, p 6. This letter was written by B G Joyner, former Drummer,
+Regt No 156, 12th Regiment, who served in New Zealand in 1866 and later received the New
+Zealand War Medal. Joyner appears to have discharged in England [1870+] and later settled in
+Gladstone, Queensland.
+
+(102) Webb (1914), op cit, pp 281, and 296-298; K. Sinclair, ed. A Soldier's View of Empire: The
+Reminiscences of James Bodell, 1831-92 (London: The Bodley Head Ltd., 1982), pp 164-166; J
+Cowan, The New Zealand Wars: A History of the Maori Campaigns and the Pioneering Period:
+Vol II: The Hauhau Wars, 1864-1872 (Wellington, NZ: W A G Skinner, Government Printer,
+1923), pp 148-154; and J Rorke, Policing Two Peoples: A History of Police in the Bay of Plenty
+1867-1992 ([Tauranga, NZ]: Jinty Rorke and the New Zealand Police, 1993), pp 1-2.
+
+(103) Captain C.A.F. Creagh was made Ensign on 8 September 1854 (without purchase),
+Lieutenant on 9 February 1855 (without purchase), and Captain 6 May 1863, 50th (Queens
+Own) Regiment.
+
+(104) Lt. James ffranck Rolleston purchased his ensigncy on 17 June 1859.
+
+(105) The Brisbane Courier, 13 October 1866, p.4; 15 October 1866, p.2; 16 October 1866, p.2;
+17 October 1866, p.2; and 19 October 1866, p.3. Governor Bowen in a despatch dated
+Brisbane, 7 April 1867, informed Major-General Chute at Army Headquarters in Melbourne, of
+Queensland's intentions following receiving correspondence respecting the disposal of the
+remaining 5 Companies of the 50th Regiment still in New Zealand, from both Secretary of State
+for the Colonies, and Chute. "Having consulted my Responsible Advisors, I beg to inform you
+that there is accommodation in Queensland for one Company only - that now stationed at
+Brisbane; and that my Ministers think this to be a sufficient contingent for this Colony at the
+present time." GOV/G1: Governor's Office: Letterbook of Governor's Official Letters to Various
+Persons: Vol.1: Dec. 1859 - 12 Aug. 1871: Despatch No.7, dated Brisbane, 7 April 1867,
+pp.232-233. QSA.
+
+(106) The Sydney Morning Herald, 23 October 1866, p.3. The remaining 5 Companies of the
+50th Regiment in New Zealand continued manning redoubts in the Taranaki Province into 1867.
+On 3 June 1867, 2 of these Companies embarked for Sydney and on 11 July the remaining 3
+Companies embarked for Adelaide. A.E. Fyler, The History of the 50th or (The Queen's Own)
+Regiment: From the earliest date to the year 1881 (London: Chapman and Hail, 1895), p 287.
+
+(107) A regimental history actually states that 11 privates of the 50th Regiment were killed, and
+2 officers and 18 privates were wounded during this engagement. Fyler (1895), op cit, pp
+279-280.
+
+(108) The Sydney Morning Herald, 23 October 1866, p 3.
+
+(109) According to Hart's Army List for 1875, MacGregor purchased both his ensigncy (11
+February 1858), and lieutenancy (12 March 1861), and had served in the campaigns on the
+West Coast of New Zealand from 31st December 1864 to 16th September 1866.
+
+(110) The Brisbane Courier, 18 October 1867.
+
+(111) The Brisbane Courier, 14 December 1866.
+
+(112) The Brisbane Courier, 8 June 1868.
+
+(113) The Brisbane Courier, 1 February 1868.
+
+(114) According to Harts Army List for 1860, Eden gained his ensigncy on 22 February 1855,
+and lieutenancy on 26 February 1856, both without purchase. Eden later served in the West
+Coast campaign in New Zealand from 28 March 1865 to 16 September 1866.
+
+(115) According to Harts Army List for 1875 he purchased his ensigncy on 15 November 1864
+originally in the 36th Foot, before transferring into the 43rd Light Infantry, and finally the 50th
+Regiment on 10 November 1865.
+
+(116) The Brisbane Courier, 5 and 10 August 1868.
+
+(117) The Brisbane Courier, 31 January 1867, and 29 June 1867.
+
+(118) The Brisbane Courier, 9 December 1867.
+
+(119) The Brisbane Courier, 24 September 1867.
+
+(120) The Brisbane Courier, 14 December 1867.
+
+(121) The Brisbane Courier, 17 January 1868.
+
+(122) The Brisbane Courier, 18 November 1868.
+
+(123) Desertion rates were derived from the WO12 Quarterly Returns of these regiments, PRO;
+and Sexton (1985), op.cit..
+
+(124) The Brisbane Courier, 20 December 1867; and 5 March 1869.
+
+(125) The Brisbane Courier, 3 March 1869.
+
+(126) A brief chronology of the history and events associated with St Helena Prison, 1866-1934:
+   * 31 August 1866: St Helena opened as a Gaol.
+
+   * 14 May 1867: St Helena proclaimed a Penal Establishment.
+
+   * 8 July 1869: Select Committee appointed to inquire into, and report upon,
+   the Expenditure on, and the Management of, the Penal Establishment at St
+   Helena.
+
+   * 15 November 1875: St Helena proclaimed a Gaol (no longer a Penal
+Establishment).
+
+   * 4 July 1879: St Helena is reproclaimed a Penal Establishment.
+
+   * 1879: Petrie Terrace Goal is closed and all Male prisoners are removed to
+   St Helena except for prisoners awaiting trial, debtors, criminal lunatics,
+   and prisoners required as cooks and to keep the establishment clean and in
+   order.
+
+   * 17 February 1934: St Helena Penal Establishment is closed.
+
+Guide to Prison Records which may be Useful to Genealogists: "Appendix 1: Brief Chronology of
+Penal Establishments in Queensland", pp 47-50. QSA.
+
+(127) S Ba Pe, C Ham, & P McDougall, St Helena: Moreton Bay (Brisbane, October 1975),
+"Section 3.2: Superintendents".
+
+(128) The prison hulk Proserpine was proclaimed a prison on 29 March 1864, so as to relieve
+overcrowding at the Brisbane Gaol. Prior to this, during 10 May 1863 - 29 April 1864, the
+Proserpine was utilised a reception place for refractory seamen, situated on the Brisbane River.
+The hulk Proserpine was not closed as a prison until 22 March 1871. Guide to Prison Records
+which may be Useful to Genealogists: "Appendix I: Brief Chronology of Penal Establishments in
+Queensland", p 47; and "Appendix 2: Geographical Listing of Penal Institutions in Queensland
+1849 - 1988", p 52. QSA.
+
+(129) Queensland Government Gazette, Vol III, No 17, 22 February 1862, p 108; Vol III, No 91,
+
+11 October 1862, p 567; Vol IV, No 7, 24 January 1863, p 53; & Vol VI, No 56, 3 June 1865, p
+461. Statistical Register of Queensland for the Year 1862 (Brisbane, Qld: W C Belbridge,
+Government Printer, 1863), p 27; Statistical Register of Queensland for the Year 1863 (Brisbane,
+Qld: W C Belbridge, Government Printer, 1864), pp 33 & 36; Statistical Register of Queensland
+for the Year 1864 (Brisbane, Qld: W C Belbridge, Government Printer, 1865), pp 26 & 33; &
+Statistical Register of Queensland for the Year 1866 (Brisbane, Qld: James C Beal, Government
+Printer, 1867), pp 43 & 44.
+
+(130) COL/A87, In-Letter 116, dated 10 January 1867. QSA.
+
+(131) Statistical Register of Queensland for the Year 1866 (Brisbane, Qld: James C. Be, al,
+Government Printer, 1867), p.44; Statistical Register of Queensland for the Year 1867 (Brisbane,
+Qld: James C. Beal, Government Printer, 1868), pp.43, 45 & 55; and Queensland Government
+Gazette, Vol.III, No.38, 18 May 1867, p.469.
+
+(132) It appears a significant determinate in McDonald's decision was his wife's very poor health
+over the period 1880-81, during which time he took leave to visit her under care in Brisbane, as
+well as six weeks leave to take her to Victoria. Alice McDonald died in Brisbane on 8 September
+1881, and was buried the next day at Toowong Cemetery. John McDonald died in Brisbane,
+Queensland, on 18 June 1895, and was buried the next day in the family plot at the Toowong
+Cemetery.
+
+(133) Hart's Army List for 1860 states that Townley obtained his ensigncy in the Military Train
+(supply and logistics) on 30 April 1858, and purchased his lieutenancy on 17 December 1858.
+Townley was appointed captain in No.2 Battery, Queensland Volunteer Artillery on 13 February
+1875; and later resigned his commission in this unit on 5 May 1877. For references to aspects of
+Townley's Queensland civil service, refer to: Queensland Government Gazette, Vol.XXXIII,
+No.62, 20 October 1883, p. 1080; Queensland Blue Book for the Year 1883 (Brisbane, Qld:
+Edmund Gregory, Acting Government Printer, 1884), p.27; and Pugh's Queensland Almanac:
+1883, "Government Departments: Gaols, Etc.", p. 105.
+
+(134) COL/A87, In-Letter 116, dated 10 January 1867. QSA.
+
+(135) COL/A87, In-Letter 116, dated 10 January 1867. QSA.
+
+(136) COL/A91, In-Letter 1254, dated 14 May 1867. QSA.
+
+(137) COL/A99, In-Letter 3388, [dated November?] of 1867. QSA.
+
+(138) Ibid..
+
+(139) COL/A97, In-Letter 2832, dated 31 October 1867. QSA.
+
+(140) COL/A100, In-Letter 64, dated December 1867. QSA. Superintendent John McDonald in
+May 1868, again brought to the attention of the Colonial Secretary and the "officer in charge of
+military detachment Brisbane", the "clandestine correspondence" between prisoners on St
+Helena and their friends in Brisbane through the aegis of the Military Guard serving at the Penal
+Establishment. Refer to, COL/A 105, In-Letter 1406, dated 11 May 1868. QSA.
+
+(141) COL/A107, In-Letter 1856, "Military", dated 16 January 1868. QSA.
+
+(142) COL/A101, In-Letter 337, dated 1 February 1868. QSA.
+
+(143) COL/A102, In-Letter 610, dated 3 March 1868. QSA.
+
+(144) COL/A107, In-Letter 1854, "Military", dated 17 June 1868, attached with In-Letter 1910 of
+1868. QSA.
+
+(145) COL/A107, In-Letter 1854, "Military", dated 17 June 1868, attached with In-Letter 1910 of
+1868. QSA. Visiting Justice Barron's findings on 22 June 1868 did not find the soldiers'
+complaints were with foundation, though it is indicated that problems with rations, and other
+factors did exist. In respect to sentries, Barton stated: "Two sentries are required with the gangs
+employed clearing the scrub, another with the quarrying gang and two at the Goal. The
+Superintendent could not do with less without knocking off one of the gangs at work in the scrub.
+An addition of three to the [Military] Guard would render the duties comparatively light. At
+present the Warders who are fewer in number than the Guard, are on-duty five at a time during
+the day and two at night. There being an additional soldier on the island doing light duty, the
+duties of the day sentries are lightened as the soldier referred to supply five sentries once only
+out of the three reliefs. The Superintendent states that Captain Eden asked him whether he
+could manage with four sentries during the day until the Guard was relieved on account of one
+of the soldiers being disabled, he replied that he could but had to knock off one gang during the
+time there, were only four sentries, this is the only occasion he remembers Captain Eden
+speaking to him regarding the Sentries." COL/A107, In-Letter 1910, "Visiting Justice St Helena",
+dated 22 June 1868. QSA.
+
+(146) COL/A107, In-Letter 1855, "Military", dated 16 June 1868 (and attached letter from Visiting
+Justice Barton, dated 6 June 1868). QSA.
+
+(147) Superintendent John McDonald had one last opportunity to decry the conduct of the
+soldiers of the Military Guard when he was called in August 1869 to give evidence before the
+Select Committee inquiring into the expenditure and the management of St Helena. On 2 August
+McDonald provided the following testimony: -
+
+"Do you find the constables superior to the military guard? Much superior in every sense. ...
+
+In what does the superiority of the constable guard consist? it consists in the superior discipline
+of the police; they perform their duties much better than the military, guard; they keep a much
+better guard over the prisoners. There have been no complaints since the police have been on
+the island; before they came, not a week passed but a complaint of some kind or other was
+made against some of the military guard.
+
+What was the nature of the complaints? Some of them were very serious. We have found them
+bringing letters from the prisoners' friends in their knapsacks, and they have come down to the
+island for duty drunk on more than one occasion. We have known them to steal everything they
+could lay their hands on, even to the prisoners' soap and tobacco out of the sheds. One of them
+has been known to carry away a Government wash-hand basin in his knapsack, at least it was
+taken out of his knapsack when he was leaving the island; in fact, they gave a great deal more
+trouble than the prisoners themselves. I found it was impossible to carry out strict discipline with
+the military on the island. Have you anything further to say on this subject?-Did you find that you
+had any control over the military guard? Not the slightest control.
+
+Do you find you have sufficient control over the constable guard? Quite sufficient for all intents
+and purposes.
+
+By Mr. Edmondstone: Has not the non-commissioned officer in charge of the military sufficient
+control over them to prevent these crimes? The military officer sent down in charge is very often
+a lance corporal, and he is only a private soldier acting as corporal. I know, from my own
+experience in the army, that a lance corporal is nobody amongst the men-he has no authority al
+all over them. It is impossible for such an officer to exercise any control over the men at such a
+distance from the head-quarters of the company."
+
+"Report from the Select Committee on the Penal Establishment at St. Helena, together with the
+Proceedings of the Committee and Minutes of Evidence". Queensland Votes and Proceedings
+of the Legislative Assembly during the Session of 1869: Vol. I (Brisbane James C. Beal,
+
+Government Printer, 1869), p.876.
+
+(148) Ibid., p.885.
+
+(149) The colour scarlet has been a distinguishing feature of uniforms of the British Army since
+the 16th century. A. Makepeace-Warne, Brassey's Companion to the British Army (London:
+Brassey's, 1995), p.319.
+
+(150) It had been earlier expected that the Brisbane 50th detachment was to depart for Sydney
+en route for England on 27 February, but this was delayed a fortnight. The Brisbane Courier, 27
+February 1869, p 5.
+
+(151) The Brisbane Courier, 11 March 1869, p 2. The regimental history of the 50th records:
+`The regiment remained in Australia till the 24th of March, 1869, when the head-quarters
+embarked at Sydney, on board the "Himalaya," which had previously taken up the Brisbane
+detachment. They arrived at Adelaide on the 29th, where they embarked the detachment under
+Colonel Hamley. The regiment disembarked at Devonport on the 14th of June, 1869.' A E Fyler,
+The History of the 50th or (The Queen's Own) Regiment: From the earliest date to the year 1881
+(London: Chapman and Hall, 1895), p 288.
+
+(152) The Brisbane Courier, 11 March 1869, p 2; and The Gympie Times, 18 March 1869. The
+Regimental History (1911) of the 18th Regiment makes no reference to a detachment of the
+2/18th Regt ever landing in Brisbane for garrison duty during 1869-70. G le M Gretton, The
+Campaigns and History of the Royal Irish Regiment: From 1684 to 1902 (Edinburgh and
+London: William Blackwood and Sons, 1911).
+
+(153) One example of an Imperial officer serving the colonial Queensland Government in the
+late 1860s into the 1870s, was Lieutenant George Hope Verney, 74th Regiment of Foot. This
+officer was appointed Aide-de-Camp to Queensland's 2nd Governor, A H Palmer, effective from
+13 August 1868. On 20 January 1869, Lt Verney was appointed Captain in the Queensland
+Volunteer Rifle Brigade, and then Adjutant of the Queensland Volunteer Brigade, effective from
+10 March 1869. Queensland Government Gazette, Vol IX, No 83, 17 August 1868, p 971; Vol X,
+No 6, 23 January 1869, p 83; & Vol X, No 25, 20 March 1869, p 365.
+
+(154) The Brisbane Courier, 12 March 1869, p 2.
+
+(155) The Argus, 9 January 1869, p.4; 11 January 1869, p.4; & 14 January 1869, p.5. Major-
+General Chute arrived in Sydney on 12 January, and thereafter departed for Auckland on 14
+January. The Sydney Morning Herald, 13 January 1869, p.4; and 15 January 1869, p.4.
+
+(156) "A.-No.9: Correspondence with the New Zealand Commissioners relative to the
+Employment of Imperial Troops: ...: No.2", Appendix to the Journals of the House of
+Representatives of New Zealand: Vol. 1. Legislative, Political, and Native: 1870 (Wellington:
+George Didsbury, Government Printer), pp.4-5 of A.-No.9.
+
+(157) Chief Secretary's Office: GRG 24, Series 51, Special List No. 172. State Records of South
+Australia.
+
+Hopkins-Weise, Jeff^Pratt, Rod
+
+Copyright: COPYRIGHT 2001 Military Historical Society of Australia
+http://www.mhsa.org.au/journal.html
+Source Citation (MLA 9th Edition)
+Hopkins-Weise, Jeff, and Rod Pratt. "The scarlet legacy: the British Army's forgotten presence in
+     Moreton Bay, 1860-69." Sabretache, vol. 42, no. 2, June 2001, pp. 3+. Gale Academic
+     OneFile, link.gale.com/apps/doc/A83447544/AONE?u=dixson&sid=bookmark-AONE&
+
+   xid=123afc1b. Accessed 29 Oct. 2022.
+
+Gale Document Number: GALE|A83447544
+

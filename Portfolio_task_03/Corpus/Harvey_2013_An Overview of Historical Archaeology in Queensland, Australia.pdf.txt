@@ -1,0 +1,791 @@
+Int J Histor Archaeol (2013) 17:428–444
+DOI 10.1007/s10761-013-0228-z
+
+
+
+
+An Overview of Historical Archaeology
+in Queensland, Australia
+
+Cameron S. Harvey
+
+
+
+Published online: 26 June 2013
+# Springer Science+Business Media New York 2013
+
+
+
+Abstract The ability of historical archaeology to make a significant contribution to
+our understanding of Queensland’s recent past is hindered by factors including few
+practitioners, limited publications about historical archaeological research and a need
+to establish its relevance beyond the archaeological community. There exists great
+opportunities in Queensland for researchers to explore a diverse range of research topics of
+which only some are beginning to be investigated through historical archaeological
+enquiry. This paper investigates the current state of the discipline in Queensland, the
+challenges practitioners face today and into the future, and the avenues down which
+historical archaeologists may make significant contributions to our understanding of
+Queensland’s recent past.
+
+Keywords Queensland . Australia . Heritage registers .
+Archaeological heritage management
+
+
+Introduction
+
+Queensland is a vast and diverse place. Comprising a landmass of over 1.7 million km2
+(about seven times the size of the entire British Isles or slightly larger than the US state of
+Texas), it is home to diversity in climate, geography and culture (Fig. 1). As Evans (2007,
+p. 3) notes in his historical overview of Queensland, the state features “striking variety,
+curiosity and excess” which is “all held and reflected in its human history.” The human
+occupation of Queensland extends as far back as 60,000 years, though the last
+188 years of non-Indigenous settlement and exploitation have modified the
+landscape significantly and fundamentally and a completely different range of
+material culture to that which existed before has been introduced. The physical
+evidence is both a diverse record of the experiences and challenges faced by
+those who worked and lived in Queensland and a resource for scholars to
+investigate and enhance our knowledge and understanding. This paper contains a
+
+C. S. Harvey (*)
+Niche Environment and Heritage Pty Ltd, Brisbane, Queensland 4017, Australia
+e-mail: charvey@niche-eh.com
+
+Int J Histor Archaeol (2013) 17:428–444                                                429
+
+
+
+
+Fig. 1 Map of Queensland showing place locations mentioned
+
+
+brief outline of the development of the discipline in Queensland and some of the issues
+which confront practitioners in today. I conclude by examining some of the issues that must
+be addressed to ensure a continuation in growth of the discipline in Queensland.
+
+
+The Queensland Context
+
+Historical archaeology in Queensland remains an emerging field. It is only in the last
+decade that a substantial body of literature on the subject began to appear in local and
+publications. The discipline developed in the 1970s along the same lines as it did in
+
+430                                                Int J Histor Archaeol (2013) 17:428–444
+
+
+other states and territories of Australia and its general emergence has been well
+documented and discussed by others (e.g. Connah 1988; Mulvaney 1996). The
+first documented historical archaeological excavation occurred in 1975 at the
+site of former Royal Bull’s Head Inn in rural Drayton, southern Queensland. As
+a National Trust of Queensland sponsored project, the work at Drayton sought
+to employ archaeological excavation to “aid the complete and accurate restora-
+tion of historic buildings” at the site (van Proctor 1975, pp. 4–5). Excavation
+was undertaken by volunteers and aimed to relocate traces of original buildings
+long since removed. The project was considered more an experiment than a
+research orientated exercise, though van Proctor (1975, p. 5) noted that it was
+“a model dig” and “a worthy precedent for future projects sponsored by the
+National Trust”. Unfortunately, no such project of this type has been attempted
+again by the Trust in Queensland.
+   Throughout the 1970s and 1980s, historical archaeology-specific projects
+were few in number or undertaken as little more than an aside to Aboriginal
+archaeological site identification within large environmental impact assessment
+projects. One notable exception was the 1979 excavation of the Commissariat
+Store in Brisbane, the capital of Queensland. Constructed during 1828–29 and
+one of Queensland’s oldest buildings, the Store functioned as the main provi-
+sioning point for the issue of goods in the fledgling Moreton Bay Penal
+Settlement. Excavations focused on the sub-floor areas within the Store building
+with the discovery of a previously undocumented system of brick and stone
+drains and numerous artifacts from every phase of occupation and use of the
+building (Sanker 1979, pp. 9–10). Artifacts from the Commissariat became the
+first significant historical archaeological collection to be added to the Queens-
+land Museum’s collections; little, however, has ever been published about the
+archaeology, though Murphy (2003, this volume) has since undertaken a re-
+examination of the collections.
+   The introduction of heritage legislation in Queensland in 1987 provided the
+first protection for historical archaeological places and objects. Practitioners
+were required to obtain permits from regulatory authorities to undertake archae-
+ological surveys and excavations. The first substantial set of historical archae-
+ological projects emerged at this time. An early project of note was
+Higginbotham’s (1990, 1991) investigations at the site of the former Eagle
+Farm Agricultural Settlement. This site dates to one of the earliest phases in
+Queensland’s post-contact history and confirmed the survival of significant
+amounts of archaeological evidence relating to agricultural activities and a
+female (convict) factory. The site has since been afforded legislative protection
+due to its significance to Queensland’s history and a management plan was
+prepared for the site in 2007 (RA Riddel Architecture 2007).
+   Today the Queensland Heritage Act 1992 is the main legislation in Queensland for
+the protection and management of historical archaeological places and artifacts. The
+establishment of a heritage register in 1992 combined with nearly 20 years of
+assessment has amounted to 179 places entered in the register with historical archae-
+ological values of significance to Queensland. While the requirement to obtain a
+permit to undertake historical archaeological surveys and most excavations was
+repealed in 2008 many assessments continue to identify historical archaeological
+
+Int J Histor Archaeol (2013) 17:428–444                                             431
+
+
+issues as a matter of course, or remain a fundamental requirement of large scale
+environmental impact assessments.
+   The regulatory supervision applied to historical archaeological investigations of
+the late 1980s right through to 2008 did not extend to any requirement to publish
+results. Few project reports have indeed turned into actual publications. One notable
+exception has been the results of excavations at Lang Park Stadium in Brisbane (e.g.,
+Haslam et al. 2003; McGowan and Prangnell 2006, 2009; Prangnell and McGowan
+2009, this volume; Rains and Prangnell 2002). Originally the site of the North
+Brisbane Burial Grounds and Brisbane’s principal cemetery between 1843 and
+1875, salvage excavation was undertaken as part of the redevelopment of the site.
+Almost 400 graves were excavated and some human remains were analyzed. The
+analysis showed that even an examination of a small sample of the remains created “a
+picture which can be used as a means of comparison with historical records, and to
+other archaeological studies of Australian cemeteries” (Haslam et al. 2003, p. 6).
+   Historical archaeology is currently taught in two Queensland universities—the
+University of Queensland, in Brisbane, and at James Cook University in Townsville.
+Both institutions feature subjects and post-graduate opportunities in historical archae-
+ology. A perusal of post-graduate research topics reveals a range of study interests.
+Most recent fields of enquiry relate to topics including ethnicity and minority groups
+such as the overseas Chinese (Rains 2004), gender studies (Quirk 2007), the social
+contexts of early industry and landscapes (Mate 2010; Murphy 2010) and the impacts
+of government policy and institutionalization on people as reflected in material
+culture (Beck 2008; Hayes 2000; Prangnell 1999). This diverse range of topics is
+reflective of the growth in post-graduate historical archaeological research in Queens-
+land beginning in 1990s and continuing to the present day. It indicates that the
+emphasis of historical archaeological enquiry in academia in Queensland is focused
+on reflexive studies founded in post-processual theory, rather than data collection and
+cataloguing activities and the scientific methods of problem-orientated research that
+characterized early research in other parts of Australia in the 1970s and 1980s.
+
+
+Discussion
+
+In 1998, Graham Connah (1998, p. 3) asserted that even though the discipline was
+only a couple of decades old in Australia, it was his opinion that it was already facing
+a crisis related to two obvious weaknesses. The first related to the significant body of
+historical archaeological work being produced but only a small amount being pub-
+lished. This meant that valuable data and information about historical archaeological
+issues existed but was largely inaccessible to others. The second weakness was what
+he and Egloff (1994) had earlier described as the restricted university base of the
+discipline in Australia. Connah noted the limited number of historical archaeologists
+in academic roles at Australian universities teaching archaeology. Compounding this
+was a lack of relevant undergraduate courses.
+   According to Connah (1998, p. 5, 2010), the health of a discipline can be measured
+against the body of materials published by its practitioners. A search of peer reviewed
+publications for articles about Queensland historical archaeology can be used to
+assess the validity of Connah’s first assertion. Major sources of archaeological
+
+432                                                  Int J Histor Archaeol (2013) 17:428–444
+
+
+scholarship in Australia and a scattering of international sources were searched with a
+particular focus on the journals Australasian Historical Archaeology, Australian
+Archaeology and the Bulletin of the Australian Institute for Maritime Archaeology,
+the International Journal of Historical Archaeology, and the International Journal of
+Nautical Archaeology. Several locally produced occasional series and monographs
+were also included, especially the Memoirs of the Queensland Museum Series,
+Queensland Archaeological Research and Tempus.
+   A total of 68 peer reviewed articles relating to Queensland historical archae-
+ology were identified. This represents limited publication and little to show for
+30 years of work across Queensland, averaging just two articles per year since
+1975, though there were periods where there was a complete absence of
+publications about Queensland topics over several years. The most common
+subject of publication has been Queensland’s maritime industry (35 articles).
+While the subject may appear to dominate the literature the results are skewed
+substantially by the extensive publication of excavation results and analyses
+associated with a single site—that of the wreck of HMS Pandora. This ship-
+wreck has been subjected to intense interest and effort by the Queensland
+Museum since the 1970s (Gesner 1989). World War II and Defense-related
+studies (12) were also well represented in available literature, however, many
+of these articles were largely historical concerns, or at best descriptive in nature
+with limited archaeological analyses. The topic of early exploration, survey and
+settlements (9) features a more balanced set of articles. Jack et al. (1984) made
+an early contribution on this subject while investigating the site of a Chinese
+market garden on the Palmer River Goldfield, one of Queensland’s most
+important goldfields of the late nineteenth century. Recent authors show con-
+tinuing interest in the topic and move beyond purely descriptive works and site
+specific studies, such as Prangnell and Mate’s (2011) investigation of small
+gold-mining towns of the Upper Burnett and tangible and intangible elements
+of labor heritage, and Prangnell and Quirk (2009) and Quirk’s (2008, 2010,
+p. 88) explorations of the “narratives of goldfields life that continue to shape
+perceptions of the past.”
+   Connah’s second assertion of a restricted university base also rings true today.
+There are few people employed as historical archaeologists in Queensland today. At
+the time of writing only the University of Queensland has an historical archaeologist
+on staff, though many academics working in other Queensland universities also have
+experience working on historical archaeological projects. Few historical archaeolo-
+gists are employed in the private sector and there are few government positions
+dedicated to any form of archaeological practice.
+   The development of a sufficient university base and any subsequent increase in the
+quantity and quality of published work about Queensland’s historical archaeology
+cannot occur without reform to the regulatory systems within which historical
+archaeology operates. Queensland has diverse types of historical archaeological
+places, some unique within Australia, and prospective researchers need to be more
+aware of the research potential of sites in Queensland. Practitioners also need to
+convince people outside the discipline that historical archaeology is worth doing and
+of relevance beyond a small number of academics and interest groups. These topics
+are explored in the remaining sections of this paper.
+
+Int J Histor Archaeol (2013) 17:428–444                                         433
+
+
+Regulatory Reform
+
+Reforming heritage legislation to improve protection and management of his-
+torical archaeological places and artifacts is essential for growing the discipline
+in Queensland. Reform should be guided by the needs of the academic and
+consulting communities, but the concerns of the general public, property owners
+and developers who traditionally face significant costs associated with salvage
+archaeology, project redesign and lost time, must be key considerations. Inter-
+national standards and agreements relating to historical archaeological heritage,
+particularly the International ICOMOS Charter for the Protection and Manage-
+ment of Archaeological Heritage (ICOMOS 1990) and the experiences of
+countries struggling with similar issues, such as the United States of America
+and Canada should be viewed as models to draw upon.
+   Any move for legislative reform should also be viewed with some caution
+and may not necessarily be the answer to all problems confronting the disci-
+pline. When the time comes for a review of the Queensland Heritage Act, what
+constitutes “best practice” in historical archaeology today must of course be the
+ultimate goal though it must be acknowledged that some compromises will
+likely be made. For example, several amendments made to the Queensland
+Heritage Act in recent times have not resulted in improvements to archaeolog-
+ical practice and even weakened the situation. The requirement for practitioners
+to seek government approval for historical archaeological survey and excavation
+was removed in 2008. Ever since then potentially destructive work has been
+carried out with limited regulatory supervision. On the other hand, some
+temporary protection was added for previously unrecorded archaeological sites
+located during the course of development or other ground disturbing works.
+This requirement, however, is fundamentally flawed and relies on those with
+the least to gain from compliance with the legislation (i.e. a developer or
+someone hunting historic artifacts for profit such as a bottle collector) to admit
+they have found or even destroyed important archaeological evidence. Recent
+changes to legislative requirements in other Australian jurisdictions, such as in
+New South Wales, have arguably weakened the ability to protect important
+places and this should act as a warning. Legislation has been and will continue
+to be developed in reference to political motivations that do not necessarily
+correlate with the wishes and desires of the archaeological community.
+
+
+Integrating Archaeological Heritage Management into Planning Systems
+
+The integration of historical archaeological issues within broader planning
+frameworks may be the key to more effective management and protection.
+The integration of archaeological enquiry with local planning requirements is
+an emerging concept in some parts of Australia, though is still in its infancy in
+Queensland. The inclusion of legislative provisions in the Queensland Heritage
+Act for local heritage registers was a step in the right direction even though
+content requirements were broad and local governments could opt out of
+including them in their core planning schemes. This could be rectified through
+
+434                                                    Int J Histor Archaeol (2013) 17:428–444
+
+
+the strengthening of local planning provisions to include a requirement for local
+heritage overlays. A standard planning practice in Victoria, these overlays
+contain information on a range of heritage places, including historical archae-
+ological places, deemed of State or local significance (State Government of
+Victoria 2010). Greater cooperation between the different levels of government
+and significant capacity building of development assessment officers and plan-
+ners within local government would be required to achieve such a goal.
+    A greater role for planning in archaeological heritage management has been exam-
+ined in Australia within the context of managing the archaeology of urban areas (Iacono
+2002, 2005; Murray and Crook 2005). The early identification of archaeological issues
+and integration of heritage requirements within planning frameworks is seen to be
+critical for effective protection and management. Early identification would reduce the
+likelihood of archaeology being the “eleventh hour” inconvenience for developers and
+property owners and will allow sufficient opportunity for remedial action before project
+budgets, designs and work schedules are set. One tool suggested by Iacono (2002, 2005)
+to achieve greater integration is the use of archaeological plans. These plans are usually
+produced in the form of a map which displays archaeological potential and are useful for
+property owners, managers, and developers taking archaeological considerations into
+account early in development planning.
+    In 2008–09, the Queensland Government, University of Queensland and the
+Brisbane City Council co-operated on a pilot project to develop an archaeological
+plan for the central business district area of Brisbane (Prangnell 2009a; Prangnell and
+Terry 2008). The plan was developed for eventual integration into Brisbane’s local
+planning scheme. As the basic concepts of the plan were intended to be transferable to
+other regions of Queensland, it provides a model for the development of other local
+planning instruments.
+
+
+The Queensland Heritage Register as a Research Tool?
+
+The heritage register is primarily used by heritage professionals for understanding the
+history and heritage values of specific places or areas under study. As noted previ-
+ously, the register includes 179 places with historical archaeological values to
+Queensland. A search of comparable registers across Australia shows that Queensland
+is in this way performing well in the protection of historical archaeological places
+through their identification, significance assessment and registration on the State heri-
+tage register (Fig. 2). Since 2003, an average of seven places with historical archaeo-
+logical values has been added to the Queensland heritage register each year, averaging
+about 17 % of annual registrations. This is close to double the average number added in
+the preceding decade. The main reason behind the increase is the addition of a specific
+archaeological place category to the register in 2008. Since then 14 places have been
+entered specifically for their historical archaeological values. Queensland also recog-
+nizes that archaeology is not just a compliance related activity and proactive identifica-
+tion and assessment programs for historical archaeological places have been undertaken
+in some parts of the State.
+   The majority of archaeological places entered in the register have only been
+subjected to investigations of sufficient detail to establish archaeological
+
+Int J Histor Archaeol (2013) 17:428–444                                                      435
+
+
+
+
+Fig. 2 Number of heritage registered places with ascribed historical archaeological values
+
+
+
+potential and importance to Queensland’s history. Only a few notable excep-
+tions have ever been subjected to additional academic scrutiny. Examples
+include the Mill Point Settlement site in southeast Queensland (Murphy 2010;
+Rae 2005), the Tower Mill (Hall et al. 1996; Prangnell 1991), and the Commis-
+sariat Stores (Murphy 2003). The most recent example of additional academic
+research within a registered place was by Hadnutt (2010), who examined
+artifacts excavated from the Burke and Wills’ Plant Camp. The ill-fated Burke
+and Wills expedition of 1860–61 is arguably the most well known Australian
+story of exploration. The expedition set out from Melbourne to cross the
+Australian continent from south to north and then back again. Some expedition
+campsites and blazed trees have been relocated including that of Camp 46, also
+known as the “Plant Camp.” A team of researchers from the University of
+Melbourne and Royal Society of Victoria relocated the site in 2006 following a
+careful re-analysis of records made by the original expedition navigator William
+Wills (Leahy 2007). Subsequent archaeological investigations have relocated a
+range of artifacts including canvas and leather sewing kit needles, thrust block,
+duck bill leather sewing pliers, percussion caps, nipples and bullets consistent
+with the caliber, vintage and make of weapons taken on the original expedition
+(Fig. 3). Some of these artifacts have been retained by the Queensland Museum
+and since analyzed and used in public exhibitions.
+    Academic studies of registered places, like those at Mill Point and the Plant Camp
+illustrate that historical archaeological places entered in the register are a valuable
+resource for researchers. The lack of interest in the register to date may be the result
+of a lack of understanding amongst the academic community about what archaeo-
+logical research can and cannot be done within a heritage registered place. It is hoped
+
+436                                                        Int J Histor Archaeol (2013) 17:428–444
+
+
+
+
+Fig. 3 Pen nib from the Burke and Wills Plant Camp, remote southwest Queensland
+
+
+that forthcoming standards and guidelines will help clarify such issues and encourage
+greater interest.
+
+
+Making a Significant Contribution
+
+   The value of historical archaeology should be assessed merely on the basis of its
+   contributions to history (Connah 1998, p. 5).
+
+   As practitioners within a relatively young discipline, historical archaeologists in
+Queensland have plenty of work ahead of them to fill gaps in our historical under-
+standing. While European occupation of the land is short in time span there were
+earlier visitations and ephemeral occupations by Asian peoples particularly Macassan
+fisherman from around Sulawesi in modern day Indonesia (MacKnight 1969, 1972,
+1986). It is unclear when these visits first began though it is assumed that they
+commenced sometime in the seventeenth century. Macassans made frequent and repeat
+journeys and interacted with local Aboriginal and Islander populations. Trade in tools,
+cloth, canoes, and some foods took place and such interactions influenced Aboriginal
+language and art (Burningham 1994; Campbell 2002; MacKnight 1973). Evidence of
+Macassan activity survives around Australia’s northern coastline mainly in the form of
+trepan (sea cucumber) processing sites. To date there has been limited archaeological
+interest in the archaeological potential of such subjects even though the remoteness of
+the coastline in question may equate to great promise for future researchers.
+   The heritage register is also far from representative of the full range of
+historical archaeological place types that are known to survive in Queensland.
+The majority of entries relate to Queensland’s mining heritage, including rem-
+nants of the prolific gold, tin, copper, silver, and rare metals industries of
+central and north Queensland in the late nineteenth and early twentieth centu-
+ries (Fig. 4). Their recognition is due to a number of studies on the mining
+theme initiated by the Queensland Government during the 1990s rather than
+any deliberate effort to protect such places (Jane Lennon and Associates and
+Pearce 1996; Kerr 1992; Pearson 1994).
+   More effort must be directed at the identification of other important and under-
+represented archaeological place types. Recent efforts have been made to investigate
+
+Int J Histor Archaeol (2013) 17:428–444                                                                     437
+
+
+
+
+Fig. 4 Queensland heritage-registered places with historical archaeological values grouped by historical category
+
+
+
+places and enter in the heritage register places associated with the past control and
+discrimination of Indigenous peoples, such as the former Taroom Aboriginal Settle-
+ment in central Queensland (Department of Environment and Resource Management
+2010; State of Queensland 2012a) and Fantome Island (Department of Environment
+and Resource Management 2011; State of Queensland 2012b).
+   Fantome Island is located off the north Queensland coast and was the site of a lock
+hospital between 1928 and 1945 and a lazaret (or leprosarium) between 1939 and
+1973. Both facilities were used for the isolation of Aboriginal, Torres Strait Islander
+and South Sea Islander patients or inmates (Fig. 5). The archaeological remnants on
+the island are representative of the disproportionate responses of former governments
+to the public health issues of venereal diseases and Hansen’s disease (leprosy) as they
+affected Aboriginal, Torres Strait Islander and South Sea Islander people. The
+archaeological remains illustrate how non-European patients were kept at different
+facilities and treated differently to European patients and they provide insights into
+the significant work undertaken by religious orders with non-European patients in
+Queensland (State of Queensland 2012b).
+   Attempts have also been made to relocate some of Queensland’s oldest places,
+particularly the first settlement site at Redcliffe in southeast Queensland. In 1823 the
+area was chosen as the location of a new penal settlement to accommodate secondary
+offenders, those convicts considered of the worst class or who had reoffended while
+serving their original sentence of transportation from Britain. It was intended to
+control the convicts and affect reform through isolation, hard labor, strict discipline,
+and harsh living conditions. On September 1, 1824, the brig Amity set sail from
+Sydney with the commandant of the new settlement, Lieutenant Henry Miller, a
+detachment of soldiers, their wives and nine children, and an initial complement of 29
+convicts (Steele 1972, p. 127; St Pierre 1994, p. 14). A settlement was quickly
+established on Redcliff Point at the northern extent of Moreton Bay. Health problems
+soon became a feature of the settlement with sickness arising from a lack of fresh
+
+438                                                             Int J Histor Archaeol (2013) 17:428–444
+
+
+
+
+Fig. 5 Carved timber gate posts located at the rear of the Fantome Island Lazaret Sisters’ Quarters
+
+
+food and supposedly diseases spread by the persistent mosquitoes that inhabited the
+area and within 8 months the settlement was relocated to the Brisbane River, the site
+of the capital city today.
+   Little physical evidence has ever been found from this short lived settlement site.
+Local residents have collected artifacts thought to be associated with the settlement,
+including convict-style leg-irons discovered in the 1970s and a small collection of
+bricks and other portable artifacts now held in the local museum. Recent archaeo-
+logical investigations have attempted to located physical remains of the settlement
+through non-invasive geophysical surveys of areas of archaeological potential (GBG
+Australia 2008a, b; Sonnemann 2010) and archaeological excavation at the probable
+location of a freshwater well, the Commandant’s house, and brick kiln (Cosmos
+Archaeology 2011; Harris 2011; Prangnell 2009b). No verifiable archaeological
+traces of the settlement were located during at the later two locations.
+   Queensland’s important early primary industries of timber and sugar have also
+been a particular focus of efforts by the Queensland government’s heritage unit. In
+2011 the archaeological remains of Morayfield Plantation, one of Queensland’s
+earliest sugar plantations, were investigated and entered in the heritage register. The
+Caboolture region was one of the first substantial sugar growing districts in south-east
+Queensland. George Raff, a prominent settler in the area, established a sugar
+
+Int J Histor Archaeol (2013) 17:428–444                                               439
+
+
+plantation on the banks of the Caboolture River in 1865 and by 1867 cultivation,
+processing, and distilling operations were well and truly established. Raff, a promi-
+nent supporter of the use of indentured Islander laborers in the sugar industry, used
+men from present day Vanuatu, New Caledonia, and the Solomon Islands to harvest
+cane (Hamilton 1994, p. 34; Morrison 1888, pp. 183–184; Tutt 1973, p. 76). While
+workers of European origin were housed in solid accommodation, Islander laborers
+were not so lucky living in communal quarters (Saunders 1982, p. 116).
+   Investigations at Morayfield Plantation continue and fieldwork focuses on identi-
+fying additional archaeological traces of the former main residence and plantation
+infrastructure, particularly stores and stables buildings, wharves, fence lines, mill, and
+early tramway formations (Fig. 6). Historical documentation is limited and it is
+expected that future archaeological investigations will provide otherwise unavailable
+information about the overall plantation layout, how it compares to other early sugar
+plantations around Queensland and the lives of indentured laborers.
+
+
+Engaging the Public and the Quest for Relevance
+
+   We have to demonstrate in a public way that historical archaeology can tell us a
+   lot more than we can learn from historical records, and can tell us different
+   things, things that are both important and interesting (Connah 1998, p. 6).
+
+   While the value of the contribution made by historical archaeological scholarship
+to our understanding of the recent past is still sometimes debated by the archaeolog-
+ical community (Harrison and Schofield 2010) the general public understands the
+archaeological discipline through popular culture. In particular, movies, television
+series and documentaries depicting treasure hunting, the antiquities trade and a
+general fascination with exotic, mysterious and “vanished” ancient civilizations from
+other continents appear to dominate archaeological programming to the detriment of
+local content. It is no wonder then that amongst 2,100 responses by Australian’s to a
+
+
+
+
+Fig. 6 Remnant stair case from the main Morayfield Plantation residence
+
+440                                                     Int J Histor Archaeol (2013) 17:428–444
+
+
+recent survey on what Australian heritage means, archaeology was not even men-
+tioned (McDonald 2006, p. 1). This oversight is shocking considering that respondents
+actually defined heritage very broadly and understood it to include a wide range of objects,
+places and experiences (McDonald 2006, p. 3). One could surmise that the majority of
+Australians do not know that archaeology is something even done in Australia.
+   Australian scholars have noted that when members of the public have some
+knowledge of archaeological work that the results are most often considered self
+evident or of little public benefit (Allen and North 2000, p. 55; North 2006, p. ii). The
+general public is overtly concerned about “historic architecture” and “irreplaceable”
+heritage places, such as national icons, with no recognition given to the wide range of
+archaeological resources found throughout the country (McDonald 2006, p. 9). This
+ignorance of archaeological values is particularly the case where the archaeological
+record has been created well within living memory, where the primacy of detailed
+documentation and oral accounts leads the public to believe that archaeological
+examination of the physical environment is costly and pointless.
+   Public perceptions are at odds with those of the professional archaeologist in
+Australia whose views have been shaped by academia and by “doing” archaeology
+within a dominant heritage management paradigm. Even so, Australian historical
+archaeologists continue to battle lack of recognition and acceptance within a broader
+heritage establishment which often overlooks the potential value of the discipline and
+sometimes even its very existence. Heritage assessment criteria, developed by heritage
+bodies and government agencies, continue to reinforce perceptions that archaeology can
+only contribute anything of consequence when such information could not otherwise be
+obtained from other sources such as the documentary record (Queensland Heritage
+Council 2006, pp. 16–17; State of New South Wales 2001, p. 20). Recent discussions
+about the future of Australia’s heritage programs also continue to promote the nation’s
+tangible heritage as revolving around the “built and natural environments” with little
+recognition of the existence of archaeological phenomena (Spearitt 2011).
+   Archaeological projects in Queensland have begun to contribute substantive
+work that may help break down public misconceptions and expose the value of
+archaeological research to the broader heritage community. Archaeological in-
+vestigations at The Eagle’s Nest Depression Camp, near Toowoomba in south-
+ern Queensland, is one recent example. Established in 1932 at the height of the
+Great Depression, the camp housed and feed unemployed men. Assumed to
+have been too ephemeral in nature to leave behind any significant archaeolog-
+ical traces, substantial surface and subsurface remains were detected and exca-
+vated. Barker and Lamb (2009) identified that the archaeology was “a symbol
+of main-stream middle-class Australian values…a material symbol of the work
+ethic central at this time to notions of human dignity, respect and the moral
+development of individuals” (Barker and Lamb 2009, p. 263). Barker and Lamb
+(2009) also point out that while considerable historical scholarship has been carried out
+on aspects of the Great Depression and its effects across Australia, the issue has been
+almost been entirely ignored by the archaeological community.
+   It is important to find effective methods to increase general community
+awareness of historical archaeology as a discipline and its potential to contrib-
+ute in new ways to our understanding of the past. The Pandora Project is a
+rare example of a historical archaeological project in Queensland that has
+
+Int J Histor Archaeol (2013) 17:428–444                                                                 441
+
+
+succeeded in communicating its findings to both academic and general audi-
+ences. A British Naval frigate, HMS Pandora, was bound for Timor after
+searching the South Pacific for mutineers from HMS Bounty when she wrecked
+on the Great Barrier Reef in 1791. The wreck was relocated in 1977 and has been
+subjected to one of the most extensive and expensive archaeological investigations in
+Queensland history. Over 10 field seasons the Queensland Museum has recovered
+thousands of artifacts. A significant amount of funding was raised to undertake these
+excavations and follow-up research into the finds including numerous peer reviewed
+articles on the subject (e.g. Campbell and Gesner 2000; Coleman 1988; Fallowfield
+2001; Gesner 1989, 1990, 1993, 2000a, b; Henderson 1980, 1984; Illidge 2002;
+McCafferty 1989). The collection was considered of such significance that a museum
+was founded in Townsville dedicated to the collection.
+
+
+Concluding Remarks
+
+It has been illustrated that limited historical archaeological research relative to the
+actual extent of the resource has been undertaken in Queensland since the first
+excavations in the 1970s. The potential for the discipline in Queensland to contribute
+to academic discussion and debate on a range of topical issues and particular aspects
+of Queensland’s history is immeasurable and unlikely to be realized to any great
+extent without substantial growth in the number of practitioners actually “doing”
+historical archaeology and, most importantly practitioners, publishing their results.
+Closely related are the benefits of ensuring that the results of historical archaeological
+endeavors are of relevance beyond the academic community. More needs to be done
+to ensure that the results of a broad range of archaeological projects, from data
+obtained from academic research through to regulatory projects, find their way into
+the public domain.
+   It has been argued that any real increase in the actual number of practitioners in
+Queensland will not take place if suitable regulatory systems are not developed that
+foster such growth. At present it is the existence of regulatory requirements for
+archaeological investigations within certain development contexts that provide much
+of the historical archaeological work in Queensland. Any regulatory reform faces the
+challenge of balancing the desires of the archaeological community for best practice
+standards with often conflicting political motivations. To achieve effective reform,
+regulators must be convinced of the benefits of embracing a more inclusive under-
+standing of cultural heritage as existing attitudes to planning issues seldom embrace
+concepts of archaeological potential or move beyond the recognition of built fabric.
+   Queensland is a vast and diverse place with a rich historical archaeological resource
+of great potential for increasing our understanding of the recent past. There exists great
+opportunities for researchers with a wide range of issues so far unexplored through
+archaeological enquiry. Much of this potential can only be realized once the discipline
+has achieved greater relevance within the broader community.
+
+Acknowledgments Any errors or omissions in this article are my own. The opinions expressed also
+remain my own and unless referenced to specific legislation, policy or guidelines do not necessarily reflect
+those of my employer or the Queensland government.
+
+442                                                                Int J Histor Archaeol (2013) 17:428–444
+
+
+References
+
+Allen, C., and North, M. A. (2000). Review of Historical Archaeology Planning Systems and Practice in
+    New South Wales, New South Wales Heritage Office, Parramatta.
+Barker, B. C., and Lamb, L. D. (2009). The archaeology of poverty and human dignity: charity and the
+    work ethic in a 1930s Depression era itinerant’s camp on the Toowoomba Range escarpment,
+    Queensland. Archaeologies: Journal of the World Archaeological Congress 5(2): 263–279.
+Beck, S. (2008). Maritime Mechanisms of Contact and Change: Archaeological Perspectives on the History
+    and Conduct of the Queensland Labour Trade, Doctoral dissertation, James Cook University, Townsville.
+Burningham, N. (1994). Aboriginal nautical art: a record of the Macassan and the pearling industry in
+    northern Australia. The Great Circle 16: 139–151.
+Campbell, J. (2002). Invisible Invaders: Smallpox and Other Diseases in Aboriginal Australia 1780–1880,
+    Melbourne University Press, Carlton.
+Campbell, J., and Gesner, P. (2000). Illustrated catalogue of artifacts from the HMS Pandora wrecksite
+    excavations 1977–1995. Memoirs of the Queensland Museum Cultural Heritage Series 2(1): 53–159.
+Coleman, R. (1988). A “Taylor’s” common pump from HMS Pandora (1791). International Journal of Nautical
+    Archaeology 17(3): 201–204.
+Connah, G. (1988). “Of the Hut I Builded”: The Archaeology of Australia’s history, Cambridge University
+    Press, Sydney.
+Connah, G. (1998). Pattern and purpose in historical archaeology. Australasian Historical Archaeology 16: 3–7.
+Connah, G. (2010). Writing About Archaeology, Cambridge University Press, Cambridge.
+Cosmos Archaeology (2011). Archaeological Investigation of the “Convict Well,” Ambassador Hotel,
+    Redcliffe, Department of Environment and Resource Management, Brisbane.
+Department of Environment and Resource Management (2010). Results of Archaeological Investigations at
+    the Former Taroom Aboriginal Reserve (Bundulla), Heritage Branch, Brisbane.
+Department of Environment and Resource Management (2011). Results of Archaeological Investigations at
+    Fantome Island, Great Palm Island Group, North Queensland, Heritage Branch, Brisbane.
+Egloff, B. J. (1994). From Swiss Family Robinson to Sir Russell Drysdale: towards changing the tone of
+    historical archaeology in Australia. Australian Historical Archaeology 12: 3–5.
+Evans, R. (2007). A History of Queensland, Cambridge University Press, Melbourne.
+Fallowfield, T. (2001). Polynesian fishing implements from HMS Pandora. The Bulletin of the Australian
+    Institute for Maritime Archaeology 25: 5.
+GBG Australia (2008a). Geophysical Investigation Using Ground Penetrating Radar and Magnetic Gradiom-
+    eter for First Settlement Sites, Sutton Street Redcliffe, Queensland, Redcliffe City Library, Redcliffe.
+GBG Australia (2008b). Geophysical Investigation Using Ground Penetrating Radar and Magnetic
+    Gradiometer for First Settlement Sites, Anzac Avenue, Queensland, Redcliffe City Library, Redcliffe.
+Gesner, P. (1989). The Pandora project: reviewing genesis and rationale. The Bulletin of the Australian
+    Institute for Maritime Archaeology 12(1): 27–36.
+Gesner, P. (1990). Situation report: HMS Pandora. The Bulletin of the Australian Institute for Maritime
+    Archaeology 14(2): 47.
+Gesner, P. (1993). Managing Pandora’s box: the 1993 Pandora expedition. The Bulletin of the Australian
+    Institute for Maritime Archaeology 17(2): 7.
+Gesner, P. (2000a). Pandora: An Archaeological Perspective, Queensland Museum, Brisbane.
+Gesner, P. (2000b). HMS Pandora project: a report on stage 1: five seasons of excavation. Memoirs of the
+    Queensland Museum Cultural Heritage Series 2(1): 1–52.
+Hadnutt, N. (2010). Identifying Camp 46r, the Burke and Wills “Plant Camp,” Bachelor of Arts Honors
+    dissertation, University of Queensland, Brisbane.
+Hall, J., Prangnell, J., and David, B. (1996). The Tower Mill: an archaeological excavation of Queensland’s
+    oldest extant building. Queensland Archaeological Research 10: 1–6.
+Hamilton, P. (1994). Sugar from the Scrub: A Pictorial History of Walkerston, Boolarong Press, Brisbane.
+Harris, J. (2011). Analysis of Nails from the Convict Well, Ambassador Hotel, Redcliffe, Cosmos Archaeology,
+    Murwillumbah.
+Harrison, R., and Schofield, A. J. (2010). After Modernity: Archaeological Approaches to the Contempo-
+    rary Past, Oxford University Press, Oxford.
+Haslam, M., Prangnell, J., Kirkwood, L., McKeough, A., Murphy, A., and Loy, T. (2003). A Lang Park mystery:
+    analysis of remains from a 19th century burial in Brisbane, Queensland. Australian Archaeology 56: 1–7.
+Hayes, L. (2000). Pacific Islanders on Queensland Plantations: Archaeological Landscapes of Power and
+    Survival in the 19th Century, Doctoral dissertation, James Cook University, Townsville.
+
+Int J Histor Archaeol (2013) 17:428–444                                                                 443
+
+Henderson, G. (1980). Finds from the wreck of HMS Pandora. International Journal of Nautical
+     Archaeology 9(3): 237–243.
+Henderson, G. (1984). Aspects of the 1983 HMS Pandora expedition: the 1983 excavation season. The
+     Bulletin of the Australian Institute for Maritime Archaeology 8(2): 10–17.
+Higginbotham, E. (1990). Historical and Archaeological Assessment of the Eagle Farm Agricultural
+     Establishment, Female Factory and Prison, Eagle Farm, Brisbane, Queensland, Australian Construc-
+     tion Services, Brisbane.
+Higginbotham, E. (1991). Archaeological Assessment of the Eagle Farm Agricultural Establishment,
+     Female Factory and Prison, Eagle Farm, Brisbane, Queensland: Stage 2, Australian Construction
+     Services, Brisbane.
+Iacono, N. (2002). Beyond the breach: advancing strategies for archaeological management plans.
+     Australasian Historical Archaeology 20: 39–47.
+Iacono, N. (2005). Managing the Archaeology of the Modern City. Doctoral dissertation, La Trobe
+     University, Victoria.
+Illidge, P. (2002). The Tahitian mourner’s costume from HMS Pandora. The Bulletin of the Australian
+     Institute for Maritime Archaeology 26: 65.
+ICOMOS (1990). Charter for the Protection and Management of the Archaeological Heritage. UNESCO-
+     ICOMOS Documentation Centre. Available online from http://www.international.icomos.org/charters/
+     arch_e.pdf. Accessed 17 June 2013.
+Jack, I., Holmes, K., and Kerr, R. (1984). Ah Toy’s garden: a Chinese market-garden on the Palmer River
+     Goldfield, North Queensland. Australian Journal of Historical Archaeology 2: 51–58.
+Jane Lennon and Associates, and Pearce, H. (1996). Mining Heritage Places Study, Northern and Western
+     Queensland, Cultural Heritage Branch, Department of Environment, Brisbane.
+Kerr, R. (1992). Queensland Historical Mining Sites Study, Department of Environment and Heritage, Brisbane.
+Leahy, F. (2007). Locating the “Plant Camp” of the Burke and Wills expedition. Journal of Spatial Science
+     52(2): 1–12.
+MacKnight, C. C. (1969). The Macassans: A Study of the Early Trepanging Industry Along the Northern
+     Territory Coast. Doctoral dissertation, Australian National University, Canberra.
+MacKnight, C. C. (1972). Macassans and Aborigines. Oceania 42: 283–319.
+MacKnight, C. C. (1973). The nature of early maritime trade: some points of analogy from the eastern part
+     of the Indonesian archipelago. World Archaeology 5: 198–208.
+MacKnight, C. C. (1986). Macassans and the Aboriginal past. Archaeology in Oceania 21: 69–75.
+Mate, G. (2010). Mining the Landscape: Finding the Social in the Industrial Through an Archaeology of
+     the Landscapes of Mount Shamrock, Doctoral dissertation, University of Queensland, St Lucia,
+     Queensland.
+McCafferty, M. (1989). Direct linear transformation: a case study based on HMS Pandora. The Bulletin of
+     the Australian Institute for Maritime Archaeology 12(1): 51–55.
+McDonald, H. (2006). Understanding Public Involvement with Australian Heritage: Final Research
+     Report, Deakin University, Victoria.
+McGowan, G., and Prangnell, J. (2006). The significance of vivianite in archaeological settings.
+     Geoarchaeology 21: 93–111.
+McGowan, G., and Prangnell, J. (2009). “The truth will out”: recycling of packing timber to construct a
+     nineteenth century Australian coffin. Australian Archaeology 68: 56–58.
+Morrison, W. F. (1888). Aldine History of Queensland, vol. 1, Aldine, Sydney.
+Mulvaney, J. (1996). “Musing amidst the ruins…”: the development of historical archaeology in Australia.
+     Australasian Historical Archaeology 14: 3–8.
+Murphy, K. (2003). Under the boards: The study of archaeological site formation processes at the
+     Commissariat Store Site, Brisbane. Bachelor of Arts (Honors) dissertation, University of Queensland,
+     St Lucia, Queensland.
+Murphy, K. (2010). Archaeology of Social Interaction, Practices and Community in Colonial Australia,
+     Doctoral dissertation, University of Queensland, St Lucia, Queensland.
+Murray, T., and Crook, P. (2005). Exploring the archaeology of the modern city: issues of scale, integration
+     and complexity. International Journal of Historical Archaeology 9: 89–109.
+North, M. A. (2006). Protecting the Past for the Public Good: Archaeology and Australian Heritage Law.
+     Doctoral dissertation, University of Sydney, New South Wales.
+Pearson, M. (1994). Mining Heritage Places Study, Stage 2B: Southern and Central Queensland,
+     Queensland Department of Environment and Heritage, Brisbane.
+Prangnell, J. (1991). Brisbane’s Tower Mill: Archaeological Investigation and Explanation of a Historic
+     Urban Site. Bachelor of Arts (Honors) dissertation, University of Queensland, St. Lucia, Queensland.
+
+444                                                                 Int J Histor Archaeol (2013) 17:428–444
+
+Prangnell, J. (1999). Intended Solely for their Greater Comfort and Happiness: Historical Archaeology,
+     Paternalism and the Peel Island Lazaret. Doctoral dissertation, University of Queensland, St Lucia,
+     Queensland.
+Prangnell, J. (2009a). The Brisbane City CBD Archaeological Plan: Phases 2, 3 and 4, University of
+     Queensland Archaeological Services Unit, University of Queensland, St Lucia.
+Prangnell, J. (2009b). Redcliffe First Settlement Archaeological Project: Stage 2: December 2008 Field
+     Season, University of Queensland Archaeological Services Unit, University of Queensland, St Lucia.
+Prangnell, J., and Mate, G. (2011). Kin, fictive kin and strategic movement: working class heritage of the
+     Upper Burnett. International Journal of Heritage Studies 17: 318–330.
+Prangnell, J., and McGowan, G. (2009). Soil temperature calculation for burial site analysis. Forensic
+     Science International 191: 104–109.
+Prangnell, J., and Quirk, K. (2009). Children in paradise: growing up on the Australian goldfields.
+     Historical Archaeology 43(3): 38–49.
+Prangnell, J., and Terry, L. (2008). The Brisbane City CBD Archaeological Plan: Phase 1, University of
+     Queensland Archaeological Services Unit, University of Queensland, St Lucia.
+Queensland Heritage Council (2006). Using the Criteria: A Methodology, Queensland Heritage Council, Brisbane.
+Quirk, K. (2007). The Victorians in “Paradise”: Gentility as Social Strategy in the Archaeology of Colonial
+     Australia. Doctoral dissertation, University of Queensland, St Lucia, Queensland.
+Quirk, K. (2008). The colonial goldfields: visions and revisions. Australasian Historical Archaeology 26: 13–20.
+Quirk, K. (2010). Reply to a “Straw Person in Paradise”. Australasian Historical Archaeology 28: 88.
+RA Riddel Architecture (2007). Eagle Farm Agricultural Establishment Cultural Heritage Management
+     Plan, RA Riddel Architecture, Brisbane.
+Rae, E. (2005). Uncovering Mill Point: Understanding Concepts of Space at Australian Historic Sawmills.
+     Bachelor of Arts (Honors) dissertation, University of Queensland, St Lucia, Queensland.
+Rains, K. (2004). Intersections: The Overseas Chinese Social Landscape of Cooktown 1873–1935.
+     Doctoral dissertation, University of Queensland, St Lucia, Queensland.
+Rains, K., and Prangnell, J. (2002). Background to the University of Queensland Archaeological Services
+     Unit’s Lang Park salvage excavations: history, significance assessment and methods. Queensland
+     Archaeological Research 13: 21–30.
+Sanker, I. G. (1979). Final Report: Historical Archaeological Investigation, Commissariat Store, Queensland
+     Museum, Brisbane.
+Saunders, K. (1982). Workers in Bondage: The Origins and Bases of Unfree Labour in Queensland 1824–
+     1916, University of Queensland Press, St Lucia.
+Sonnemann, T. (2010). Ground Penetrating Radar Survey at Redcliffe First Settlement Well at Redcliffe
+     Parade, Redcliffe, Queensland, Department of Environment and Resource Management, Brisbane.
+Spearitt, P. (2011). Essay: What is Heritage? Australian Heritage Strategy, Canberra.
+St Pierre, J. (1994). Moreton Bay Detachment 1824–25: The Soldiers who Served at Redcliffe Convict
+     Settlement, Redcliffe Historical Society, Redcliffe.
+State Government of Victoria (2010). The Heritage Overlay Guidelines 15: Archaeological Sites, Heritage
+     Victoria and Victorian Heritage Council, Melbourne.
+State of New South Wales (2001). Assessing Heritage Significance, a NSW Heritage Manual Update, New
+     South Wales Heritage Office, Parramatta.
+State of Queensland (2012a). Taroom Aboriginal Settlement (former), Queensland Heritage Register entry
+     602769. <https://www.derm.qld.gov.au/chimsi/placeDetail.html?siteId=25109>.
+State of Queensland (2012b). Fantome Island Lock Hospital and Lazaret Sites (Former), Queensland Heritage
+     Register entry 602798. <https://www.derm.qld.gov.au/chimsi/placeDetail.html?siteId=32314>.
+Steele, J. G. (1972). The Explorers of the Moreton Bay District 1770–1830, University of Queensland
+     Press, St Lucia.
+Tutt, S. (1973). Caboolture Country: Stories of the Area Once Controlled by the Caboolture Divisional
+     Board, Shires of Pine Rivers, Caboolture, Kilcoy, Landsborough and Maroochy, City of Redcliffe,
+     Caboolture Historical Society, Caboolture.
+Van Proctor, J. (1975). Digging at the Royal Bull’s Head Inn, Drayton, Toowoomba. Australian Society for
+     Historical Archaeology Newsletter 5(2): 3–5.
+

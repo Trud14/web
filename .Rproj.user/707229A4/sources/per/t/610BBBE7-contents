@@ -1,0 +1,74 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+my_tbl <- tibble::tribble(
+  ~Repositories, "dfhdfg",
+     "hfh", "fdhfd",
+    "fhdf",  "dfhh"
+  )
+
+require(rhandsontable)
+rhandsontable(my_tbl, rowHeaders = NULL,
+               digits = 3, useTypes = FALSE, search = FALSE,
+               width = NULL, height = NULL)
+
+```
+
+``` {\\\{r}
+df <- data.frame(stringsAsFactors = FALSE,
+                 Repositories = c("Trove", "University of New England Library", "Boggo Road Gaol Historical Society", "The National Library of Australia", "Queensland Historical Atlas", "Queensland Heritage Register", "ProQuest One Academic", "Gale Academic OneFile", "Taylor & Francis Online", "Text Queensland: Queensland's past online", "Queensland Police: Police Museum", "The Royal Historical Society of Queensland: The Commissariat Store Museum", "SpringerLink", "State Library of Queensland", "googleScholar", "Moreton Bay Region: Our Story", "Queensland Government Department of Environment and Science"),
+                 Repositories = c("Indigenous Australia: National Centre of Biography at the Australian National University", "The Free Library by Farlex", "Project Gutenberg Australia", "Scootle: Australian Government Department of Education", "Australian Government Department of Climate Change, Energy, the Environment and Water", "ebscohost", "JSTOR", "Brisbane City Council Library Services: Brisbane Images", "Queensland State Archives", "The Wayback Machine: Internet Archive", "The St Helena Island Community blog", "SAGE Journals", "Informit", "The University of Queensland: UQ eSpace", "Moreton Bay Environmental Education Centre", "ARDC Research Data Australia", "HathiTrust Digital Library"))
+                 
+knitr::kable(x = df,
+             caption = "Repositories accessed to obtain sources")
+```
+
+```{r, ugly-table}
+Repositories[1:18,]
+
+```
+
+library(readr)
+
+codebook \<- read_csv("Portfolio_task_03/codebook.csv")
+
+print(codebook)
+
+\`\`\`{r echo=FALSE}
+
+print(Repositories)
+
+    <div style="margin-bottom:80px;">
+    ```{r setup, include=FALSE}
+    knitr::opts_chunk$set(echo = TRUE)
+    ```
+    </div>
+    ##### [*Aerial photograph of St Helena prison*]{.underline}
+    <div style="margin-bottom:10px;">
+    </div>
+    ![Brisbane City Council (1920) *Aerial photograph of St Helena prison in the 1920s* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23184/0)*,* Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23184/0){alt="Brisbane City Council (1920) Aerial photograph of St Helena prison in the 1920s [photograph], Brisbane Images, Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022."}
+    <div style="margin-bottom:30px;">
+    </div>
+    This aerial photograph of the St Helena Penal Establishment focuses on the buildings surrounding the stockade, as the island is much larger than shown. This image is significant to the case study as it shows the scale and the layout of a section of the Penal Establishment. It shows the stockade's layout, which may have previously only been seen in 2-dimensional plans, and probably not available to the public. The stockade is relatively small when compared to the warder's accommodation, on the right of the picture. The photo gives an impression of the scale of the crops grown on the island, showing many large parcels of land that were worked by inmates. The picture also shows a small portion of the mangroves surrounding the island, which deter would-be escapees. I think the picture dates from the early 20^th^ century, well between 1912 and 1932, when the Penal Establishment closed. The picture may well have been taken when the closure was announced.
+    <div style="margin-bottom:40px;">
+    </div>
+    ##### [*Corridor 'D' Wing, St Helena Penal Establishment*]{.underline}
+
+    ![Brisbane City Council (1915) *Corridor 'D' Wing, St Helena Penal Establishment* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23182/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23182/0)
+    <div style="margin-bottom:30px;">
+    </div>
+    This image is significant to the case study as it is a rare glimpse into the inner sanctum of the prison. The inmate stands in a corridor between cells. The cells are numbered, with the tongue and groove timber walls displaying the security of the building. The staged image would have been used to promote the Penal Establishment as a model establishment. The image is an insight into what the inmates saw every day, which was not shared widely with the public.
+    <div style="margin-bottom:40px;">
+    </div>
+    ##### [*Land under cultivation, St. Helena penal establishment*]{.underline}
+
+    ![Brisbane City Council (1890) *Land under cultivation, St. Helena penal establishment* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23407/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23407/0)
+    <div style="margin-bottom:30px;">
+    </div>
+    This image is significant to the case study as it shows the three most crucial elements of the Penal Establishment in one shot. The sugar mill has been positioned in the background, with the stockade to the right, and the crops in the foreground. The crops are important in making the Penal Island self-sufficient and providing a place of employment for inmates who work toward reforming their characters. The variety of crops grown is shown in the picture, along with inmates who appear to have some freedom, as there are no warders to be seen and they are not wearing irons. With the lack of supervision and the well-established crops and cleared land, the picture was probably taken around the turn of the century and gives a visual description of life on the island.
+    <div style="margin-bottom:40px;">
+    </div>
+    ##### [*Prison cell*]{.underline}
