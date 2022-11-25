@@ -1,0 +1,299 @@
+
+
+
+
+<!-- the following ensures the jsp is never cached, the reason for this is to ensure the subscribedForeignIDs which is set server side is refreshed each time the page is loaded -->
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+	
+	
+	<html lang="en">
+<head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Queensland Spatial Catalogue : Queensland Government</title>
+	
+	
+	
+	<!-- CUE stylesheets -->
+	<link rel="stylesheet" type="text/css" href="assets/cue/css/qg.css" media="all">
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="assets/cue/css/qg-ie.css" media="all"><![endif]-->
+	<link rel="stylesheet" type="text/css" href="assets/cue/css/layout-small.css" media="all">
+	<link rel="stylesheet" type="text/css" href="assets/cue/css/layout-medium.css" media="only all and (min-width: 43em) and (max-width: 65em)">
+	<link rel="stylesheet" type="text/css" href="assets/cue/css/layout-large.css" media="only all and (min-width: 65em)">
+	
+	<!-- ArcGIS stylesheets -->
+	<link rel="stylesheet" type="text/css" href="//js.arcgis.com/3.9/js/esri/css/esri.css" />
+    <link rel="stylesheet" type="text/css" href="//js.arcgis.com/3.9/js/dojo/dijit/themes/claro/claro.css" />
+	
+	<!-- jQuery UI stylesheet -->
+	<link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" />
+	
+	<!-- Theme stylesheet -->
+	<link rel="stylesheet" type="text/css" href="assets/css/dnrm.css" media="all">
+	<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="assets/css/dnrm-ie.css" media="all"><![endif]-->
+    
+	<link rel="shortcut icon" href="assets/cue/images/favicon.ico">
+	
+    
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    	<script type="text/javascript" src="assets/cue/js/ie-layout.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="qld-gov-au">
+	
+	<!--[if lt IE 9]><script type="text/javascript">jQuery && jQuery.transformer({addClasses:true})</script><![endif]-->
+	<div id="access">
+		<h2>Skip links and keyboard navigation</h2>
+		<ul>
+			<li><a href="#content">Skip to content</a></li>
+			<li><a href="#nav-site">Skip to navigation</a></li>
+			<li><a href="#footer">Skip to footer</a></li>
+			<li><a href="https://www.qld.gov.au/help/accessibility/keyboard.html#section-aria-keyboard-navigation">Use tab and cursor keys to move around the page (more information)</a></li>
+		</ul>
+	</div>
+
+	<div id="header"><div class="box-sizing"><div class="max-width">
+		<h2>Site header</h2>
+		
+        <a id="qg-coa" href="https://www.qld.gov.au/">
+            <!--[if gte IE 7]><!--><img src="assets/theme/qg-coa.png" width="287" height="50" alt="Queensland Government"><!--<![endif]-->
+            <!--[if lte IE 6]><img src="theme/qg-coa-ie6.png" width="287" height="50" alt="Queensland Government"><![endif]-->
+            <img src="assets/cue/images/qg-coa-print.png" class="print-version" alt="">
+        </a>
+		<!--
+		<ul id="tools">
+			<li><a accesskey="4" href="https://www.qld.gov.au/contact/">Contact us</a></li>
+			<li><a href="https://www.qld.gov.au/help/">Help</a></li>
+			<li class="last-child">
+				<form action="https://pan.search.qld.gov.au/search/search.cgi" id="search-form">
+					<div class="search-wrapper">
+						<label for="search-query">Search Queensland Government</label>
+						<input accesskey="5" type="text" name="query" id="search-query" size="27" value="" placeholder="Site search">
+						<input type="submit" class="submit" value="Search">
+						<input type="hidden" name="num_ranks" value="10">
+						<input type="hidden" name="tiers" value="off">
+						<input type="hidden" name="collection" value="qld-gov">
+						<input type="hidden" name="profile" value="qld">
+					</div>
+				</form>
+			</li>
+		</ul>
+        -->
+		<h2 id="site-name"><a href="/" accesskey="2">Queensland Spatial Catalogue - QSpatial</a></h2>
+		<h2 id="site-name"><font color="red">
+<!--QSpatial extractable datasets and services will be unavaliable on Sunday night 24th October from 6:00pm to 7:00pm. We apologise for any inconvenience.
+Please note that there may be interruptions to the download service on Sunday, 31 January 2021 between 8 am and 6 pm due to system maintenance.-->
+
+</font></h2>
+        
+	</div></div></div>
+
+	
+	<div id="nav-site"><div class="max-width">
+		<h2>Site navigation</h2>
+		<ul>
+			<li><a href="/catalogue/custom/index.page">Home</a>	</li>
+			<li><a href="/catalogue/custom/search.page">Search</a></li>
+			<li class="view-map"><a href="/catalogue/custom/map.page">View Map</a></li>
+			<li><a href="/catalogue/custom/about.page">About us</a></li>
+			<li><a href="/catalogue/custom/feedback.page">Contact us</a></li>
+			<li><a href="/catalogue/custom/help.page">Help</a></li>
+			<li class="mylist"><a href="/catalogue/custom/myList.page"><span class="mylistcount">0</span>My list</a></li>
+			
+
+
+
+
+<form id="frmTertiaryNavigation" name="frmTertiaryNavigation" method="post" action="/catalogue/custom/search.page" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="frmTertiaryNavigation" value="frmTertiaryNavigation" />
+
+	<li class="profile">
+<script type="text/javascript" src="/catalogue/javax.faces.resource/jsf.js.page?ln=javax.faces"></script>
+<a id="frmTertiaryNavigation:identityRegister" href="#" onclick="mojarra.jsfcljs(document.getElementById('frmTertiaryNavigation'),{'frmTertiaryNavigation:identityRegister':'frmTertiaryNavigation:identityRegister'},'');return false" class="">Login</a></li>
+	<!--li class="login"><a id="frmTertiaryNavigation:identityLogin" href="#" onclick="mojarra.jsfcljs(document.getElementById('frmTertiaryNavigation'),{'frmTertiaryNavigation:identityLogin':'frmTertiaryNavigation:identityLogin'},'');return false" class="">| Login</a></li-->
+	<li class="profile"></li>
+	<li class="login"></li>
+
+<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-8595894566080539346:-6638151899971577844" autocomplete="off" />
+</form>
+
+		</ul>
+	</div></div>
+
+	<div id="page-container"><div class="max-width">
+		<div id="breadcrumbs">
+			<h2>You are here:</h2>
+			<ol>
+				<li><a href="/catalogue/custom/index.page">Home</a></li>
+				<li class="last-child">Search</li>
+			</ol>
+		</div>
+			
+		<div id="gp-search-section"><div class="box-sizing">
+			<div class="gp-filter-group gp-filter-group-term">
+				<h3>Search term</h3>
+				<form id="gp-search-term-form">
+					<input type="text" name="gp-search-term" id="gp-search-term"><button name="gp-search-go">Go</button>
+				</form>
+			</div>
+		
+			<div class="gp-filter-group gp-filter-group-location transition250">
+				<div class="gp-filter-group-control"></div>
+				<h3>Filter by location</h3>
+				<div class="gp-filter-group-content">
+					<form id="gp-search-map-form">
+						<div id="gp-search-location"></div>
+						
+						<div style="white-space-collapse:collapse;"><div class="gp-location-tab active">LGA</div><div class="gp-location-tab gp-location-tab-last">City/Suburb</div></div>
+						<div class="gp-location-tab-content">
+							<div class="dnrm-select gp-location-select gp-location-select-lga"></div>
+						</div>
+						<div class="gp-location-tab-content">
+							<div class="dnrm-select gp-location-select gp-location-select-city"></div>
+						</div>
+						
+						<button value="Anywhere" class="active">Anywhere</button><button value="Intersects">Intersects</button><button value="IsWithin">Within</button>
+						
+					</form>
+					<div class="gp-filter-group-map" id="FilterByLocation"></div>
+				</div>
+			</div>
+			
+			<div class="gp-search-filters"></div>
+		</div></div>
+		
+		<div id="content-container" class="no-asides">
+            
+            <div id="content">
+            
+				<div class="article"><div class="box-sizing">
+					
+					<div class="page-options" id="pre-page-options">
+						<ul>
+							<li><a class="share" href="https://www.qld.gov.au/share/">Share</a></li>
+						</ul>
+					</div>
+					
+					<h1>Search results</h1>
+		
+					<div class="section">
+						<div class="gp-search-active"></div>	
+						<div class="gp-search-sort"></div>
+						<div class="gp-search-results"></div>
+					</div>
+					
+					<div id="pagination"></div>
+                    
+				</div></div>
+				
+			</div>
+            
+            <div id="page-feedback">
+            	<form action="" method="post">
+                	<h2>Rate this page</h2>
+                	<ol class="questions">
+                        <li class="select1"><fieldset>
+                            <strong>How useful was the information on this page?</strong>
+                            <ol class="options">
+                                <li><label for="rating-high"><input type="radio" name="rating" id="rating-high" value="high"> Very useful</label></li>
+                                <li><label for="rating-medium"><input type="radio" name="rating" id="rating-medium" value="medium"> Somewhat useful</label></li>
+                                <li><label for="rating-low"><input type="radio" name="rating" id="rating-low" value="low"> Not very useful</label></li>
+                            </ol>
+                        </fieldset></li>
+                        <li class="textarea">
+                            <label>Other feedback</label>
+                            <textarea name="feedback" id="feedback" cols="50" rows="7"></textarea>
+                        </li>
+                    </ol>
+                    <div class="actions">
+                    	<input class="primary-action" type="submit" value="Submit feedback">
+                    </div>
+                </form>
+            </div>
+			
+		</div>
+		
+	</div></div>
+
+	
+	<div id="footer">
+		<div class="max-width"><div class="box-sizing">
+			<h2>Site footer</h2>
+			<ul>
+				<li class="legal"><a href="https://www.qld.gov.au/legal/copyright/">Copyright</a></li>
+				<li class="legal"><a href="https://www.qld.gov.au/legal/disclaimer/">Disclaimer</a></li>
+				<li class="legal"><a href="https://www.qld.gov.au/legal/privacy/">Privacy</a></li>
+				<li class="legal"><a href="https://www.qld.gov.au/right-to-information/">Right to information</a></li>
+				<li><a href="https://www.qld.gov.au/help/accessibility/">Accessibility</a></li>
+				<li><a href="https://www.smartjobs.qld.gov.au/">Jobs in Queensland Government</a></li>
+				<li id="languages"><a href="https://www.qld.gov.au/languages/">Other languages</a></li>
+			</ul>
+			<p class="legal">&copy; The State of Queensland (Department of Resources) 2022</p>
+			<p><a href="http://www.qld.gov.au/" accesskey="1">Queensland Government</a></p>
+			<div id="qg-branding"><p><img class="tagline" src="assets/theme/qg-tagline-footer.png" alt="Great state. Great opportunity."></p></div>
+		</div></div>
+		
+	</div>
+    
+	
+    <!--[if gte IE 9]><!-->
+    	<script type="text/javascript"><!--
+		// OPTIONAL: manually specify the current page title (to determine which menus are open onload)  
+		//var currentPageTitle = '_INSERT_PAGE_TITLE_HERE_';  
+		--></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <!--<![endif]-->
+	<!--[if lte IE 9]><!-->
+		<script type="text/javascript" src="/catalogue/custom/assets/js/jquery.xdomainrequest.min.js"></script>
+	<!--<![endif]-->
+	<script type="text/javascript" src="/catalogue/custom/assets/cue/js/qg.js"></script>
+	
+	<script type="text/javascript" src="/catalogue/custom/assets/js/handlebars.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/ZeroClipboard.min.js"></script>
+	
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.config.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.util.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.template.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.observer.js"></script>
+	
+	<script type="text/javascript">
+		// prep arcGIS
+		var package_path = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/'));
+		var dojoConfig = { isDebug: true, parseOnLoad: false,
+			packages: [{
+				name: "application",
+				location: package_path + '/assets/js'
+			}]
+		};
+	</script>
+	<script src="//js.arcgis.com/3.9/" type="text/javascript"></script>
+
+	<script type="text/javascript">
+  esri.config.defaults.io.proxyUrl = "/catalogue/catalog/download/proxy.jsp";
+//Global variables
+  if(typeof(contextPath) == 'undefined' || contextPath == "") {
+    var contextPath = "/catalogue";
+  }
+
+</script>
+
+<script type="text/javascript">var subscribedForeignIDs = [];</script>
+
+<script type="text/javascript">
+
+</script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.data.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.dialogue.js"></script>
+	<script type="text/javascript" src="/catalogue/custom/assets/js/dnrm.search.js"></script>
+</body>
+</html>

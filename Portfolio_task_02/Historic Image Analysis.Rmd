@@ -52,7 +52,7 @@ This image is significant to the case study as it shows the three most crucial e
 
 ##### [*Prison cell*]{.underline}
 
-![Cathy Cooper (2020) *Prison cell* [photograph], [*St Helena Island National Park*](https://www.google.com/maps/uv?pb=!1s0x6b93dfbbe18c8ef5%3A0x29c9140524331d61!3m1!7e164!15sCgIgAQ&hl=en&viewerState=ga&imagekey=!1e10!2sAF1QipOjxYz9FzSt2YTDv3aYUnhtDeYoYqC_hVA5gm0), Google Maps website, Copyright free, accessed 23 October 2022.](images/Prison%20cell.png)
+![Cathy Cooper (2020) *Prison cell* [photograph], [*St Helena Island National Park*](https://www.google.com/maps/uv?pb=!1s0x6b93dfbbe18c8ef5%3A0x29c9140524331d61!3m1!7e164!15sCgIgAQ&hl=en&viewerState=ga&imagekey=!1e10!2sAF1QipOjxYz9FzSt2YTDv3aYUnhtDeYoYqC_hVA5gm0), Google Maps website, Copyright free, accessed 23 October 2022.](pics%20for%20assessment/images/Prison%20cell.png)
 
 ::: {style="margin-bottom:30px;"}
 :::

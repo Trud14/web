@@ -7,21 +7,15 @@ output: html_document
 
 \
 
-
-
-
-
-
 The dataset that I have created involves the St Helena Penal Establishment prisoner cemetery. I have used as many online sources, which were not behind a pay wall, to provide as much information about the buried prisoners; to go beyond a mere list of names and death dates. The dataset aims to humanise the name and number of as many buried prisoners as possible.
 
 \
 
-
-It must be noted however, that the names of those inmates buried at St Helena used in this dataset may be subject to change, and additions, or subtractions, made which were not available at the time of compilation. It has been noted, since 1878, that \'...the names given are not always those of the deceased...\' (Unknown 20 March 1878). It was noted that a \'...slab of timber bears the name, age, and number of each of those beneath\' (Unknown 20 March 1878). However today, the crosses made from stone or cement display only a prison number which may, or may not, correspond to those buried, and are those used in the creation of this dataset.
+It must be noted however, that the names of those inmates buried at St Helena used in this dataset may be subject to change, and additions, or subtractions, made which were not available at the time of compilation. It has been noted, since 1878, that '...the names given are not always those of the deceased...' (Unknown 20 March 1878). It was noted that a '...slab of timber bears the name, age, and number of each of those beneath' (Unknown 20 March 1878). However today, the crosses made from stone or cement display only a prison number which may, or may not, correspond to those buried, and are those used in the creation of this dataset.
 
 \
 
-#### *The dataset includes the following variables:*
+### *The dataset includes the following variables:*
 
 [Surname]{.underline}
 
@@ -157,23 +151,6 @@ It must be noted however, that the names of those inmates buried at St Helena us
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The categorical data shows that English and Aboriginal inmates are the two prominent ethnicities buried, though this may change with new data, as the number of non-disclosed ethnicities stands at 10, the same count as Aboriginal. While I expected to see ethnicities such as South Sea Islanders, Irish etc, I was surprised, for that time period, to see Greece, America and Jamaica represented.
 
  
@@ -196,23 +173,6 @@ I have learnt that having a tidy dataset is key for sharing information with oth
 \
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 References
 
 Ancestry.com (n.d.) [*Queensland, Australia, Death Inquest Index, 1859-1897*](https://www.ancestry.com.au/search/collections/70807/), Ancestry.com website, accessed 3 September 2022.
@@ -225,75 +185,74 @@ Levez J (n.d.) [*St Helena Penal Establishment Prisoners Cemetery*](https://bill
 
 Levez J and Penny L (2016) [*St Helena Penal Establishment Prisoner Cemetery*, Australian Cemeteries website](http://www.australiancemeteries.com.au/qld/brisbane/st_helena/st_helena_prisoners_data.htm), accessed 5 October 2022.
 
-Queensland Government (2022) [*Inquests 1859 to 1902*](https://www.data.qld.gov.au/dataset/inquests-1859-to-1902), Queensland Government Open Data Portal website, accessed 12 October
-2022.
+Queensland Government (2022) [*Inquests 1859 to 1902*](https://www.data.qld.gov.au/dataset/inquests-1859-to-1902), Queensland Government Open Data Portal website, accessed 12 October 2022.
 
-Queensland Government (n.d.) *[Barker George](https://www.archivessearch.qld.gov.au/items/ITM2732765)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Barker George*](https://www.archivessearch.qld.gov.au/items/ITM2732765), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Billy](https://www.archivessearch.qld.gov.au/items/ITM2731612)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Billy*](https://www.archivessearch.qld.gov.au/items/ITM2731612), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Chick John](https://www.archivessearch.qld.gov.au/items/ITM2723189)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Chick John*](https://www.archivessearch.qld.gov.au/items/ITM2723189), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Collins Edward](https://www.archivessearch.qld.gov.au/items/ITM2735171)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Collins Edward*](https://www.archivessearch.qld.gov.au/items/ITM2735171), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Collins William](https://www.archivessearch.qld.gov.au/items/ITM2725725)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Collins William*](https://www.archivessearch.qld.gov.au/items/ITM2725725), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Coronial Files (Inquests and No Inquests)](https://www.archivessearch.qld.gov.au/series/S36)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Coronial Files (Inquests and No Inquests)*](https://www.archivessearch.qld.gov.au/series/S36), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Crown Tim](https://www.archivessearch.qld.gov.au/items/ITM2733594)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Crown Tim*](https://www.archivessearch.qld.gov.au/items/ITM2733594), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Dean Henry](https://www.archivessearch.qld.gov.au/items/ITM2732771)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Dean Henry*](https://www.archivessearch.qld.gov.au/items/ITM2732771), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Downs Archibald](https://www.archivessearch.qld.gov.au/items/ITM2731328)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Downs Archibald*](https://www.archivessearch.qld.gov.au/items/ITM2731328), ArchivesSearch website, accessed 27 October 2022.
 
 Queensland Government (n.d.) [*Family history research service*](https://www.familyhistory.bdm.qld.gov.au/,), Births, deaths, marriages, and divorces website, accessed 22 October 2022.
 
-Queensland Government (n.d.) *[Forka](https://www.archivessearch.qld.gov.au/items/ITM2735702)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Forka*](https://www.archivessearch.qld.gov.au/items/ITM2735702), ArchivesSearch website, accessed 27 October 2022.
 
 Queensland Government (n.d.) [*General record and description of male prisoners - HM Penal Establishment, St Helena*](https://www.archivessearch.qld.gov.au/items/ITM92277), ArchivesSearch website, accessed 26 October 2022.
 
-Queensland Government (n.d.) *[Hayes John](https://www.archivessearch.qld.gov.au/items/ITM2725548)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Hayes John*](https://www.archivessearch.qld.gov.au/items/ITM2725548), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Herrlick John](https://www.archivessearch.qld.gov.au/items/ITM2723358)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Herrlick John*](https://www.archivessearch.qld.gov.au/items/ITM2723358), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Jamerson William](https://www.archivessearch.qld.gov.au/items/ITM2734778)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Jamerson William*](https://www.archivessearch.qld.gov.au/items/ITM2734778), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Jimmy](https://www.archivessearch.qld.gov.au/items/ITM2730160)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Jimmy*](https://www.archivessearch.qld.gov.au/items/ITM2730160), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Jones John](https://www.archivessearch.qld.gov.au/items/ITM2723056)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Jones John*](https://www.archivessearch.qld.gov.au/items/ITM2723056), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Loder John](https://www.archivessearch.qld.gov.au/items/ITM2722068)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Loder John*](https://www.archivessearch.qld.gov.au/items/ITM2722068), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Lover Samuel](https://www.archivessearch.qld.gov.au/items/ITM2729740)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Lover Samuel*](https://www.archivessearch.qld.gov.au/items/ITM2729740), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Mayall George](https://www.archivessearch.qld.gov.au/items/ITM2733865)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Mayall George*](https://www.archivessearch.qld.gov.au/items/ITM2733865), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[McGoldrich Samuel](https://www.archivessearch.qld.gov.au/items/ITM2731103)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*McGoldrich Samuel*](https://www.archivessearch.qld.gov.au/items/ITM2731103), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Mitchel Joseph](https://www.archivessearch.qld.gov.au/items/ITM2731742)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Mitchel Joseph*](https://www.archivessearch.qld.gov.au/items/ITM2731742), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Moore George](https://www.archivessearch.qld.gov.au/items/ITM2729269)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Moore George*](https://www.archivessearch.qld.gov.au/items/ITM2729269), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Moss Valentine](https://www.archivessearch.qld.gov.au/items/ITM2722925)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Moss Valentine*](https://www.archivessearch.qld.gov.au/items/ITM2722925), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Muller Harry](https://www.archivessearch.qld.gov.au/items/ITM2736026)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Muller Harry*](https://www.archivessearch.qld.gov.au/items/ITM2736026), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Potts William](https://www.archivessearch.qld.gov.au/items/ITM2727699)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Potts William*](https://www.archivessearch.qld.gov.au/items/ITM2727699), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Rahree](https://www.archivessearch.qld.gov.au/items/ITM2735293)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Rahree*](https://www.archivessearch.qld.gov.au/items/ITM2735293), ArchivesSearch website, accessed 27 October 2022.
 
 Queensland Government (n.d.) [*Register of male prisoners admitted - H. M. Penal Establishment/Gaol, St Helena*](https://www.archivessearch.qld.gov.au/items/ITM92272), ArchivesSearch website, accessed 22 October 2022.
 
-Queensland Government (n.d.) *[Rickaby Henry](https://www.archivessearch.qld.gov.au/items/ITM2733765)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Rickaby Henry*](https://www.archivessearch.qld.gov.au/items/ITM2733765), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Stapleton Thomas](https://www.archivessearch.qld.gov.au/items/ITM2733864)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Stapleton Thomas*](https://www.archivessearch.qld.gov.au/items/ITM2733864), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Tidy Richard](https://www.archivessearch.qld.gov.au/items/ITM2723032)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Tidy Richard*](https://www.archivessearch.qld.gov.au/items/ITM2723032), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Tommah Tom](https://www.archivessearch.qld.gov.au/items/ITM2728493)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Tommah Tom*](https://www.archivessearch.qld.gov.au/items/ITM2728493), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Waipieta David](https://www.archivessearch.qld.gov.au/items/ITM2731612)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Waipieta David*](https://www.archivessearch.qld.gov.au/items/ITM2731612), ArchivesSearch website, accessed 27 October 2022.
 
-Queensland Government (n.d.) *[Wyndham John](https://www.archivessearch.qld.gov.au/items/ITM2723432)*, ArchivesSearch website, accessed 27 October 2022.
+Queensland Government (n.d.) [*Wyndham John*](https://www.archivessearch.qld.gov.au/items/ITM2723432), ArchivesSearch website, accessed 27 October 2022.
 
-Unknown (20 March 1878) \'[Life at St. Helena](http://nla.gov.au/nla.news-article1370755)\', *Brisbane Courier*, accessed 26 October 2022.
+Unknown (20 March 1878) '[Life at St. Helena](http://nla.gov.au/nla.news-article1370755)', *Brisbane Courier*, accessed 26 October 2022.
