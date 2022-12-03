@@ -8,14 +8,19 @@ output:
   word_document: default
 ---
 
-### *The Analysis*
+\
+\
 
-This thematic analysis focussed on the history of the St Helena Penal Establishment located in Moreton Bay, Queensland. The sources gathered, once analysed, provide themes that reveal areas for further study. The data can be added to existing data to create a FAIR dataset, accessible from anywhere in the world, by anyone.
+#### [*The Analysis*]{.underline}
 
-### *Key Repositories*
+This thematic analysis focussed on the history of the St Helena Penal Establishment located in Moreton Bay, Queensland. The sources gathered, once analysed, provide themes that reveal areas for further study. The data can be added to existing data to create an easily found and accessible (not behind a paywall), dataset, that is open access (not one program specific) and reproducible - a FAIR dataset.
+
+\
+
+#### [*Key Repositories*]{.underline}
 
 | Repositories                                                              | Repositories                                                                          | Repositories                                                                             |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|----------------------|-------------------------|--------------------------|
 | University of New England Library                                         | Queensland Heritage Register                                                          | Boggo Road Gaol Historical Society                                                       |
 | Queensland Historical Atlas                                               | Trove                                                                                 | The Free Library by Farlex                                                               |
 | Queensland Government Department of Environment and Science               | Brisbane City Council Library Services: Brisbane Images                               | Scootle: Australian Government Department of Education.                                  |
@@ -31,10 +36,13 @@ This thematic analysis focussed on the history of the St Helena Penal Establishm
 
 : Key repositories used to access sources.
 
-### *Data Dictionary*
+\
+\
+
+#### [*Codes/Tags, definitions and highlight count*]{.underline}
 
 | Code/Tag                                             | Definition                                                                                                           | Number of highlights |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------:|
+|-----------------|--------------------------------------|----------------:|
 | Reform                                               | mention of reform in sources, positive or negative. Reform of men and reform establishment                           |                   35 |
 | Home Secretary                                       | what he said, did, or did not do                                                                                     |                   12 |
 | New & minor offenders mixing with hardened criminals | examples of new and petty criminals mixing and being 'schooled' by men on more serious charges                       |                   38 |
@@ -66,3 +74,7 @@ This thematic analysis focussed on the history of the St Helena Penal Establishm
 | Descriptions                                         | of the island - the men, the workshop activity, the hospital, the gardens etc.                                       |                  157 |
 
 : Codes, their descriptions and number of highlights each received.
+
+####   Links
+
+dd

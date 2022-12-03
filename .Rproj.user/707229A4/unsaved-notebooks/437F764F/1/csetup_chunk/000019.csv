@@ -1,0 +1,7 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0",""
+"0","echo=FALSE"
+"0","library(MASS)"
+"0","data(codebook)"
+"2","Warning: data set ‘codebook’ not found"
+"0","head(codebook)"

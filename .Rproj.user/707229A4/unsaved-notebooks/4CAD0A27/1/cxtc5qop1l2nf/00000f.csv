@@ -1,0 +1,4 @@
+"0","library(MASS)"
+"0","data(finalcemetery)"
+"2","Warning: data set ‘finalcemetery’ not found"
+"0","head(finalcemetery)"

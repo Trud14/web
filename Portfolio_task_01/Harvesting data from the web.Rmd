@@ -39,8 +39,6 @@ It must be noted however, that the names of those inmates buried at St Helena us
 
 :   as stated in the sources
 
-    words used are from the era and are no longer used. For example Aboriginal is no longer used.
-
     where none is provided use na
 
 [Sentence]{.underline}
@@ -168,6 +166,17 @@ Larceny was shown to be the crime most inmates were convicted of, followed by ma
 \
 
 I have learnt that having a tidy dataset is key for sharing information with others, and for others to add to your data. Simply removing white space reduces the file size, reduces errors when shared between different programs, and makes reading of the data easier. Having columns clearly labelled helps readability, and so does organisation of the columns. Having columns which relate to each other, beside each other, makes reading quicker and places complimentary data in an easy to find position. That is why I placed the source columns beside the information they relate to. Splitting columns makes interpretation easier, and helps when sharing between different programmes. Things such as date columns, instead of being in one cell, it is better to have the data split into three columns, year, month, date, or similar. Another example is names, which are easier to interpret and analyse when split into three different columns, eg. first, middle, last name. Having numerals correctly displayed as numerals, and text as text, reduces errors when sharing between programmes, and avoids misinterpretation of data. Another thing I have learnt is to keep consistent, and minimal, formatting, and consistent use of capital and lower case lettering, numeral or word for the numeral. I have learnt that having a tidy dataset makes the data more accessible to more people.
+
+\
+\
+
+### Links
+
+[Tidy dataset](file:///C:/HINQ302Assessment_2/web/static/prisonercemetery.html)
+
+[Original dataset](file:///C:/HINQ302Assessment_2/web/Portfolio_task_01/original_dataset.html)
+
+[Script used to harvest table](file:///C:/HINQ302Assessment_2/web/Portfolio_task_01/SCRIPT-for-cemetery.html)
 
 \
 \

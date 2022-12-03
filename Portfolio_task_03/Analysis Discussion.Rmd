@@ -26,10 +26,16 @@ By far the most highlights are in the description tag. As the name suggests, the
 
 The themes from this analysis are important to the study of the penal establishment of St Helena. If you ask the public to name early Brisbane gaols their likely answers would be Moreton Bay penal and Boggo Road Gaol. The themes from this analysis would help to bring awareness to the St Helena Penal Establishment. The themes add to existing data and reveal information left out of the popular tourist visits. While existing data is available on punishments, labour, and food, it is typically the 'interesting' details. My analysis provides a more objective view, including all information discoverable. The theme of corruption is scarcely covered in other works, so the themes from my analysis are important in providing new ideas for further research. The digital humanities can find information quicker, provide data to more people, and provide multiple sources, details, and facts in large repositories.
 
+####   Links
+
+[Script for PDF to text](file:///C:/HINQ302Assessment_2/scriptpdftotext.html)
+
+[Thematic Analysis](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/ThematicAnalysis.html)
+
 \
 \
 
-References
+#### References
 
 A paying guest (12 February 1911) '[Penal Establishment and health resort: High life and hell](http://nla.gov.au/nla.news-article201756402,)', *Truth*, accessed 1 October 2022.
 

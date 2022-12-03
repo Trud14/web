@@ -1,0 +1,2 @@
+"0","library(knitr)"
+"0","kable(my_data[3:29, ], caption=""tags"")"

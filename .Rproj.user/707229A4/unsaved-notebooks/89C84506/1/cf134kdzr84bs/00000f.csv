@@ -1,0 +1,5 @@
+"0",""
+"0","library(MASS)"
+"0","data(all_tags)"
+"2","Warning: data set ‘all_tags’ not found"
+"0","head(all_tags)"

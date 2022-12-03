@@ -1,10 +1,10 @@
-<U+F0C9> Menu
+ Menu
 
 
 
 
-           STORIES F<U+FFFD>OM THE
-              A<U+FFFD>CHIVES
+           STORIES F�OM THE
+              A�CHIVES
                                Queensland State Archives
 
 
@@ -17,7 +17,7 @@
 
 
   Sitting isolated, surrounded by the dangers of Moreton Bay, St Helena Island
-  Penal Establishment was a forti<U+FFFD>ed prison. Despite this, numerous prisoners
+  Penal Establishment was a forti�ed prison. Despite this, numerous prisoners
   still attempted to escape.
 
                                                  One of the greatest escape
@@ -49,8 +49,8 @@ Using the tools from the tailor shop, Craig and McIntyre chiselled out the door
 jamb during the night. They started their escape at 4am. By leaving the door
 intact, the alarm was not raised until 5.25am.
 
-On the <U+FFFD>rst day of their escape, Craig and McIntyre moved from the hospital
-through the lumberyard, before hiding in the tinsmith�s workshop roof. From 6
+On the �rst day of their escape, Craig and McIntyre moved from the hospital
+through the lumberyard, before hiding in the tinsmith’s workshop roof. From 6
 to 15 November, Craig and McIntyre remained hidden in the cavity. Food was
 secretly delivered by a fellow inmate.
 
@@ -83,7 +83,7 @@ committed suicide by cutting his throat.
 Building a gaol for Brisbane
 By the 1860s, conditions at Brisbane Gaol on the mainland were deteriorating
 due to overcrowding. In 1867, prisoners stationed on the hulk Proserpine were
-building the St Helena Stockade which was to be Brisbane�s new gaol.
+building the St Helena Stockade which was to be Brisbane’s new gaol.
 Originally meant as a quarantine station, it was isolated from the mainland; the
 island itself was used for farming, its rich, volcanic soil ideal for growing maize,
 potatoes and other vegetables. The prisoners were made to learn trades,
@@ -108,7 +108,7 @@ here.
 
 
 
-     <U+F07C> STORIES FROM THE ARCHIVES             <U+F02C> CONVICT, HISTORY, MORETON BAY, OPEN,
+      STORIES FROM THE ARCHIVES              CONVICT, HISTORY, MORETON BAY, OPEN,
                                    QUEENSLAND, ST HELENA
 
 
