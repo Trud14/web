@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+author: "Trudy Boan"
+date: "2022-12-06"
+output: html_document
+---
+
+<div class="alert alert-info" role="alert">
+  Names of those inmates buried at St Helena used in this dataset may be subject to change 
+</div>

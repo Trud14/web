@@ -1,0 +1,33 @@
+{
+    "id": "610BBBE7",
+    "path": "C:/HINQ302Assessment_2/Notebook.Rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "3014239982",
+    "contents": "",
+    "dirty": false,
+    "created": 1668235566893.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "103,26",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "6971:3441.333251953125"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670308257,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670308257979,
+    "read_only": false,
+    "read_only_alternatives": []
+}

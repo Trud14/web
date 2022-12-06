@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 :::
 
-### [*Aerial photograph of St Helena prison*]{.underline}
+#### [***Aerial photograph of St Helena prison***]{.underline}
 
 ::: {style="margin-bottom:10px;"}
 :::
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: {style="margin-bottom:40px;"}
 :::
 
-### [*Corridor 'D' Wing, St Helena Penal Establishment*]{.underline}
+#### [***Corridor 'D' Wing, St Helena Penal Establishment***]{.underline}
 
 ![Brisbane City Council (1915) *Corridor 'D' Wing, St Helena Penal Establishment* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23182/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23182/0)
 
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: {style="margin-bottom:40px;"}
 :::
 
-### [*Land under cultivation, St. Helena penal establishment*]{.underline}
+#### [***Land under cultivation, St. Helena penal establishment***]{.underline}
 
 ![Brisbane City Council (1890) *Land under cultivation, St. Helena penal establishment* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23407/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23407/0)
 
@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: {style="margin-bottom:40px;"}
 :::
 
-### [*Prison cell*]{.underline}
+#### [***Prison cell***]{.underline}
 
 ![Cathy Cooper (2020) *Prison cell* [photograph], [*St Helena Island National Park*](https://www.google.com/maps/uv?pb=!1s0x6b93dfbbe18c8ef5%3A0x29c9140524331d61!3m1!7e164!15sCgIgAQ&hl=en&viewerState=ga&imagekey=!1e10!2sAF1QipOjxYz9FzSt2YTDv3aYUnhtDeYoYqC_hVA5gm0), Google Maps website, Copyright free, accessed 23 October 2022.](pics%20for%20assessment/images/Prison%20cell.png)
 
@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: {style="margin-bottom:40px;"}
 :::
 
-### [*Sisal hemp, raspador, silos, and old chimney*]{.underline}
+#### [***Sisal hemp, raspador, silos, and old chimney***]{.underline}
 
 ![Brisbane City Council (1915) *Sisal hemp, raspador, silos and old chimney, St Helena Penal Establishment* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23150/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23150/0)
 
@@ -74,7 +74,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: {style="margin-bottom:40px;"}
 :::
 
-### [*Tailor's shop*]{.underline}
+#### [***Tailor's shop***]{.underline}
 
 ![Brisbane City Council (1915) *Tailor's shop, St Helena Penal Establishment* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23139/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23139/0)
 
@@ -86,7 +86,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: {style="margin-bottom:40px;"}
 :::
 
-### [*Tree clearing*]{.underline}
+#### [***Tree clearing***]{.underline}
 
 ![Brisbane City Council (1868) *Tree clearing on St Helena Island* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23385/0), Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/23385/0)
 
@@ -98,7 +98,7 @@ knitr::opts_chunk$set(echo = TRUE)
 \
 \
 
-### Links
+#### Links
 
 \
 [Reference list for all images](file:///C:/HINQ302Assessment_2/web/Reference-list-of-ALL-PICTURES.html)

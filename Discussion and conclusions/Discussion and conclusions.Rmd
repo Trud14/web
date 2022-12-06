@@ -1,0 +1,20 @@
+---
+title: "Discussion and conclusions"
+author: "Trudy Boan"
+date: "2022-09-24"
+output: html_document
+---
+
+Discussion and Conclusions
+
+The aim of this project was to explore how tools used in the digital humanities help to produce, interpret, and share the history of St Helena Island (Noogoon), Queensland, in the period 1867-1932. The project required me to create a dataset from sources in multiple repositories and thematically analyse them, analyse historic images, and display some of the areas of interest in a map created in QGis.
+
+By creating a dataset, I added information to the existing data relating to the prisoner's cemetery on St Helena Island. Datasets are a good way to get information (stories and history) to a large body of people who may be interested in the topic. The dataset I created contains sources for the information provided so people could validate the findings, reproducing the findings if they wished. Datasets can make interpreting, manipulating, and analysing data quicker and easier, especially if it is a large dataset. To ensure that the stories and history contained in datasets are shared broadly, it is important to make them open source, accessible, and not hidden behind a paywall. The data set I created shares information about the prisoner's cemetery freely with researchers, genealogists, and the general public.
+
+Analysing historical images is an important digital research tool as this analysis can add validity or disprove stories and history. Historical images can contextualise the objects or people in the image and provoke new questions. New questions lead to new research, and information is gained. As with the images I selected to analyse, historical images provide a snapshot into earlier periods and show how different or alike the people lived in comparison to today. Historical images can also identify themes, meanings, and messages.
+
+Thematic analysis is important in digital research as it helps to interpret and make sense of stories and historical texts. The amount of information analysed, and the recognition of themes and trends can happen rapidly. The results from the analysis can be quickly shared and reanalysed thanks to the internet. With the number of texts already digitised, and the rapidity of new digitisation, having a tool like Taguette to help analyse and code materials is almost a necessity, otherwise, the stories and history may remain hidden due to being unable to deal with the volume of material being made available.
+
+Maps are a way to communicate the lengths, distances, and density of houses or farms, to visually communicate locations and features, and are a simple and quick way to display information. As with the map I created of St Helena Island, maps can show where objects once were but have now disappeared. By placing lost features on a map, people are able to understand how an area once looked, and people with additional stories or information about the area can add new features to the map, and new information to the stories and histories shared by other means.
+
+After completing this assessment, I have realised that the digital humanities contribute time-saving tools to analyse source material (thematic analysis) and provide ways of sharing stories and histories with a large audience (maps and datasets). I also found that the tools I learned to use, such as Zotero, GitHub, and rstudio, make managing sources easier and keep work organised during the research process.
