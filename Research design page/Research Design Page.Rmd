@@ -25,10 +25,12 @@ output: html_document
 The aim of this project is to explore how tools used in the digital humanities help to produce, interpret, and share the history of St Helena Island (Noogoon), Queensland, in the period 1867-1932. I intend to do this by creating a dataset from sources in multiple repositories and thematically analysing them. I will also analyse historic images, and display some of the areas of interest in a map created in QGis.
 
 \
-<center>
-<h4>St Helena Island (Noogoon), Moreton Bay Queensland</h4>
-</center>
 
+<center>
+
+<h4>St Helena Island (Noogoon), Moreton Bay Queensland</h4>
+
+</center>
 
 ![St Helena is a Queensland heritage-listed National Park, 45 minutes from Brisbane by ferryom Brisbane by ferry](https://i.imgur.com/Hip3izC.png){width="1000" height="636"}\
 St Helena is a Queensland heritage-listed National Park, 45 minutes from Brisbane by ferry\
@@ -66,8 +68,7 @@ I used the variables from the original dataset that I thought were important and
 
 \
 
-The other variables I thought important were:
-\
+The other variables I thought important were:\
 
 -   Where the prisoner was tried
 
@@ -157,8 +158,7 @@ I added some of the datasets, and their sidecar files, to QGis and started to lo
 
 Next was to add the points of interest to my created map using the point drawing tool. I did this for all points of interest and then selected the '*layer labeling options*' tab in the middle ribbon bar. In the '*layer styling box*' which appears in a pane to the right, I chose a point of interest I had made from the first drop-down box. In the next drop-down box, I selected '*single label*', and the label was displayed on the map beside the corresponding point of interest. From here I could also choose colours, fonts, point style, etc. The labels could be moved and rotated by using tabs in the middle ribbon bar.
 
-Now I needed to print the map. By selecting '*new print layout*' from the ribbon bar and providing a project title, a new window is opened. I chose '*add map*' from the vertical ribbon bar and point and dragged my mouse to create a box inside the displayed canvas. The map I had been working on appeared and I added a scale and north arrow from the vertical ribbon bar. In this new view, I noticed some of the labels were moved from where I had put them. I went back to the original map to move them to where they looked right in the print preview screen (the changes appeared there in real-time). I then added a legend, from the vertical ribbon bar, selected '*layout*' from the top ribbon bar, '*export as image*', made sure the export resolution was 300 dpi, and hit '*save'*. I had created a map and now had it as an image in .png format.
-\
+Now I needed to print the map. By selecting '*new print layout*' from the ribbon bar and providing a project title, a new window is opened. I chose '*add map*' from the vertical ribbon bar and point and dragged my mouse to create a box inside the displayed canvas. The map I had been working on appeared and I added a scale and north arrow from the vertical ribbon bar. In this new view, I noticed some of the labels were moved from where I had put them. I went back to the original map to move them to where they looked right in the print preview screen (the changes appeared there in real-time). I then added a legend, from the vertical ribbon bar, selected '*layout*' from the top ribbon bar, '*export as image*', made sure the export resolution was 300 dpi, and hit '*save'*. I had created a map and now had it as an image in .png format.\
 \
 
 #### [***Links***]{.underline}

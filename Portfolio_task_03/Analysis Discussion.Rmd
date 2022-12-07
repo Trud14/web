@@ -8,7 +8,9 @@ output: html_document
 \
 \
 
-### *Analysis Discussion*
+::: {.alert .alert-info role="alert"}
+#### Analysis Discussion
+:::
 
 The codebook generated in Taguette clearly identifies five major tags which have far more highlights than other tags. I would have to say that some of the minor tags could possibly be merged with larger tags, for example, the *crops* tag could be merged with *farm work*, and *on entry to penal establishment* could be merged with the *descriptions* tag.
 
@@ -26,63 +28,13 @@ By far the most highlights are in the description tag. As the name suggests, the
 
 The themes from this analysis are important to the study of the penal establishment of St Helena. If you ask the public to name early Brisbane gaols their likely answers would be Moreton Bay penal and Boggo Road Gaol. The themes from this analysis would help to bring awareness to the St Helena Penal Establishment. The themes add to existing data and reveal information left out of the popular tourist visits. While existing data is available on punishments, labour, and food, it is typically the 'interesting' details. My analysis provides a more objective view, including all information discoverable. The theme of corruption is scarcely covered in other works, so the themes from my analysis are important in providing new ideas for further research. The digital humanities can find information quicker, provide data to more people, and provide multiple sources, details, and facts in large repositories.
 
-####   Links
+\
+\
+
+#### [***Links***]{.underline}
 
 [Script for PDF to text](file:///C:/HINQ302Assessment_2/scriptpdftotext.html)
 
 [Thematic Analysis](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/ThematicAnalysis.html)
 
 \
-\
-
-#### References
-
-A paying guest (12 February 1911) '[Penal Establishment and health resort: High life and hell](http://nla.gov.au/nla.news-article201756402,)', *Truth*, accessed 1 October 2022.
-
-A paying guest (5 February 1911) '[Penal Establishment or Health Resort? High Life or Hell, Which](http://nla.gov.au/nla.news-article201758420)?', *Truth*, accessed 31 October 2022.
-
-Boggo Road Gaol Historical Society (n.d.) '[St Helena Island Penal Establishment (1867-1932)'](https://www.boggoroadgaol.com.au/2015/10/st-helena-island.html,), *Inside Boggo Road blog*, accessed 30 October 2022.
-
-Brismania (2019) '[Day 148: Captive audience](https://brismania.com/day-148-captive-audience/)', *Brismania blog*, accessed 30 October 2022.
-
-Daly B (2019) '[The Wild Scotchman Part 2](https://sthelenacommunity.com.au/2019/04/15/the-wild-scotchman-part-2/)', *The St Helena Island Community blog*, accessed 29 October 2022.
-
-Department of Climate Change, Energy, the Environment and Water (n.d.) [*St Helena Island National Park Historic Area*](https://www.environment.gov.au), Australian Heritage Database website, accessed 30 October 2022.
-
-Department of Environment and Science (2005) [*Nature, culture and history: St Helena Island National Park*](https://parks.des.qld.gov.au/parks/st-helena-island/about/culture,), Parks and forests website, accessed 30 October 2022.
-
-Greenhill J (25 February 2022) '[St Helena, formerly "the hell hole of the pacific](https://thecommunityleader.com.au/community-news/local-history/st-helena-formerly-the-hell-hole-of-the-pacific/)"', *The Community Leader and Real Estate New and Views*, accessed 30 October 2022.
-
-K S (9 November 1901) '[The Isle of Unrest: H.M. Penal Establishment, St. Helena](http://nla.gov.au/nla.news-article21268213)', *Queenslander*, accessed 31 October 2022.
-
-Keys C (2020) 'Sharing the waterways: Shark-proof swimming, penal detention and the early history of St Helena Island, Moreton Bay', *Queensland Review*, 27(2):121--136, [doi:10.1017/qre.2020.11](https://doi.org/10.1017/qre.2020.11).
-
-Molloy S (18 September 2007) '[St Helena Island the "hell-hole of Pacific](https://www.brisbanetimes.com.au/national/queensland/st-helena-island-the-hell-hole-of-pacific-20070918-ge93t1.html,)', *Brisbane Times*, accessed 28 October 2022.
-
-Out of bond (26 July 1914) '[Prisoners fed on sour prog. Confinee's complaints](http://nla.gov.au/nla.news-article202665223)', *Truth*, accessed 31 October 2022.
-
-Proscriptus (8 September 1912) '[Tyrants of St. Helena: Some facts & reflections about Queensland's inferno'](http://nla.gov.au/nla.news-article201742089), *Truth*, accessed 26 October 2022.
-
-Queensland Government (2015) [*Saint Helena Island*](https://apps.des.qld.gov.au/heritage-register/detail/?id=600315), Queensland Heritage Register website, accessed 25 October 2022.
-
-Queensland State Archives (2016) '[The Not-So-Great-Escape](https://blogs.archives.qld.gov.au/2016/04/26/the-not-so-great-escape/)', *Stories from the Archives blog*, accessed 28 October 2022.
-
-Queensland State Archives (2021) '[Escape from St Helena Island](https://blogs.archives.qld.gov.au/2021/04/21/escape-from-st-helena-island/)', *Stories from the Archives blog*, accessed 27 October 2022.
-
-Taylor B (2010) [*Prisons without walls: Prison camps and penal change in Australia, c. 1913-c. 1975*](https://doi.org/10.26190/unsworks/23117) [PhD Doctorate], University of NSW, Sydney, accessed 6 October 2022.
-
-Unknown (13 January 1869) '[From the Courier](http://nla.gov.au/nla.news-article75459987)', *Darling Downs Gazette and General Advertiser*, accessed 29 October 2022.
-
-Unknown (20 August 1905) '[St. Helena scandals](http://nla.gov.au/nla.news-article198987032)', *Truth*, accessed 9 October 2022.
-
-Unknown (20 March 1878) '[Life at St. Helena](http://nla.gov.au/nla.news-article1370755)', *Brisbane Courier*, accessed 25 October 2022.
-
-Unknown (23 April 1905) '[St Helena: Gaol grievances](http://nla.gov.au/nla.news-article199300106).', *Truth*, accessed 26 October 2022.
-
-Unknown (4 April 1914) '[Ideal St. Helena](http://nla.gov.au/nla.news-article107481871).', *Tamworth Daily Observer*, accessed 30 October 2022.
-
-Unknown (4 July 1867) '[Local and general news](http://nla.gov.au/nla.news-article123612954).', *Queensland Times, Ipswich Herald and General Advertiser*, accessed 29 October 2022.
-
-Whittington D (14 February 2021) '[Island of the damned: Dark past of Queensland's Alcatraz](https://www.couriermail.com.au/news/queensland/way-we-were-st-helena-islands-history-stained-with-brutality-madness-and-painful-death)', *The Courier Mail*, accessed 27 October 2022.
-
-Whittington D (28 August 2019) '[Island groans with its penal past](https://www.yourtimemagazine.com.au/island-groans-with-its-penal-past/)', *Your Time Magazine website*, accessed 26 October 2022.
