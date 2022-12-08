@@ -1,0 +1,124 @@
+---
+title: "Data Dictionary"
+author: "Trudy Boan"
+date: "2022-09-03"
+output: html_document
+---
+
+\
+
+[Alias]{.underline}
+
+:   names used by the inmate other than their legal names
+
+    where none is provided use na
+
+[Cause of death]{.underline}
+
+:   the cause of death stated on death certificate for each individual
+
+    where none is provided use na
+
+[Christian name]{.underline}
+
+:   legal name
+
+    where none is provided use na
+
+[Crime]{.underline}
+
+:   the crime that was committed by the inmate
+
+    where none is provided use na
+
+[Death Date]{.underline}
+
+:   -   year - where none is provided use 0 (zero) - numerals only
+
+    -   month - where none is provided use na - text only
+
+    -   date - where none is provided use 0 (zero) - numerals only
+
+[Digital archive file]{.underline}
+
+:   required as the series files found on Queensland Government ArchiveSearch, and recorded in the variable 'Source', contain multiple records per file
+
+    this displays individual files
+
+    link to the direct source document relating to
+
+    -   sentence - where none is provided use na
+
+    -   crime - where none is provided use na
+
+    -   place tried - where none is provided use na
+
+    -   name and alias - where none is provided use na
+
+    -   ethnicity - where none is provided use na
+
+    -   prisoner number - where none is provided use 0 (zero)
+
+[Ethnicity]{.underline}
+
+:   as worded in the sources
+
+    where none is provided use na
+
+[Inquest and burial sourc]{.underline}e
+
+:   link directly to the individuals inquest and combined burial documents
+
+    where none is provided use na
+
+[Prisoner number]{.underline}
+
+:   identifying number received by the inmate on admission
+
+    where unknown use zero (0) - numerals only
+
+[Queensland death record]{.underline}
+
+:   link to the relevant source document
+
+    sourced from Queensland birth, death and divorces website
+
+    where none is provided use na
+
+[Sentence]{.underline}
+
+:   recorded as life, years and/or months
+
+    where non life sentence - use na - text only
+
+    where no year or month - use zero (0) - numerals only
+
+[Source]{.underline}
+
+:   link to the series files found on Queensland Government ArchiveSearch
+
+    source that the digital archive file comes from
+
+    where none is provided use na
+
+[Source 2]{.underline}
+
+:   link to the source of the information for the 'Cause of death' variable.
+
+    where none is provided use na
+
+[Surname]{.underline}
+
+:   family name
+
+    where none is provided use na
+
+[Where tried]{.underline}
+
+:   the city or town the inmate was tried in after committing their crime
+
+    use state if town or city unknown but state is
+
+    where none is provided use na
+
+
