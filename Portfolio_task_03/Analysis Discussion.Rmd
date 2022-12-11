@@ -33,8 +33,14 @@ The themes from this analysis are important to the study of the penal establishm
 
 #### [***Links***]{.underline}
 
+[Code book](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/code_tag_description_number_of_highlights.html)
+
+[References](file:///C:/HINQ302Assessment_2/web/content/References.html)
+
 [Script for PDF to text](file:///C:/HINQ302Assessment_2/scriptpdftotext.html)
 
-[Thematic Analysis](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/ThematicAnalysis.html)
+[Taguette highlights](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/all_tags1.html)
+
+Thematic Analysis
 
 \

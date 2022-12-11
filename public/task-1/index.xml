@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task 1s on St Helena Island, Queensland</title>
+    <link>/task-1/</link>
+    <description>Recent content in Task 1s on St Helena Island, Queensland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/task-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harvesting data from the web</title>
+      <link>/task-1/harvesting-data-from-the-web/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-1/harvesting-data-from-the-web/</guid>
+      <description>The dataset that I have created involves the St Helena Penal Establishment prisoner cemetery. I have used as many online sources, which were not behind a pay wall, to provide as much information about the buried prisoners; to go beyond a mere list of names and death dates. The dataset aims to humanise the name and number of as many buried prisoners as possible.
+It must be noted however, that the names of those inmates buried at St Helena used in this dataset may be subject to change, and additions, or subtractions, made which were not available at the time of compilation.</description>
+    </item>
+    
+  </channel>
+</rss>

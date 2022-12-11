@@ -98,10 +98,12 @@ I have learnt that having a tidy dataset is key for sharing information with oth
 
 #### [*Links*]{.underline}
 
-[Data dictionary](file:///C:/HINQ302Assessment_2/web/Data-Dictionary.html)
-
-[Tidy dataset](file:///C:/HINQ302Assessment_2/web/static/prisonercemetery.html)
+[Data dictionary](file:///C:/HINQ302Assessment_2/web/content/Data%20Dictionary.html)
 
 [Original dataset](file:///C:/HINQ302Assessment_2/web/Portfolio_task_01/original_dataset.html)
 
+[References](file:///C:/HINQ302Assessment_2/web/content/References.html)
+
 [Script used to harvest table](file:///C:/HINQ302Assessment_2/web/Portfolio_task_01/SCRIPT-for-cemetery.html)
+
+[Tidy dataset](file:///C:/HINQ302Assessment_2/web/Portfolio_task_01/tidy_dataset.html)

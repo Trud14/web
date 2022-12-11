@@ -1,0 +1,1099 @@
+       History Australia
+
+
+
+
+       ISSN: 1449-0854 (Print) 1833-4881 (Online) Journal homepage: https://www.tandfonline.com/loi/raha20
+
+
+
+
+Intersections in colonial and penal politics: The
+case of Queensland in the 1870s
+
+Kerry Wimshurst
+
+To cite this article: Kerry Wimshurst (2012) Intersections in colonial and penal politics: The case of
+Queensland in the 1870s, History Australia, 9:2, 135-156, DOI: 10.1080/14490854.2012.11668421
+
+To link to this article: https://doi.org/10.1080/14490854.2012.11668421
+
+
+
+
+        Published online: 08 Feb 2016.
+
+
+
+        Submit your article to this journal
+
+
+
+        Article views: 58
+
+
+
+        View related articles
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=raha20
+
+                  Intersections in colonial and penal politics
+
+
+
+
+ Intersections in colonial and penal
+               politics
+        The case of Queensland in the 1870s
+
+                         Kerry Wimshurst
+
+In 1870 female prisoners from Brisbane were relocated to Toowoomba,
+principal town on the Darling Downs. The move angered townspeople
+who suspected that political reprisal was the motive for imposing
+the ‘terrible women’ on them. In fact, the relocation was primarily
+an attempt to solve longstanding problems related to prison labour,
+and especially the control of male labour. The movement of prisoners
+provides a penological perspective on social and economic conflicts that
+were played out at regional and metropolitan levels. There has been
+little written about penal politics in Australia in the second half of the
+nineteenth century. This article explores the political intersections
+that determined the evolution of one penal regime, but the issues are
+of perennial significance to the field of penal studies. The study points
+to the importance of investigating public reaction to prison policy and
+exploring political, economic and social particularities in correctional
+history.
+
+This article has been peer-reviewed.
+
+
+  Mr POWER: He believed if the Government attempted to carry out
+  such a scheme, it would lead to the colony becoming a republic. If they
+  imported such females, they ought to keep them in Brisbane. He believed
+  there were as many good and virtuous people in Toowoomba as in any
+  town in the colony, and the Government were not justified in the course
+  they adopted of forcing such immoral characters upon them.
+
+                          Toowoomba Chronicle, 10 December 1870, 3.
+
+
+
+                                     135
+
+                      History Australia | Volume 9 | Number 2
+
+
+On the evening of 5 December 1870, a meeting was held in Toowoomba
+to protest against the action of the colonial government ‘in making
+Toowoomba a receiving house of the female outcasts of the metropolitan
+city’. The mayor noted his regret that the protest had not begun sooner,
+because already a few women prisoners consigned from the city had
+arrived at the local gaol.1
+  The townspeople’s hostility at first seems puzzling, because in the
+early 1860s they had welcomed the building of the gaol to house local
+men and women.2 In 1860 Toowoomba was one of the first assize
+towns established outside Brisbane to hear the cases of ‘all criminals
+committed by the various Benches throughout the whole of the immense
+southern and western districts’. Judge Lutwyche of the Supreme Court
+was instrumental in promoting plans for a gaol in the town. A gaol
+meant that prisoners from the region, while on remand and waiting for
+their cases to be heard, would not have to be escorted back and forth to
+Brisbane ‘at heavy outlay and considerable risk’. If housed locally, it was
+hoped, they might be employed on roads and public works. Lutwyche had
+condemned the moral turpitude of the young colony, and the building of a
+gaol signalled the uprightness of the town in the face of such criticisms.3
+Although early reports pointed to defects in materials and design, there
+was little opposition in the early 1860s to the gaol itself.4 Completed in
+1864, it symbolised for Toowoomba’s citizens the growing prosperity
+of their town, which with a population of about 4600 was seeking to
+establish itself as the major service centre for the pastoral and farming
+interests on the Darling Downs.5
+  The anger of the townspeople in 1870 was sparked because female
+prisoners were now to be forwarded ‘exclusively’ to their gaol, while local
+men would be sent to the capital. The townspeople had been taken by
+surprise. Only one month before the protest meeting the liberal-leaning
+member for Toowoomba, William Henry Groom, wrote to the Premier
+and Colonial Secretary Arthur Hunter Palmer, noting that ‘considerable
+feeling prevailed’ about the ‘alleged’ transfer of prisoners, and asking
+for clarification.6 The reply from the Colonial Secretary’s office was the
+
+1   Darling Downs Gazette, 7 December 1870, 3; Toowoomba Chronicle, 10 December 1870, 3.
+2   Toowoomba Chronicle, 26 September 1861, 2; Darling Downs Gazette, 16 June 1864, 3.
+3   ‘The Black Assize’, Darling Downs Gazette, 21 July 1864, 2.
+4   Toowoomba Chronicle, 26 September 1861, 2.
+5   D B Waterson Squatter, Selector, and Storekeeper: A History of the Darling Downs 1859–
+    93, Sydney: Sydney University Press 1968; Maurice French Pubs, Ploughs & ‘Peculiar
+    People’: Towns, Farms and Social Life, Toowoomba: University of Southern Queensland
+    Press 1992.
+6   Toowoomba Chronicle, 12 November 1870, 3.
+
+                                          136
+
+                         Intersections in colonial and penal politics
+
+
+first public confirmation that the movement of prisoners would go ahead.
+Initially, it seemed that town concern was about the removal of local men.
+By the time of the protest meeting, however, attention had shifted to the
+character of the incoming women who would ‘necessarily resort to crimes
+of the most demoralising character to obtain a livelihood’, once released
+upon the town.7
+   Studies of the official punishment of women in the late nineteenth
+century have argued that their incarceration was concerned as much
+with the control of refractory women as the control of crime. Penal
+strategies for inculcating acceptable womanly behaviours and punishing
+criminality varied from place to place, but had common disciplinary
+objectives. For example, penal approaches to the rehabilitation of
+criminal women in the United Kingdom were based increasingly on
+therapeutic and medical models compatible with the emergence of the
+liberal welfare state. Such ‘progressive’ views placed less emphasis on
+traditional notions of the inherent evil of female offenders, but produced
+an increasing array of institutions for restraining and treating ‘deviant’
+women.8 Similarly, reformatories in the United States of America, while
+intended for ‘saving’ young women, were also characterised by coercive
+practices premised on respectable views about normal and abnormal
+womanhood.9
+   In Australia penal strategies for governing deviance and criminality
+were also developing, to the apparent disadvantage of women compared
+with men. In New South Wales, John Ramsland has argued, ‘women were
+not as well cared for as men’ in gaols, and ‘degradation was worse for
+women than men’.10 Similarly, Peter Lynn and George Armstrong suggest
+that in Victoria ‘females were worse off as discharged prisoners, just as
+they were as prisoners’. There was no permanent accommodation for
+women until the late 1890s, and they were ‘frequently moved about in
+
+
+
+7    Female prisoners convicted in Brisbane, and undergoing sentence in Toowoomba
+     (Petition), Queensland, Votes and Proceedings of the Legislative Assembly (hereafter QVP),
+     third session of 1870, 259.
+8    Lucia Zedner Women, Crime and Custody in Victorian England, Oxford: Clarendon Press
+     1991; Russell P Dobash, R Emerson Dobash and Sue Gutteridge The Imprisonment of
+     Women, Oxford: Basil Blackwell 1986.
+9    Mara L Dodge Whores and Thieves of the Worst Kind: A Study of Women, Crime, and
+     Punishment, DeKalb: Northern Illinois University Press 2002; Estelle Freedman Their
+     Sisters’ Keepers: Women’s Prison Reform in America, 1830–1930, Ann Arbor: University of
+     Michigan Press 1981; Nicole Hahn Rafter Partial Justice: Women in State Prisons, 1800–
+     1935, Boston: Northeastern University Press 1985.
+10   John Ramsland With Just But Relentless Discipline: A Social History of Corrective Services in
+     New South Wales, Sydney: Kangaroo Press 1996, 90, 163.
+
+                                              137
+
+                       History Australia | Volume 9 | Number 2
+
+
+different types of accommodation’.11 The reasons for such neglect are not
+explored in depth in the histories of corrective services in these states,
+although it seems clear that women remained an afterthought in penal
+policy. The only major study in Queensland concludes that the control of
+wayward women was an important objective of women’s incarceration,
+but again it is not clear why women should have been removed from the
+metropolis, Brisbane, in 1870 to what contemporaries judged an inferior
+country gaol.12
+   This article argues that the gendered relationships produced by the
+emerging penal system were reciprocal relationships of control. That
+is, arrangements made for the control of male or female prisoners
+necessarily affected the other sex as well. The management of women
+thus depended on disciplinary and fiscal considerations relating to the
+control of male prisoners. This is not to deny that colonial Queensland
+developed criminal justice and public health systems aimed at the
+sexual control of marginalised women. For example, two years before
+the Toowoomba move the Contagious Diseases Act (1868) was introduced
+in Queensland, making it one of the few places in the world where such
+legislation applied across the colony and not just to locations with military
+personnel. A woman suspected of prostitution might be compelled by the
+police to submit to medical examination. Signs of venereal disease would
+lead to three months confinement in the lock hospital; non-compliance
+or absconding incurred a prison sentence. The legislation was aimed at
+controlling the growing number of prostitutes in Brisbane and regional
+ports.13 It is likely that the removal of ‘fallen women’ from the metropolis
+was supported by respectable urbanites aspiring to ‘civilised’ ways in the
+new self-governing (but economically struggling) colony, a colony that
+had emerged from a convict past barely a generation earlier.14
+   Control of non-conforming and criminal women was certainly a
+concern for colonial authorities, but the primary impetus for rearranging
+
+
+11   Peter Lynn and George Armstrong From Pentonville to Pentridge: A History of Prisons in
+     Victoria, Melbourne: State Library of Victoria 1996, 96, 111–114.
+12   John McGuire, Punishment and Colonial Society: A History of Penal Change in
+     Queensland, 1859–1930s, PhD thesis, University of Queensland 2002, chapter 3.
+13   Mark Finnane and Stephen Garton ‘The work of policing: social relations and the
+     criminal justice system in Queensland 1880–1914, Part 2’, Labour History 63, 1992, 43–
+     64: Raymond Evans ‘“Soiled doves”: prostitution in colonial Queensland’, in Kay Daniels
+     (ed) So Much Hard Work: Women and Prostitution in Australian History, Sydney: Fontana
+     1984, 127–161; Alana Piper ‘Great expectations: efforts to entice women to Queensland
+     from 1860 to 1900’, Queensland History Journal 20 (8), 2008, 370–390.
+14   Raymond Evans ‘The hidden colonists: deviance and social control in colonial
+     Queensland’, in Jill Roe (ed) Social Policy in Australia: Some Perspectives 1901–1975,
+     Sydney: Cassell Australia 1976, 74–100.
+
+                                           138
+
+                       Intersections in colonial and penal politics
+
+
+the gaol system in the 1870s was the control of the far larger number of
+male prisoners and their labour power. Two interwoven themes emerge
+from my study: on the one hand the place of female offenders in the gaol
+system and moralistic judgements imposed on them, and on the other
+contemporary concerns about the functions of prison labour.
+  The establishment of Toowoomba women’s gaol also provides a pen­
+ological lens on vehement regional and metropolitan contests. Toowoomba
+had developed a liberal political reputation by the 1870s. Groom, the local
+member, was the owner of the Toowoomba Chronicle and the spokesperson
+for the ‘radical agrarians’, an alliance of farmers, town shopkeepers and
+artisans who advocated land reform on the Darling Downs. He was also
+a prime mover behind the protest meeting and resulting petition against
+the incoming women. The town’s relationship with squatter-dominated
+government was already problematic. The imposition of ‘female outcasts’
+from the metropolis aggravated tensions because locals saw it as an
+insult. The townspeople ‘believed that the wrong had been intentionally
+inflicted upon them, and that it was the desire of the Government to
+degrade and humiliate the residents of Toowoomba as much as they
+possibly could’.15 Citizens in the early 1860s could envisage potential
+benefits from having a ‘general’ gaol in their town, but a decade later they
+could see only disadvantages arising from its conversion to a women’s
+gaol.
+  This study does not focus on the characteristics and conditions of the
+women themselves, but upon the swirl of colonial and penal politics that
+surrounded – and impelled – their removal from the metropolis. The
+article is divided into two parts reflecting the two themes. The first section
+explores the opposition of Toowoomba residents, since their protest was
+the first indication of the impending changes to penal arrangements.
+The upheaval over the coming of the ‘terrible women’ was underpinned
+by competing social and economic aspirations in the fledgling colony.
+In fact these political tensions, exacerbated by divisions of class and
+gender, were particularly evident at the local level. The second section
+investigates the attempt by government and penal authorities to harness
+the labour of prisoners in the interests of economy and control. At the
+level of government, women prisoners were invisible.16 Their condition
+
+15   Darling Downs Gazette, 7 December 1870, 3.
+16   Kay Saunders and Raymond Evans ‘Visibility problems: concepts of gender in Australian
+     historical discourse’, Australian Historical Studies 27 (106), 1996, 142–153; Trevor
+     McClaughlin ‘“I was nowhere else”: casualties of colonisation in eastern Australia in
+     the second half of the nineteenth century’, in Trevor McClaughlin (ed) Irish Women in
+     Colonial Australia, Sydney: Allen & Unwin 1998, 142–162.
+
+                                          139
+
+                       History Australia | Volume 9 | Number 2
+
+
+was rarely considered comprehensively except in terms of providing
+a potential solution to the labour/disciplinary problem in the male
+system. In this sense, gendered penal relationships and conditions were
+reciprocal. Moreover, despite the aggravations between regional and
+central interests, and their different interpretations for the removal of
+city women to Toowoomba, attitudes to this small group were similarly
+ambivalent at all levels. They were seen both as deviants to be controlled
+and unfortunates to be protected. On reflection, such contrary views
+are not surprising because they indicate the persistence of that ‘fear
+and fascination of the “other” embodied in convict women’.17 Competing
+views and expressions of respectability and deviance, and contrasting
+conceptions about different types of male and female identities, informed
+a social order emerging from the recent convict past.
+
+
+The ‘female outcasts’ and colonial politics
+A range of sentiments emerged during the protest meeting in December
+1870, including disgust at female offenders, desire to protect family and
+even pity for the unfortunates about to be imposed on the town. Some
+protestors wanted to form vigilante committees to ensure that women
+left town on the expiration of their sentences. Others expressed concern
+for the women’s welfare and wanted to establish a fund to assist those
+deserving of assistance. Nevertheless, the mood remained angry at
+what was seen as the government’s insult. The comments of a local hotel
+keeper, Mr Grigg, indicated other underlying anxieties. Grigg suggested
+strongly that the imposition of the women on their town might be an act
+of political reprisal.
+     He would like to remark that the people of Toowoomba sometimes
+     acted foolishly, and did things they ought not to do. Did they not
+     burn the effigies of Messrs Palmer and Mackenzie on a former
+     occasion, and were they not now being paid off for it? Did they not
+     also condemn the action of the Government in refusing to allow
+     immoral characters to travel by the railway, and which was no
+     doubt remembered?18
+
+  The first incident recalled the visit in February 1868 by the Duke of
+Edinburgh, Prince Albert, second son of Queen Victoria. The Prince
+paused briefly in the town and was then whisked off to Jondaryan station
+
+17   Joy Damousi Depraved and Disorderly: Female Convicts, Sexuality and Gender in Colonial
+     Australia, Cambridge: Cambridge University Press 1997, 58.
+18   Toowoomba Chronicle, 10 December 1870, 3.
+
+                                           140
+
+                        Intersections in colonial and penal politics
+
+
+for an evening with the squatters.19 During the short stopover, the Prince
+had been introduced to the conservative member for the Western Downs,
+but not to the more liberal mayor and town councillors.20 The local press
+raged against the slur cast upon the municipality and townspeople. A
+mock trial was held of the Premier, Robert Mackenzie, and the Colonial
+Secretary, Arthur Palmer, in effigy. Mackenzie was lampooned as in­
+decisive and weak and his effigy was dressed as an elderly woman, Mother
+Mackenzie. Palmer, who had accompanied the Prince to the Downs and
+would become Premier in 1870, was portrayed as a vindictive and arrogant
+northern squatter, especially unfriendly to the ‘liberal’ municipality of
+Toowoomba. According to reports, though ‘somewhere not far short of
+two thousand persons took part in the affair’, the crowd was orderly and
+police intervention was not required. Both conservative politicians were
+convicted of incompetence and insulting the town, and their effigies were
+burnt.21
+  The second of Grigg’s ‘foolish acts’ would have been still fresh in the
+minds of the protestors, and was especially germane to their current
+concerns. In June 1870 Helen McKay was prevented from catching a
+train from Toowoomba to Allora, a neighbouring town. The ticketing
+clerk claimed he had instructions from William Walsh, the Secretary of
+Public Works responsible for railways in Palmer’s government, not to
+allow immoral women on trains. One report claimed only that she was
+not permitted to travel first-class, but otherwise could have travelled.
+Another said that her luggage had already been forwarded, leaving
+McKay stranded in Toowoomba.22 All reports noted that she was well-
+behaved at the station. McKay sued the Department of Railways. No
+documents were produced at the trial confirming that such instructions
+had been promulgated. The press assumed she was a prostitute and
+took to calling her the ‘girl in blue’, but the court disallowed any
+questions about her supposed immorality, and she was awarded £50 in
+compensation.
+  The civil trial was held in Toowoomba and the four jurymen were
+portrayed, perhaps tongue-in-cheek, as ‘gallant’ locals coming to the
+assistance of a distressed woman on her way to be married. McKay’s
+counsel saw the episode as a democratic struggle against a conservative
+
+19   Darling Downs Gazette, 27 February 1868, 2; Maurice French (ed) Travellers in a Landscape:
+     Visitors’ Impressions of the Darling Downs 1827–1954, Toowoomba: University of Southern
+     Queensland Press 1994, 181–183.
+20   Toowoomba Chronicle, 26 February 1868, 2.
+21   Darling Downs Gazette, 29 February 1868, 3; Toowoomba Chronicle, 29 February 1868, 3.
+22   Toowoomba Chronicle, 31 August 1870, 3; Darling Downs Gazette, 31 August 1870, 3.
+
+                                            141
+
+                       History Australia | Volume 9 | Number 2
+
+
+government bent on dictating Toowoomba’s morals. The Brisbane press
+picked up the story and, clearly aware of the irony, satirised the government
+for ‘planning revenge on a virtuous community’ by sending the ‘colony’s
+immoral women’ to this region of ‘Arcadian simplicity’.23 Walsh was
+accused of planning ‘a terrible revenge on the people of Toowoomba for
+the sympathy they had manifested’ for McKay. It was reported that he
+was ‘striving to persuade Palmer to make the Toowoomba Gaol a female
+prison’.
+   The citizens of Toowoomba, whom Duncan Waterson describes as ‘one
+of the great urban bourgeois success stories of Queensland’,24 certainly
+felt that ‘this serious injury [had been] undeservedly inflicted on them’
+as political payback. The petition that emerged from the protest did not
+specifically mention this suspicion, but it did note that the local gaol
+was ‘no suitable asylum or reformatory’ for such women, and that the
+results would be regrettable for the ‘Colony at large’.25 The petition mainly
+decried the characters of the women who, it was claimed, would be let
+loose on the town.26
+   The ‘good burghers’ were not simply morally offended by the
+anticipated influx of criminal women. Inflaming their suspicions were
+deeper economic anxieties. The colony was in the grip of economic
+depression (1866–71), which ‘shook the nascent colonial order to its
+core’.27 While economic crisis set the backdrop for a pervasive sense of
+insecurity, the ongoing dispute over land reform was a more focused
+concern for Darling Downs inhabitants. Struggle over land reform
+characterised most Australian colonies, but competition was especially
+fierce on the Downs, one of the few regions in Queensland where soil
+and climate suited closer settlement, where as Ross Fitzgerald observes,
+‘agricultural land was richest and squatter monopolies strongest’.28
+Townspeople and farmers supported land reform and opposed the
+pastoralists whose interests dominated the cabinets of Mackenzie
+and Palmer. The Crown Lands Alienation Act (1868) introduced by the
+Mackenzie government was unpopular with smaller selectors, who
+believed it benefited the squatters by allowing them to retain control
+of large tracts of prime land they already leased from sympathetic
+
+23   Brisbane Courier, 11 November 1870, 2; The Queenslander, 12 November 1870, 3.
+24   Waterson Squatter, Selector, and Storekeeper, 80
+25   QVP, third session, 1870 (petition), 259.
+26   QVP, third session, 1870 (petition), 259.
+27   Raymond Evans A History of Queensland, New York: Cambridge University Press 2007,
+     85–87.
+28   Ross Fitzgerald From the Dreaming to 1915: A History of Queensland, Brisbane: University
+     of Queensland Press 1982, 187.
+
+                                           142
+
+                        Intersections in colonial and penal politics
+
+
+conservative administrations.29 The Toowoomba Chronicle criticised
+what it saw as the conservative intent of the 1868 legislation, fearing
+that ‘it [was] far more likely to increase the number of large than small
+free holders, or in other words, that it [would] prove to be a capitalists’
+rather than a peoples’ Bill’. 30 On the other hand, a meeting attended
+by representatives from the ‘leading stations’ on the Downs indicated
+that pastoralists were also dissatisfied with the complexities of the
+legislation, lack of compensation and the accusations of deviousness
+levelled against them by liberal opponents in parliament and press. 31
+These were the economic and class antagonisms boiling away at the
+time Palmer’s government decided to relocate Brisbane women to the
+Toowoomba Gaol.
+  Fitzgerald suggests that ‘When the political power of the “Pure
+Merinos” was finally broken, it was the storekeepers combining with
+selectors who were largely responsible, aided by powerful business
+oriented politicians.’32 This coalition of shopkeepers and farmers
+was represented prominently on the protest petition. Of the 178
+signatures, 156 (88 per cent) were decipherable. 33 Table 1 summarises
+the occupations for 106 (68 per cent) of those identified, and the bases
+on which 135 (87 per cent) were eligible to vote in the Legislative
+Assembly. Enfranchisement was restricted to males and was based
+on property qualifications, principally ‘ownership of freehold of the
+value of £100 or occupancy of property which had an annual value of
+£10’. 34 Petitioners did not need to be voters, just ‘humble’ residents, but
+farmers, storekeepers and tradespersons predominated. A comparison
+of petitioners with voters registered in the Toowoomba district shows
+the protestors were representative of the majority who owned or rented
+property. These protestors were moderately successful citizens who
+were able to vote, and were affluent enough to advertise in the post
+office directories. They identified their futures with the maintenance
+of a law-abiding region, and defending their interests in the face of
+a squatter-dominated government that, to them, wanted to impose
+immoral women on the town.
+
+
+29   S H Roberts History of Australian Land Settlement, 1788–1920, London: Frank Cass and
+     Co. 1969, 259–268.
+30   Toowoomba Chronicle, 25 April 1868, 2
+31   Darling Downs Gazette, 9 April 1870, 2.
+32   Fitzgerald From the Dreaming to 1915, 187.
+33   The manuscript with signatures is housed in the Queensland Parliamentary Library.
+34   R D Lumb The Constitutions of the Australian States, Brisbane: University of Queensland
+     Press 1977, 20.
+
+                                           143
+
+                        History Australia | Volume 9 | Number 2
+
+
+ Occupational groups        Petitioners No.    Petitioners %
+ Storekeepers, publicans           29                27.4
+ farmers                           26                24.5
+ tradespersons                     23                21.7
+ carters and carriers              11                10.4
+ others*                           17                16.0
+ total                            106                100
+ Basis of franchise         Petitioners No. Petitioners %        Toowoomba electorate %
+ freehold                          77                57.0                  67.7****
+ household                         30                22.2                    14.0
+ resident**                        13                9.6                     12.4
+ salary***                         9                 6.7                     2.2
+ leasehold                         6                 4.4                     3.7
+ total                            135                100                     100
+* clerk, auctioneer, overseer, bushman, stockman, clergy, labourer; ** from 1875 roll only
+*** from 1871 roll only; **** Toowoomba electoral district, registered voters n=2185.
+
+Table 1. Occupations (n=106/156) and basis of voting eligibility
+(n=135/156) of signatories to the 1870 protest petition.
+Sources: Queensland Post Office Directories (1868, 1874); Queensland Electoral Rolls
+(1870–71, 1875).
+
+
+  In addition, there was clear evidence of contrasting and competing
+conceptions of manhood aroused by the threat that the incoming women
+and their potential liaisons with lower class males posed for respectable
+masculinity. It has been claimed that storekeepers and selectors ‘mentally
+exchanged mateship for respectability’ and got ‘the best of the bargain’
+over mobile rural and town workers.35 One of the first comments made at
+the 1870 protest (and made by a shopkeeper) was the remark that some
+categories of men, especially bush workers, many of whom remained
+unmarried because of the colonial gender imbalance, might welcome the
+disreputable women:
+         Perhaps the Government considered they were doing Toowoomba
+         a favour by their proceedings in the matter – they might probably
+         think there would be a lot of lusty young fellows who would
+         shortly have done shearing and washing, and were desirous of
+         providing them with consorts – but their action in the matter was
+         not appreciated. Perhaps drapers ought not to grumble, for such
+         females were generally good customers of theirs.36
+
+35   Waterson Squatter, Selector, and Storekeeper, 107; Clive Moore ‘Colonial manhood and
+     masculinities’, Journal of Australian Studies, 56, 1998, 35–50.
+36   Toowoomba Chronicle, 10 December 1870, 3.
+
+                                              144
+
+                       Intersections in colonial and penal politics
+
+
+   Significantly, no similar remarks were reported for the remainder of the
+meeting. There was no indication that townswomen spoke at the meeting
+or signed the petition, and perhaps their presence was not considered
+appropriate to the matter at hand. The protestors, as male heads of
+household, were concerned for the welfare of their families, a point made
+by a number of speakers. While the petition claimed that the incoming
+women were ‘propagators of vice’, the citizens did not see themselves
+as vindictive. Some speakers were concerned about the welfare of the
+women, and they didn’t want to hear suggestions (even jokingly) that
+these ‘unfortunates’ might be sexually used by rural workers from the
+pastoral runs, or commercially exploited by some shopkeepers. The
+protest meeting in 1870 reflected the anxieties and milieu of an aspiring
+petite bourgeois formation confronted by the arrival of déclassé women.
+Toowoomba’s resistance to the women may have reflected a fear of
+metropolitan evils in general, but these shopkeepers and small farmers
+were most concerned about criminality and the perceived threat of moral
+contamination presented by the women and their associates.
+   The petitioners claimed to be in no doubt about the character of the
+incoming women and were concerned that they would be ‘discharged
+without the means of providing for themselves return passages to
+Brisbane, nor even the common necessities of life’.37 Perhaps the
+townspeople really did know what to expect because they already had
+local exemplars. The incoming women and their offences were very similar
+to the few local women already incarcerated in Toowoomba Gaol. The only
+significant differences were that the majority were charged with offences
+in Brisbane and that sentences involving ‘hard labour’ were increasingly
+imposed. Otherwise, characteristics of the incomers were similar to the
+local (female) gaol population who preceded them. Indeed, the boundaries
+between offences were sometimes vague: vagrancy might cover a range of
+circumstances from prostitution to drunkenness to destitution.38 Much
+depended on how assiduously the authorities were policing working-class
+lives at any particular time.
+   Comparing Toowoomba Gaol’s female population in 1866–70 (n=56)
+with that of 1875–77 (n=249), more of the Brisbane women used an
+alias (9 per cent) compared with the country women (2 per cent) but the
+difference was not significant. The majority were convicted of vagrancy
+(34 per cent), drunkenness (14 per cent), larceny (14 per cent) and obscene
+language (12 per cent). Few were convicted of serious offences against the
+
+37   QVP, third session, 1870 (petition), 259
+38   Finnane and Garton ‘The work of policing’, 47–48.
+
+                                           145
+
+                       History Australia | Volume 9 | Number 2
+
+
+person such as assault (4 per cent). The mean sentence (14 weeks) and
+the mean age (33 years) remained consistent over the decade spanning
+the transfer of women to Toowoomba. A large proportion had arrived in
+the colony from Ireland (48 per cent) followed by England/Wales (25 per
+cent) and Scotland (13 per cent).
+   While many of the arrivals at the gaol were Irish women, there is little
+evidence that ethnic or religious bigotry informed the townspeople’s
+protest.39 Toowoomba had a large Irish-born population, 30 per cent
+according to the 1881 census, and 33 per cent of the Downs population
+were Roman Catholic.40 There was less sectarian strife on the Downs than
+in the capital, and Queensland in general was said to be an ‘intensely
+Irish’ environment.41 Nor were concerns expressed about any other racial
+or ethnic group that might be relocated to the town. The main factor
+inflaming tensions between the town and colonial government was not
+the ethnic backgrounds of the women, but their disreputable character.
+   Acrimony between the town and Palmer’s administration continued
+until the change of government in 1874. The local member, Groom, writing
+a year after the first women arrived, complained of female ‘innocents’
+who remained in Toowoomba to carry on their trade. He cited the
+‘abomination’ of Rebecca W who ‘took cottages in different localities and
+carried on a system of infamy, enticing young females whose acquaintance
+she had formed in the gaol to reside with her’. He said more would be ‘let
+loose to pollute the town’ since there were ‘sixteen such women currently
+in the gaol’.42 The governor of Toowoomba Gaol, Henry Blaney, responded
+that the accusations were a ‘tissue of falsehoods from beginning to end’.
+Rebecca W had been supplied with a pass to get her back to Brisbane, but
+had committed offences along the way in Ipswich and was sentenced to
+return to Toowoomba. He concluded: ‘There is [sic] none of those Brisbane
+prostitutes to my knowledge in Toowoomba with the exception of four or
+five and they are in service and conducting themselves well.’43
+   Groom made one further attempt in 1874 after the change of government
+to have the Brisbane women removed. The report of his ‘quiet endeavours’
+was conciliatory in tone, speaking of those incarcerated as ‘unfortunates’
+
+39   Libby Connors and Bernadette Turner ‘“I cannot do any more”: resistance, respectability
+     and ruin – recapturing the Irish orphan girls in the Moreton Bay districts’, in Trevor
+     McClaughlin (ed) Irish Women in Colonial Australia, 105–122.
+40   Waterson Squatter, Selector, and Storekeeper, 259–262.
+41   Patrick O’Farrell The Irish in Australia: 1788 to the Present, Sydney: University of New
+     South Wales Press 2000, 132–133, 144.
+42   Darling Downs Gazette, 25 October 1871, 3.
+43   Letterbook of Toowoomba Gaol, series 635, item 515999, 26 November 1871, 161,
+     Queensland State Archives (QSA), Runcorn (hereafter Letterbook of Toowoomba Gaol).
+
+                                           146
+
+                        Intersections in colonial and penal politics
+
+
+and noting that the imposition of these women had been a ‘sore point
+for some time’.44 The government agreed to consider the matter, but it
+was unlikely that policy would be reversed as extensions had been made
+to accommodate additional women in the gaol.45 Critics of Toowoomba
+Gaol increasingly drew attention to the institution’s inability to effect
+rehabilitation and to defects in its construction and flood-prone location,
+rather than directing attacks on the characters of the women within.46
+When Groom and the Colonial Secretary (R M Stewart) visited the Gaol in
+1876 they were pleased with the cleanliness of the place, and undertook to
+ensure the Colonial Storekeeper supplied sewing machines and materials
+sufficient for the women to work.47 Production of institutional clothing,
+considered medium labour, might assist government coffers and distract
+the women from ‘comparing notes about the past and arranging mischief
+for the future’.
+
+
+Penal politics
+Toowoomba citizens thought the women had been transferred to their
+town in an act of political revenge. Such an act would not be out of
+character for William Henry Walsh, that ‘Demon of discord’ who has
+been described by his biographers as ‘gauche, nasty, devious, highly
+egocentric’ and ‘probably one of the most hated men of his time’.48 Yet
+Walsh was also a ‘creditable administrator’,49 and it seems likely that,
+as Secretary for Public Works in 1870, he advised the new Palmer
+government of potential ways to tackle penal problems that had occupied
+previous administrations. Palmer himself would have been well aware of
+these problems. As Colonial Secretary and Secretary for Public Works in
+Mackenzie’s government (1867–68) he had responsibility for the conduct
+of public institutions and infrastructure.
+  There were two closely related problems. First, what to do with ‘idle’
+prisoners who, by contemporary accounts, constituted most of the prison
+population: this was really a question about the efficacy of prison labour.
+The second was an allied question about the future of St Helena, a penal
+
+
+44   Toowoomba Chronicle, 21 March 1874, 3; Darling Downs Gazette, 21 March 1874, 2.
+45   Gaols of the Colony, Sheriff’s Report, QVP 1873, vol 1, 1289.
+46   Letterbook of Toowoomba Gaol, 15 July 1876, 362.
+47   Ibid, 10 November 1876, 373.
+48   D Denholm and H J Gibney ‘Walsh, William Henry (1823–1880)’, Australian Dictionary
+     of Biography, vol 6, Melbourne: Melbourne University Press 1976. Available from: http://
+     www.adb.online.anu.edu.au/biogs/A060373b.htm.
+49   Ibid.
+
+                                            147
+
+                       History Australia | Volume 9 | Number 2
+
+
+island recently established off the coast, close to the capital. The reports
+of two select committees (1868–69) show how both concerns meshed,
+and how attempted solutions to these questions led almost inevitably to
+transferring Brisbane women to Toowoomba.
+   The report on prison discipline (1868) heard that there was insufficient
+labour to occupy prisoners at Brisbane Gaol, which then contained about
+140 males and 35 females. The select committee was told that during this
+period of deep economic depression, the state made considerable outlay
+just to keep ‘reckless’ prisoners in idleness. The lack of provisions for
+carrying out hard labour sentences made prison attractive to the ‘felon
+class’.50 Brisbane Gaol was over-crowded, according to Sheriff Halloran,
+which meant prisoners could not be classified properly to separate
+recidivists from those who might be reformed.51 While the major concern
+was for control of the larger number of men, the Visiting Justice to
+Brisbane Gaol (L A Bernays) testified that a similar situation existed for
+women, most said to be prostitutes, who were ‘indifferent to gaol’. He
+agreed that if materials were supplied, then these women could produce
+garments for other government institutions, but with little to do, ‘the
+impression on the mind of a visitor would probably be that they look well
+fed, sleek and perfectly contented with their position’.52
+   The problem of prisoner ‘idleness’ had seemed insoluble. However,
+potential solutions began to suggest themselves. St Helena had
+commenced as a penal establishment in May 1867 and was described as
+‘experimental’.53 Some longer term male prisoners were employed on the
+island in small-scale agriculture and land clearance, but there had always
+been uncertainty about the type of prisoner to be sent to St Helena,
+‘trustworthy’ men or the worst long term cases.
+   Decisions were made quickly. The dire condition of colonial finances,
+combined with concerns for maintaining discipline, settled the future
+of the penal system for the next fifty years. The government hoped that
+St Helena could become self-sustaining and perhaps profitable. A range
+of trades and workshops would be introduced, and for this able-bodied
+men, preferably with skills, were required. By the time of the report on St
+Helena (1869), the government’s view was that St Helena should become
+the premier penal establishment for men. Brisbane Gaol would process
+
+50   Report of the Select Committee on Prison Discipline (hereafter SCPD) QVP, 1868, vol 1,
+     1087–1161.
+51   SCPD, Halloran’s evidence, 1107–1110.
+52   SCPD, Bernays’s evidence, 1112–1114.
+53   Report from the Select Committee on the Penal Establishment at St Helena (hereafter
+     SCSH) QVP, 1869, vol 1, 859–904.
+
+                                           148
+
+                       Intersections in colonial and penal politics
+
+
+able-bodied men who would no longer be kept in regional gaols.54 Rather,
+after classification and observation in Brisbane, these men would be
+forwarded to St Helena. However, since Brisbane Gaol was overcrowded,
+the women incarcerated there would need to be removed and housed
+elsewhere – but where?
+  It is clear that Sheriff Halloran, who was responsible for gaols, did not
+fully comprehend government thinking and the direction of penological
+events as they unfolded 1868–70. As late as 1869, Halloran wanted a
+‘temporary’ and ‘inexpensive’ wooden structure built for the women and
+attached to Brisbane Gaol. He thought this structure adequate for the
+women because most of them were short term prisoners. He estimated
+the cost of the building and fence at £250. 55 Yet he also argued that
+‘as many hard labour men as possible’ should be sent to Toowoomba,
+once local female prisoners were moved into a new ward, as yet not
+approved for construction. In effect, he wanted room at Brisbane Gaol
+for more men, with the women hived off into a wooden shelter, but he
+also wanted more male prisoners housed at Toowoomba, to raise its
+status above that of a country ‘house of detention for short periods’.
+His thinking was expansionist, but his strategy was misjudged. The
+chairperson of the St Helena inquiry was Arthur Palmer, whose effigy
+had been recently burnt at Toowoomba and who was now sitting on the
+opposition benches. Soon, as Colonial Secretary and Premier, he would
+be making decisions about the relocation of male and female prisoners
+in the colony.
+  What must have tipped the scales against the sheriff’s plans was that
+Toowoomba increasingly appeared unsuitable for the males already
+there, but adequate for additional women. The gaol was secure, but
+difficult to guard, more suited to short term prisoners. There was little
+in the way of productive labour to occupy male prisoners, since economic
+depression left little call for gaol-manufactured items in the locality.
+Even gaol authorities agreed that the institution ‘could not be called a
+reformatory prison, quite the reverse’. The earlier inquiry on prison
+discipline (1868) was told that young males were worse when they came
+out of Toowoomba, because the men were not occupied and they spent
+their time ‘contaminating the minds of each other’.56
+
+
+
+54   Letterbook of the Sheriff Containing Letters to Heads of Departments (1865–71) series
+     15170, item 89488, 17 April 1869, 218, QSA.
+55   SCSH, 895–896.
+56   SCPD, 1155–1159.
+
+                                          149
+
+                     History Australia | Volume 9 | Number 2
+
+
+   However, the government’s decision to move women to Toowoomba,
+and remove most of the men, was still made with haste. Little thought
+was given to what the women would do once transferred. The uncertainty
+applied both to how the women would be occupied and their welfare once
+released. The first female turnkey who arrived in December 1870 (shortly
+before the protest meeting) noted ‘the need for suitable work to be set
+afoot’ to prevent the increasing number of unoccupied women from
+quarrelling.57 The gaoler asked what to do about the first women coming
+up for release who wanted to return to Brisbane.58 The sheriff provided a
+‘limited number’ of signed passes so the women could progress by train to
+Ipswich and then riverboat to Brisbane. Gaoler Blaney gave these passes
+to the ‘most incorrigible’, presumably to get them out of Toowoomba. The
+Colonial Secretary (Palmer) concurred that only the ‘worst characters’
+should get a pass and that ‘it was not his intention to send the whole of
+them back’ to Brisbane as he hoped they would seek employment locally
+on the Downs. His advice was to discharge the incorrigibles entitled to
+a pass a day early, because then authorities could compel them to leave
+town by train.59
+   The government’s vision that at least some of these city women might
+settle into domesticity on the Downs perhaps explains the ambivalence
+in Sheriff Halloran’s comments about the transfer. He held little hope for
+these women, and seemed uncertain whether the move was for the good
+of the women themselves. If the women were to be rehabilitated then
+why, he implied, send them to a country municipality where they might
+be even more stigmatised:
+     The females are almost wholly of a class degraded by drink, and by
+     its associate vices, and are seldom clear of gaol, beyond three or
+     four weeks at a time. In a comparatively small population like that
+     of Queensland, women of this description become locally known,
+     and lose their self-respect, more determinately than in countries
+     where an offender, removed from the place of her fall to one where
+     she will hardly be recognised, can be better benefited by decent and
+     moral associations.60
+
+  Many of these women, of course, did stand out and became identified
+locally as troublesome. The visiting magistrate insisted that Elizabeth C
+be sent back to Brisbane rather than released into the town. This was the
+
+57   Letterbook of Toowoomba Gaol, 5 December 1870, 102; 7 January 1871, 105.
+58   Ibid, 27 January 1871, 108.
+59   Ibid, 28 March 1871, 123.
+60   Report on the Prevention and Repression of Crime, Including Penal and Reformatory
+     Treatment in Queensland, QVP 1872, vol 1, 1488.
+
+                                        150
+
+                       Intersections in colonial and penal politics
+
+
+third time she had been sent down from Brisbane, convicted of wilful and
+malicious damage and vagrancy, and there had been ‘several complaints
+made against her by inhabitants of the town’.61 In addition, local police
+were accused of harassing the women after their release, including
+informing potential employers about the women’s backgrounds. 62
+  There were problems providing prison work for the women because
+of a longstanding rift with the Colonial Storekeeper who provided
+material with which the women produced garments. Blaney pointed to
+the difficulties of filling a regular quota, either because of fluctuating
+numbers of prisoners, or because insufficient material had been sent
+to the gaol.63 The Storekeeper complained of slovenly work. Blaney
+responded that while the women were closely supervised, making serge
+clothing was beyond many of them as such work required ‘tailors and
+people brought up in the business’.64 The supply of sewing machines in
+the mid-1870s caused further argument, with the gaoler complaining
+the machines broke down, and it seems that initially the Storekeeper
+was opposed to the use of machines because he could not supply enough
+material.65 Yet, despite accusations of their worthlessness and lack of
+domestic and sewing skills, the women fulfilled work expectations when
+possible. The sheriff was moved to acknowledge:
+     The value of work performed by the female prisoners, after paying
+     for material, is three hundred and thirty-six pounds, nine shillings
+     and five pence. Considering the degraded and useless class of
+     women to be dealt with in this prison, this result is very satisfactory.
+     Against some of these women upwards of fifty convictions are on
+     record, in fact the Gaol appears to be considered their home. Many
+     of them are unable to sew even the coarsest work.66
+
+  The tension between storekeeper and gaoler again highlighted the
+ongoing problem of delineating clearly the purposes of prison work.
+McGuire’s study of penality in Queensland argues that the fiscal crisis
+of the state was the most powerful incentive to achieve economies in
+the system in the late nineteenth century.67 It is certainly the case that
+
+
+61   Letterbook of Toowoomba Gaol, 10 July 1871, 147.
+62   Darling Downs Gazette, 21 December 1872, 2. For other instances of tensions between
+     the gaol and police, see Darling Downs Gazette, 9 November 1872, 3; Letterbook of
+     Toowoomba Gaol, 18 December 1872, 215; 14 July 1875, 324.
+63   Letterbook of Toowoomba Gaol, 7 September 1871, 157; 17 November 1873, 255; 9 May
+     1876, 356.
+64   Ibid, 3 January 1877, 382–383.
+65   Ibid, 10 November 1876, 374; 16 November 1876, 376; 3 January 1877, 383.
+66   QVP, 1877, vol 1, 1026.
+67   McGuire Punishment and Colonial Society, chapter 7.
+
+                                          151
+
+                      History Australia | Volume 9 | Number 2
+
+
+gaols and prisons were expected to pay as much of their way as possible,
+especially in a ‘mortgaged economy’ such as Queensland’s, but there were
+other functions of labour. In fact, the question of prison labour was central
+to penal politics in the late nineteenth century. While the government
+was especially concerned with fiscal aspects, penal administrators were
+also cognisant of the control function of labour and argued strongly that
+prison labour should retain a balance of objectives.
+  Penal officials kept reminding the government that there was more
+to prison labour than just economic considerations. Contemporary
+discourse about prison labour ranged across three core concerns: labour
+for productive work and economic reimbursement to the state, labour that
+was reformative of character and, third, what was referred to as ‘penal
+labour’, hard, repetitive and disciplinary. Prior to moving the women
+to Toowoomba and reorganising male accommodation, provisions
+for achieving any of these objectives were lacking. Sheriff Halloran
+was adamant about the need to ‘balance profitable labour against the
+punishment of penal labour’ and insisted that penal labour should never
+‘be sacrificed to the immediate concerns of profit’.68 In fact, the sheriff
+and likeminded officials frequently quoted from British government
+documents produced 20 years earlier at a time when, following the
+cessation of transportation, officialdom was starting to question the
+mid-century emphasis on the reformatory mission of the new British
+prisons and to advocate a harder line on discipline.69 In the case of male
+prisoners, Halloran said the disciplinary ‘pain’ of penal labour should
+always be a legitimate consideration: ‘The great want in all the gaols is
+means of employing the prisoners in a profitable manner, and the still
+more effectual punishment of penal labour.’ In the year he retired,
+Halloran referred to the question of labour as ‘a matter of great difficulty
+and perplexity’.70
+  Other colonies were attempting also to grapple with the twin problems
+of prison labour and prison discipline. In Victoria, for example, prisons
+made greater use of solitary confinement and punishment cells to impose
+discipline. Thus, the system moved slowly toward a policy that emphasised
+prison labour as reformative and character building, rather than mainly
+punitive.71 On the other hand, lack of space in Queensland, because of
+
+68   QVP, 1885, vol 1, 538.
+69   Prison Discipline (Despatch Respecting).’ QVP, 1869, 263–264; Neil Davie ‘“Business
+     as usual?” Britain’s first women’s convict prison, Brixton 1853–1869’, Crimes and
+     Misdemeanours 4 (1), 2010, 37–52.
+70   QVP, 1888, vol 1, 903.
+71   Lynn and Armstrong From Pentonville to Pentridge, 91–104, 110–113.
+
+                                         152
+
+                       Intersections in colonial and penal politics
+
+
+the disinclination of governments to invest in facilities, meant that there
+could only be limited recourse to solitary confinement, and hence the
+insistence of Halloran and other prison officers on the importance of
+prison work for penal and disciplinary purposes. Moreover, prison life
+in Queensland tended to be lived in association with other prisoners, a
+mode of accommodation said to be conducive to moral contamination.
+Paradoxically, while some progressive penologists were decrying
+the ‘evils’ of associated accommodation, others were pointing to the
+deleterious effect on the mental health of prisoners when kept isolated
+for long periods in single cells.72
+   The problem of labour remained intractable. The Board of Inquiry (1887)
+reported that prisoners on St Helena were productively engaged, albeit in
+a narrow range of agricultural and industrial pursuits, and the women at
+Toowoomba appeared to be usefully occupied, but opportunities for labour
+at other regional gaols and Brisbane Gaol were sporadic or non-existent.73
+A persistent problem was that work intended to impart useful skills had
+to be provided by the gaol system rather than found outside. Prison
+officials had always hoped that municipalities might employ prisoners on
+public works, but governments were anxious to avoid ‘interfering with
+free labour’, particularly during times of economic depression and public
+unrest, so little eventuated. Prison authorities continued to advocate
+the disciplinary role of punitive labour, but governments and official
+inquiries increasingly distanced themselves from the concept of ‘purely
+penal labour’, which produced ‘resentment, obstinacy, and hardness in
+the labourer’. Penal labour as punishment came to be seen by progressive
+commentators and liberal governments as ‘torture in disguise [and]
+totally non-reformatory in its effect’.74
+   In the case of women, there was always less emphasis on the ‘pains’
+of penal labour. Official views of women mirrored those mixed views
+expressed by the Toowoomba protestors in 1870. Distaste for dealing
+with this most ‘degraded and difficult class’, mingled with sympathy for
+the ‘unfortunate class’ of women.75 While most agreed that there was
+little hope of rehabilitating these women, they still might be protected
+from themselves and each other, and useful work provided the key.
+Women prisoners were never to be used in hard manual labour, either
+
+72   Ibid, 101–102.
+73   Report with Minutes of Evidence taken before the Board of Inquiry appointed to Inquire
+     into the General Management of Gaols, Penal Establishments, and Lockups of the Colony
+     of Queensland, QVP, 1887, vol 1.
+74   Ibid, xviii–xix.
+75   QVP, 1879, vol 1, 743.
+
+                                           153
+
+                      History Australia | Volume 9 | Number 2
+
+
+inside or outside of the gaol, but this left them with a very narrow range
+of useful work, which might also be disrupted by events external to
+the correctional system. In the early 1890s the Colonial Storekeeper
+complained that the superintendent of Toowoomba was trying to dictate
+the amount of goods and materials to be processed by his store. He
+began to look elsewhere for the supply of institutional clothing with
+a consequent loss of work for Toowoomba women. The new sheriff (W
+Townley) spelt out that the ‘essential question is really how best to
+supply prisoners in penal establishments with remunerative work’.76
+He reminded the Under Colonial Secretary that materials needed to
+be regularly supplied ‘otherwise orders cannot be filled, and prisoners
+cannot be taught to become experts unless they are regularly employed’.
+If the current situation of supply in ‘fits and starts’ could not be obviated,
+‘then it would be better for discipline and manufacture of products to put
+prisoners to other labour even if un-remunerative’. Prison labour was not
+only concerned with profit and loss accounting: in Townley’s view it was
+also fundamentally concerned with maintenance of discipline and order.
+Aside from the need for productive labour, Townley concluded with his
+most telling observation from a recent visit to Toowoomba Gaol:
+     I found all the female prisoners in a state of enforced idleness for
+     want of material – the horrors attendant upon 50 reckless women
+     compelled on account of faulty prison construction to live in
+     association and without work may be easily imagined.77
+
+
+
+Conclusion
+Correctional histories of developments in the second half of the
+nineteenth century tend to focus more on penal institutions and related
+policy than on public responses to penal policy and prison reform. The
+case of Toowoomba women’s gaol indicates the need for finer-grained
+analysis of penal politics and public perceptions of penal policy. The
+conservative, squatter-based government of Arthur Palmer decided to
+move women to Toowoomba for reasons of economic expediency and
+the need to organise large numbers of male prisoners and their labour
+power. However, the policy was seen very differently at the regional level
+where Darling Downs residents rejected the move of female prisoners to
+
+76   Sheriff of Queensland to the Under Colonial Secretary, series 15160, item 89419, 15
+     August 1891, 901–904, QSA.
+77   Sheriff of Queensland to Under Colonial Secretary, series 15160, item 89420, 9 March
+     1892, folio 142, QSA.
+
+                                          154
+
+                        Intersections in colonial and penal politics
+
+
+their locality. They were not concerned with questions of prison labour
+or colonial fiscal troubles, as was the government, but rather with the
+perceived social problems that they believed their town would face after
+the arrival of women prisoners from the city.
+  The townspeople were mistaken about the relocation as an act of
+political revenge, although there were good reasons for their suspicions.
+Regional and colonial politics in the period were contested around
+sectional issues and the need to maintain sometimes shifting local
+power bases. The decision to relocate female prisoners from Brisbane to
+Toowoomba was a fraught one, as a range of interested parties sought
+to gain political advantage and favour. Citizens were concerned about
+the potential for increased vice and crime, but the agrarian radicals also
+sought to mobilise town anger against squatter interests. The government
+provided little warning about the imminent relocation of the women, but
+then the decision was taken quickly. The government had few channels
+by which to disseminate information on policy likely to impact on the
+town because on this matter, as with others, local members, the town
+council, and the regional press were at loggerheads with the government.
+The furore over the Prince’s visit in 1868 was indicative of the lack of
+communication and the existing political divide between the government
+and the townspeople. It seems also that many of Blaney’s problems
+running the gaol, at least in the 1870s, arose from local and parochial
+politics – criticisms from the townspeople and regional press, disputes
+with local police, irregular supply of work materials for the women –
+rather than from pressures internal to the gaol itself.78
+  The relocation was part of an attempt to work through the problem of
+prison labour, and especially to find ways of balancing productive labour
+with punitive labour. Inquiries had reported on the ‘idleness’ of men and
+their drain on resources at a time of acute economic depression. Removal
+of the women from the metropolis opened the way to reorganise male
+labour. It is possible to read other interpretations into the relocation of
+urban women to Toowoomba. However, evidence of concerted attempts
+to further punish these marginalised women by isolating them on the
+Darling Downs is not particularly forthcoming.
+  Nevertheless, a characteristic of the gendered correctional system in
+Queensland had been firmly established and would be repeated into the
+twentieth century. That is, in addition to any concern that authorities
+
+78   Toowoomba Gaol was, however, roundly criticised by the 1887 Board of Inquiry, partly
+     because of inadequate construction and the associated accommodation of the women,
+     and also because of Blaney’s paternalistic administration of the gaol. QVP, 1887, vol 1.
+
+                                           155
+
+                      History Australia | Volume 9 | Number 2
+
+
+may have had to control and isolate female deviance and ‘depravity’, the
+fortunes of women prisoners were determined by the need to control
+men.
+  The scenario would later be repeated. When Toowoomba Gaol closed
+at the beginning of the twentieth century, women were returned to
+Brisbane to occupy what was seen at the time as a modern brick and stone
+facility. Yet from the 1920s, as men were returned to the metropolis from
+the deteriorating facility on St Helena and had to be accommodated, the
+women were finally forced into a wooden house on the Brisbane Prison
+reserve. Halloran’s cheap and ‘temporary’ accommodation for women had
+finally eventuated and lasted to the mid twentieth century as further
+evidence of the ongoing official neglect of women prisoners.79
+
+
+About the author
+Kerry Wimshurst is a lecturer in the School of Criminology and Criminal
+Justice, Griffith University. His research interests are in the history and
+sociology of punishment and he has published articles on reformatory
+schools in the nineteenth century, and on the functions of imprisonment
+in Queensland during the Great Depression. His teaching areas are in youth
+justice, and crime and the media.
+
+Correspondence to Kerry Wimshurst: K.Wimshurst@griffith.edu.au
+
+
+
+
+79   Kerry Wimshurst ‘Punishment, welfare and gender ordering in Queensland,   1920–1940’,
+     Australian and New Zealand Journal of Criminology 35 (3), 2002, 308–329.
+
+
+
+
+                                          156
+

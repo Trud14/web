@@ -1,0 +1,800 @@
+bs_bs_banner
+
+
+
+
+Using an ‘Interpretative Model’ for Contextual
+Design of Heritage Landscape Databases:
+The Case of St Helena Island National Park
+in Queensland, Australia
+CHEN YANG
+Landscape Architecture, Queensland University of Technology, 2 George Street, Brisbane, Qld
+4001, Australia. Email: tjyangchen@126.com
+
+                          Received 30 January 2015; Revised 16 April 2015; Accepted 5 May 2015
+
+
+               Abstract
+               Due to the increasing speed of landscape changes and the massive development of
+               computer technologies, the methods of representing heritage landscapes using
+               digital tools have become a worldwide concern in conservation research. The aim
+               of this paper is to demonstrate how an ‘interpretative model’ can be used for
+               contextual design of heritage landscape information systems. This approach is
+               explored through building a geographic information system database for St
+               Helena Island national park in Moreton Bay, South East Queensland, Australia.
+               Stakeholders’ interpretations of this landscape were collected through interviews,
+               and then used as a framework for designing the database. The designed database
+               is a digital inventory providing contextual descriptions of the historic infrastruc-
+               ture remnants on St Helena Island. It also reveals the priorities of different sites in
+               terms of historic research, landscape restoration, and tourism development. Addi-
+               tionally, this database produces thematic maps of the intangible heritage values,
+               which could be used for landscape interpretation. This approach is different from
+               the existing methods because building a heritage information system is deemed as
+               an interpretative activity, rather than a value-free replication of the physical
+               environment. This approach also shows how a cultural landscape methodology
+               can be used to create a flexible information system for heritage conservation. The
+               conclusion is that an ‘interpretative model’ of database design facilitates a more
+               explicit focus on information support, and is a potentially effective approach to
+               user-centred design of geographic information systems.
+
+               KEY WORDS heritage landscape; interpretative model; cultural landscape;
+               GIS; St Helena Island
+
+
+
+
+Introduction                                                  one of the most famous heritage landscapes in
+The term heritage landscape refers to landscapes              Australia, features the surviving examples of
+that are recognised as places of historical and               large-scale convict transportation and the colonial
+cultural significance. A heritage landscape could             expansion of European powers throughout the
+be an ancient city, a designed garden, or a historic          19th century (United Nations Educational, Scien-
+village. For example, Port Arthur Historic Site,              tific and Cultural Organization (UNESCO),
+
+Geographical Research • August 2015 • 53(3):321–335                                                          321
+doi: 10.1111/1745-5871.12117
+
+322                                                       Geographical Research • August 2015 • 53(3):321–335
+
+
+2010). Heritage landscapes are the result of the       technologies have slowly superseded traditional
+gradual accumulation of cultural values and            cartography, supported by recent developments
+attributes within natural systems, in both their       in Geographic Information System (GIS), Global
+tangible and intangible dimensions. The tangible       Positioning System, and remote sensing
+environments provide a physical setting for our        (Hamylton, 2013). For example, applications for
+daily lives. The intangible aspects – such as tradi-   World Heritage nominations today must be in
+tions, values, and ongoing interactions between        electronic format to create a uniform heritage
+people and place – represent cultural identity.        archive for periodic monitoring (UNESCO,
+   The socio-economic transformations, environ-        2009). It is therefore necessary to develop inno-
+mental changes, and urban development pres-            vative applications of digital tools to assist the
+sures in the world today mean that landscapes are      documentation of heritage landscapes.
+changing with increasing speed, and new land-             In Australia, while many heritage information
+scapes are gradually or abruptly replacing tradi-      systems have been built at the national or state
+tional ones (Eetvelde and Antrop, 2004).               level, the conservation of individual heritage
+Important historical information is being lost         landscapes is still based on hard copy paper
+through destructive changes, and as a result, the      documentation and local managers’ memories.
+cultural continuity of the past is challenged.         Many national or regional heritage information
+Therefore, the conservation of heritage land-          systems cannot be used for the conservation of
+scapes has become a worldwide concern over the         individual heritage landscapes due to their spatial
+past two decades. The number of World Heritage         and temporal generality that is problematic
+cultural landscapes increased from 30 to 85            (Veland et al., 2014). From the perspective of
+between 2002 and 2013. In 2012, the UNESCO             individual landscapes, different types of informa-
+Recommendation of the Historic Urban Land-             tion for a site are held by a number of organisa-
+scape was released as a result of six years of         tions. This fragmentation of information is a
+intensive global discussion (O’Donnell and             major obstacle for efficient conservation. Small,
+Turner, 2012).                                         locally based conservation organisations typi-
+   Documentation of heritage landscapes is             cally lack the data, expertise, and technological
+essential in conservation, because firstly, heritage   resources to benefit from the advanced develop-
+documents are significant references in conser-        ments of digital technologies (Freeman et al.,
+vation research and practice. Secondly, docu-          2010).
+ments are used to record the alterations within           Only a small number of projects have devel-
+heritage landscapes, which is important informa-       oped information management systems for
+tion for maintaining the authenticity of heritage      locally based landscape conservation in Aus-
+places and their management. Thirdly, docu-            tralia, such as the Uluru-Kata Tjuta Cultural
+ments, as a kind of landscape representation, can      Site Management System (CSMS) (Australian
+greatly impact people’s understanding of places        Government, Department of Environment,
+(Hamylton, 2013). Past events make low or less         2012), the Indigenous GIS Database for the
+impact on the present unless they are memorised        Barmah-Millewa area in south-eastern Australia
+in history books, monuments, and jovial festiv-        (Griggs et al., 2013), and the geographic biblio-
+ities that are recognised as part of an ongoing        graphic database for the Goulburn Broken Catch-
+tradition (Tuan, 1977, 174). Therefore, innova-        ment in Victoria (Wallis et al., 2011). However,
+tive and research-focused documentation of her-        the research and practice of GIS are still largely
+itage landscapes has become an important issue         concerned with the environmental values of land-
+in the global heritage discipline.                     scape (Veland et al., 2014). It is necessary to
+   Significant progress has been made in devel-        explore the approach for mapping and databasing
+oping and implementing digital tools that              heritage landscapes containing both natural and
+acquire, store, analyse, and share geographic          cultural values.
+information describing the physical characteris-          This paper aims to present an alternative per-
+tics of specified locations on the Earth’s surface     spective on the user-centred design of GIS that
+(Goodchild, 2009). Since UNESCO first used a           takes into account the conservation context of
+computer-assisted information management               heritage landscapes. It uses an ‘interpretative
+system in 1992 to help the Cambodian govern-           model’ to design GIS databases for conservation
+ment to protect Angkor Wat, the rapid rise in          practice. The intention of this paper is to explore
+geospatial technologies has revolutionised the         a new approach, rather than to focus entirely on
+documentation of cultural heritage. Geospatial         the design of GIS database.
+
+                                                                     © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                   323
+
+
+  The specific objectives are to:                               human society and settlement over time,
+                                                                under the influence of physical constrains
+1. explore the contemporary information
+                                                                and/or opportunities presented by their natural
+   requirements in the conservation practice of
+                                                                environment and of successive social, eco-
+   heritage landscapes in Australia;
+                                                                nomic and cultural forces, both external and
+2. design a sample GIS database for a heritage
+                                                                internal (UNESCO, 2008, 85).
+   landscape, which could be used to assist local
+   conservation practice; and
+                                                             Within a cultural landscape methodology, herit-
+3. identify the potential applications of this
+                                                             age sites are not seen as static relics, but are seen
+   database.
+                                                             as dynamic entities that are interdependent on
+In the following sections of this paper, I firstly           people, social structures, and associated ecologi-
+establish a theoretical framework for building               cal systems (Taylor and Lennon, 2011). Accord-
+heritage landscape databases. Then the Methods               ingly, the aim of conservation is to establish an
+section presents the process of data collection              agreement about the heritage place among key
+and analysis in detail. Thirdly, the Results section         stakeholders (UNESCO, 2009). Furthermore, it
+demonstrates the GIS database designed for an                is difficult to apply the universal methods or tools
+Australian heritage landscape, which is followed             for the conservation of different landscapes. The
+by a discussion of new concepts of database                  Nara Document on Authenticity (1994), an inter-
+design. Finally, the last section is a short conclu-         national document that addresses the understand-
+sion that summarises the main contributions of               ing of authenticity of cultural heritage,
+this paper.                                                  recommends that each heritage site should
+                                                             develop its own conservation approaches appro-
+                                                             priate for its specific culture (Logan, 2001,
+An interpretative model for the design of
+                                                             quoted in Lennon, 2007).
+heritage landscape databases
+                                                                However, while the cultural landscape meth-
+This research applies a cultural landscape meth-
+                                                             odology has been accepted in the conservation
+odology to heritage conservation and an ‘inter-
+                                                             domain, the documentation of heritage land-
+pretative model’ of landscape representation in
+                                                             scapes is still based on the ‘conventional’ con-
+the design of a GIS database. The cultural land-
+                                                             cepts of cultural heritage. In Australia, the
+scape methodology has provided a revolutionary
+                                                             Queensland Heritage Register database is still
+guide for heritage research and conservation
+                                                             focused on the built form, and its history; neither
+since the 1990s (Yang and Sim, 2013). This
+                                                             landscape nor wider national historical contexts
+methodology was adopted because it covers
+                                                             are included. By way of contrast, ParkInfo, a GIS
+aspects that are not covered by the ‘conventional’
+                                                             for national park management in Queensland, is
+concepts of cultural heritage. Before the 1990s,
+                                                             mainly about fire, pests, and vegetation (Kington,
+the UNESCO World Heritage Convention
+                                                             2006). Conservation of heritage landscapes con-
+(WHC), as a leading authority of heritage con-
+                                                             taining both natural and cultural values is there-
+servation, was criticised for legitimising a par-
+                                                             fore problematic in these divided administrative
+ticular Western perception of heritage in terms of
+                                                             systems. However, the rapid development of
+both policy and practice (Byrne, 1991; Pocock,
+                                                             digital tools means that it is possible to integrate
+1997; Cleere, 2001; Sullivan, 2004). The WHC
+                                                             different values into a comprehensive informa-
+was dominated by monumentally grand and aes-
+                                                             tion system. Unfortunately, this issue has not yet
+thetic sites (Arizpe, 2000; Cleere, 2001; Yoshida,
+                                                             been systematically investigated in Australia.
+2004), which led to a museum-like approach that
+                                                                This paper introduces an ‘interpretative
+excluded dynamic processes and contexts
+                                                             model’ in the design of information systems. As a
+(Lennon, 2012). There was no mechanism for
+                                                             type of landscape representation, designing and
+recognising places that had evolved from the
+                                                             building information systems are seen as inter-
+interaction of cultural values and natural pro-
+                                                             pretative activities. In the work labelled ‘critical
+cesses. Accordingly, the term ‘cultural land-
+                                                             cartography’ (Crampton and Krygier, 2005),
+scape’ offered a revolutionary methodology of
+                                                             landscape representation is considered a form of
+heritage conservation through its innovative per-
+                                                             cultural and social construction (Harvey, 1989;
+spective of heritage place:
+                                                             Wood, 1992; Pickles, 2004). Therefore, rather
+   Cultural landscapes represent the combined                than setting up a model of a universal, value-
+   works of nature and man (UNESCO, 2008,                    neutral researcher, cartographers acknowledge
+   85). They are illustrative of the evolution of            and value the role of active interpreters. This
+
+© 2015 Institute of Australian Geographers
+
+324                                                      Geographical Research • August 2015 • 53(3):321–335
+
+
+approach recognises that interpretation is a dia-        St Helena Island was used in this study for three
+logue between the researcher’s data – other place     reasons. Firstly, St Helena Island is a heritage
+and other people – and the researcher (Duncan         landscape containing both natural and cultural
+and Ley, 1993). Accordingly, this paper tries to      values. Geologically, St Helena Island provides
+build an information system derived from              important evidence of the evolution of the east
+people’s interpretations of the place. Rather than    coast of South East Queensland (SEQ). The envi-
+just conducting a field survey of the physical        ronmental significance of this island is recognised
+environment, information system design should         through its role as part of Queensland’s interna-
+begin with exploring local stakeholders’ cogni-       tionally significant Moreton Bay Ramsar site and
+tive maps of the place in question. This ‘interpre-   part of the Moreton Bay Aggregation wetlands. In
+tative model’ is consistent with the cultural         terms of human settlement, two middens on St
+landscape methodology that believes landscapes        Helena Island today are the evidence of the
+are culturally and socially constructed entities.     Aboriginal occupation for over 2000 years
+Thus, only the landscape elements ‘interpreted’       (Alfredson, 1983). St Helena Island is also signifi-
+by stakeholders as heritage can be integrated into    cant in demonstrating the cultural evolution of
+the system.                                           Queensland. It was used as a prison for more than
+   In terms of technology, this research uses GIS,    60 years between 1866 and 1932. The remnants of
+one of the most powerful tools in cultural            the prison and associated buildings and gardens
+resource management, to build an information          can still be seen today (Figure 2). Therefore, these
+system for a heritage landscape. GIS is designed      natural and cultural values of St Helena Island
+to capture, store, manipulate, analyse, manage,       offered valuable material for building a heritage
+and present all types of geographically refer-        landscape database. Secondly, St Helena Island is
+enced data (Foote and Lynch, 1995). Computer-         a protected landscape representing the contempo-
+based GIS integrates data from diverse                rary social and cultural construction of ‘heritage
+disciplines and various formats to generate           landscapes’ in Queensland. It is a typical heritage
+useful information about an area of the earth on      landscape in Queensland demonstrating the con-
+an appropriated scale (Easa and Chan, 2000).          flicted values held by different legislative frame-
+Over the past two decades, GIS has been broadly       works (Table 1). In Queensland, national parks
+applied to support heritage research related to       are mainly protected for natural and aesthetic
+archaeology, anthropology, history, and other         values, but the cultural heritage council mainly
+interdisciplinary studies, to deal with spatial       looks after cultural relics and monuments. St
+issues. Indeed, the improvement to cultural           Helena Island was the first national park declared
+resource management might not have been               in Queensland for its combined historical and
+achieved by any other technologies (Wheatley          cultural values (Department of National Parks,
+and Gillings, 2002; Chapman, 2006).                   Recreation, Sport and Racing, 2013). As a result,
+   The basis of a GIS is the geographic database      the conflicts between cultural and natural values
+(geodatabase). Geodatabases contain geographic        have become an obstacle for efficient conserva-
+data for a particular area and subject. Similarly,    tion. These issues need to be considered in the
+virtually all-large GIS implementations manage        design of heritage landscape database.
+data within a database management system                 Thirdly, local management authorities have
+(DBMS), a specialist piece of software designed       already used some information systems in the
+to handle multiuser access to an integrated set of    conservation of St Helena Island, which provided
+data (Longley et al., 2011). This research used an    good references for this study. Currently, two
+object database management system (ODBMS)             information systems are used, but none of them is
+that can store geographic objects and provide         proven to be very effective. Strategic Asset Main-
+object-oriented query tools (Longley et al.,          tenance System (SAMS) is a GIS-based system
+2011).                                                used by Queensland Parks and Wildlife Service
+                                                      (QPWS) for the maintenance of built assets in
+Methods                                               National Parks. However, only some infrastruc-
+                                                      ture remnants used for current management are
+Study area – St Helena Island National Park           recognised as ‘assets’ and are represented in this
+St Helena Island National Park is located in          system. Other historic remnants are not recorded,
+Moreton Bay five kilometres east of the mouth         even though they are historically important.
+of the Brisbane River (Figure 1). It covers           Thus, it is difficult to apply funding or pro-
+0.751 km2 of land.                                    grammes for those ‘erased’ elements not
+
+                                                                    © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                 325
+
+
+
+
+Figure 1   Location of St Helena Island National Park.
+
+
+
+included within SAMS. The other information                  more than 15 years. Thus, the interpretations
+system containing St Helena Island data is the               were collected from a community whose under-
+Cultural Heritage Information Management                     standing have influenced and will continue to
+System (CHIMS) held by the Department of Cul-                influence the conservation of St Helena Island.
+tural Heritage in Queensland State Government.                  Each interviewee was asked to answer two
+This system is a collection of site files providing          open-ended questions:
+references for research and publication. Thus,
+CHIMS cannot be used for on-site conservation                   Question 1: In your view, what information
+of St Helena Island. Therefore, St Helena Island                should managers be collecting and using to
+needs a contextual database that can be used by                 guide the conservation of St Helena Island?
+QPWS for on-site conservation.                                  Question 2: Imagine you will bring a visitor
+                                                                group to St Helena Island tomorrow morning.
+                                                                The group will stay on the island for about
+Data collection and analysis                                    two hours. You are now at home and planning
+The conceptual framework of the database was                    for tomorrow’s trip. Could you mark out the
+established based on local stakeholders’ interpre-              route and sites on the island you want to show
+tations of St Helena Island. Accordingly, data                  them tomorrow? What are you going to
+collection started from semi-structured inter-                  explain to these visitors when they access
+views. Five stakeholders were interviewed                       these sites? And why?
+between August 2013 and February 2014. These
+included a park ranger, a heritage expert, a                 The first question was used to identify the infor-
+teacher of environmental education, a historian,             mation stakeholders most required in conserva-
+and an academic landscape researcher. These                  tion practice. Qualitative research methods –
+stakeholders have worked on St Helena Island for             including open and axial coding, categorising,
+
+© 2015 Institute of Australian Geographers
+
+326                                                                     Geographical Research • August 2015 • 53(3):321–335
+
+
+
+
+Figure 2    Historic remnants on St Helena Island.
+
+
+Table 1    Protection programmes related to St Helena Island (Department of National Parks, Recreation, Sport and Racing, 2013).
+
+                                   Natural Heritage                                    Cultural Heritage
+
+ Legislative framework             Environment Protection and Biodiversity             Aboriginal Cultural Heritage Act 2003
+                                     Conservation Act 1999 (Commonwealth)              Queensland Heritage Act 1992
+                                   Marine Parks Act 2004
+                                   Nature Conservation Act 1992
+ Plans and agreements              Ramsar Convention on Wetlands
+                                   Boon Convention
+                                   China-Australia Migratory Bird Agreement
+                                   Japan-Australia Migratory Bird Agreement
+                                   Republic of Korea – Australia Migratory Bird
+                                     Agreement
+ Registration and Database         Australian Wetlands Database                        Register of National Estate
+                                                                                       Queensland Heritage Register
+
+
+
+
+connecting, and developing themes (Tesch,                          to mark out the sites or landscape elements at
+1990) – were used to analyse the interview                         which they wished to stop.
+transcriptions.                                                       As well as these two open-ended questions,
+   The second question was asked to identify                       some typical phenomenographical questions,
+the stakeholders’ cognitive maps of St Helena                      such as ‘what do you mean by that?’, ‘why is this
+Island. Stakeholders’ recognitions were then                       important?’and ‘what are you going to say to your
+used as the conceptual framework of the data-                      guests?’ were asked to generate more responses.
+base. With this question, each interviewee was                     Each interview took approximately 40 minutes,
+asked to provide an interpretation of St Helena                    which provided rich data to explore stakeholders’
+Island for a group of tourists. The interviewees                   understandings of St Helena Island.
+were shown a poster-size (29.7 × 42 cm) aerial                        The second interview question revealed the
+photograph of St Helena Island, and were asked                     way stakeholders divided the landscape and the
+
+                                                                                    © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                               327
+
+
+language they used to describe the landscape.                     QPWS. Additionally, some public resources,
+Heritage elements were derived from the nouns                     such as the State Library of Queensland (SLQ),
+of their descriptions. All elements have attrib-                  Queensland Museum and Queensland University
+utes, which are the adjectives or the descriptive                 of Technology (QUT), were accessed as sup-
+properties of the description. Verbs in the                       plementary sources. Eight main documents were
+description revealed the relationships between                    selected based on their themes and time periods
+elements. For example, Table 2 demonstrates the                   (Table 3). The statements of St Helena Island in
+method used to analyse a park ranger’s interpre-                  these documents were examined to complement
+tation of the Stockade on St Helena Island. The                   the ‘conceptual framework’ identified from inter-
+sample transcription contains eight nouns indi-                   views. The same qualitative research methods
+cating heritage elements within the Stockade and                  were used to analyse these documents.
+boundaries of them. Verbs, such as ‘come down’                       Maps were derived from documentary evi-
+and ‘come through’, indicate the spatial relation-                dence as a special dataset for this study as they
+ships of these elements. Adjectives in the inter-                 are important materials for geodatabase con-
+pretation indicate the size and condition of these                struction (Table 3). These maps were manually
+elements (Table 2).                                               digitalised using AutoCAD software (Autodesk,
+   Apart from the interview data, documentary                     Inc., San Rafael, CA, USA). Through a geo-
+evidence was collected to expand the conceptual                   referencing process, these maps were synthe-
+framework of the database. Conservation docu-                     sised together to form a base-map for the
+ments of St Helena Island were collected from                     database. Stakeholders’ cognitive maps were
+
+
+Table 2   Analysis of a park ranger’s plan for a tour in the Stockade on St Helena Island.
+
+ Transcription (sample)
+
+ ‘Yes, I probably, the next point probably will be the           Nouns
+      underground cell block, and talk about the discipline        Underground cell block, the stores building, the visiting
+      and what happens to the prison. I would probably               boxes, yard, corner, kitchen area, cell block, museum
+      then, come down to the stores building, and talk           Adjectives
+      about that use, and talk about a little bit about the        Big, remained
+      prisoner’s lives, the visiting boxes people could          Verbs
+      come. I talk about the big yard, come around the             Talk, come down, come around, come through, take
+      corner, to the kitchen area, (and) then I probably
+      come through to the remained cell block, so that’s a
+      good place to actually talk about the life of the
+      prisoners. So I tend to take people around here before
+      I go to the museum.’
+
+
+
+Table 3   Conservation documents and maps of St Helena Island.
+
+ Documents                                                          Maps
+
+ Site files:                                                        Historic maps:
+ 1. Historical Document Collection of St Helena Island              1. Plan of St Helena Island (1865)
+ 2. Survey Report of St Helena Island                               2. Plan of St Helena Island (1884)
+                                                                    3. Plan of St Helena Island (1887)
+ Conservation plans:                                                Survey maps:
+ 1. Management Policies and Guidelines (1982)                       1. Topographic Map of St Helena Island 1:2500, the
+ 2. Record of Components of Cultural Significance 1983)                Department of Mapping and Surveying (1981)
+ 3. St Helena Island Interim Strategic Plan (1983)                  2. Components of Cultural Significance (1983), QPWS
+ Heritage register documents:                                       Management plans:
+ 1. Register of the National Estate (1978)                          1. Management guideline map (1983), QPWS
+ 2. Historic Park Register
+ 3. Cultural Heritage Information Management System
+    (1992)
+
+
+
+© 2015 Institute of Australian Geographers
+
+328                                                                   Geographical Research • August 2015 • 53(3):321–335
+
+
+
+
+Figure 3   Stakeholders’ information requirements for historic landscape databases.
+
+
+
+
+projected on the base-map. As complementary                      of historic infrastructure remnants (ruin) on St
+data, site observations were conducted on St                     Helena Island. Under this topic, four themes
+Helena Island to improve understanding of the                    were revealed from the 28 references in stake-
+physical environment and stakeholders’ inter-                    holders’ responses (Figure 3). These themes
+pretations.                                                      included the ruin’s history, conservation value,
+                                                                 current condition, and changes made on them.
+Design of the GIS database for St Helena                            Secondly, three of the five stakeholders
+Island                                                           mentioned that St Helena Island needs synthe-
+A sample geodatabase was constructed using                       sised information for decision-making. This
+ESRI ArcGIS 10.1 software (Environmental                         requirement includes four themes and 16 refer-
+System Research Institute, Redlands, CA, USA)                    ences (Figure 3). The park ranger explained this
+running with a Microsoft Windows 7 platform                      requirement from the management perspective:
+(Microsoft Corporation, Redmond, WA, USA)                        Within the national park management system,
+on a PC. A vector-based representation, rather                   limited resources are available for the conserva-
+than raster based, was selected as the major                     tion of cultural remnants. Therefore, local man-
+digital representation as most elements on St                    agers require synthesised information to decide
+Helena Island are discrete landscape elements.                   which area or component gets priority in conser-
+This sample database was only built as an experi-                vation practice. Under this theme, the teacher of
+mental system, rather than to be actually used in                environmental education and the historian men-
+conservation practice. In the design process,                    tioned that historic research and guide tour
+however, the outcome was periodically demon-                     design are urgent issues.
+strated to stakeholders to get feedback. Some                       Thirdly, two of the five stakeholders men-
+thematic maps were generated from the database                   tioned that the interpretation on St Helena
+to address the information requirements of con-                  Island needs the assistance of visual representa-
+servation practice.                                              tion. This category includes one theme and
+                                                                 three references. The park ranger and the herit-
+Results                                                          age expert said that only about 10% of the built
+                                                                 structures of the prison are left on the island
+Conservation requirements of St Helena Island                    today, making it difficult for visitors to imagine
+Nine themes of information requirements were                     the historic layout of the landscape. These two
+generated from the interviews (Figure 3). These                  stakeholders mentioned that the database should
+themes were categorised into three requirements.                 be able to assist the visualisation of the historic
+Firstly, all stakeholders mentioned that the data-               condition of St Helena Island to enhance tourist
+base needed to contain systematic statements                     experience.
+
+                                                                                  © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                    329
+
+
+Stakeholders’ cognitive maps of                                island into compartments (Figure 4). These cog-
+St Helena Island                                               nitive maps were manually digitalised and
+Five cognitive maps were derived from stake-                   overlayed together to reveal a shared understand-
+holders’ interpretations of St Helena Island. It               ing of St Helena Island (Figure 4). As a result,
+was found that this island was recognised by                   some 18 compartments were finally identified
+stakeholders as having three layers. The first                 and used in the database (Figure 5: Bookmark 1).
+layer was the whole site, which was mainly                        The third layer contained different types of
+called ‘the island’ or ‘St Helena’ by stakehold-               landscape components. In the interviews, five
+ers. Certain attributes, such as history, conserva-            stakeholders described 71 stops in total
+tion significance, and management instructions,                (Figure 4), indicating six types of landscape
+were attached to this layer in stakeholders’                   components (Table 4).
+interpretations.
+   Secondly, St Helena Island was recognised as                The sample GIS database for St Helena Island
+containing different landscape compartments.                   National Park
+The term compartment means an area comprised                   Three feature classes were designed in the data-
+of different landscape components. A compart-                  base to represent the three layers in the cognitive
+ment has specific historic function and conserva-              maps (Figure 4). Polygons were used to repre-
+tion significance. For example, in the interviews,             sent the whole island and landscape compart-
+all stakeholders described the Stockade as an                  ments. Landscape components were represented
+area with clear boundaries and certain historic                using different features: Buildings were repre-
+values. Based on the interview, five cognitive                 sented by polylines drawn on their footprints;
+maps indicated five different ways of dividing the             points were used to represent plants, Aboriginal
+
+
+
+
+Figure 4   Stakeholders’ cognitive maps of St Helena Island.
+
+
+© 2015 Institute of Australian Geographers
+
+330                                                                   Geographical Research • August 2015 • 53(3):321–335
+
+
+
+
+Figure 5   The user interface of the GIS database for St Helena Island.
+
+
+
+
+                                                                                 © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                              331
+
+Table 4   Features and attributes of the geographic database for St Helena Island.
+
+                                                                   Features
+
+                  The whole island       Compartments         Landscape components: buildings/structures; roads/tramways;
+                                                              plants; Aboriginal sites; wells/tanks; small-scale components
+
+ Attributes       Knowledge of physical environments: names; date of construction; measurements; historical documents;
+                     photographs
+                  Intangible cultural heritage: agricultural practice; traditional craftsmanship; oral history
+                  Conservation guides: current condition; acceptable change; conservation significance; management
+                     instructions; intervention records
+
+
+
+
+sites, wells and small-scale components; and                      St Helena Island, including both natural and cul-
+polylines were selected to represent roads and                    tural elements. Even very small components such
+tramways.                                                         as wells or tanks are represented and addressed
+   In terms of feature attributes, the names used                 with detailed statements. The ArcMap Identify
+by stakeholders were used as feature names in                     tool allows users to choose a specific feature and
+the database. The content analysis of interview                   retrieve attribute data regarding it. Attribute
+data identified three categories of attributes:                   tables were joined together to create an inte-
+knowledge about the physical components,                          grated view of the database. For example, a
+intangible cultural heritage, and conservation                    dialog box containing a comprehensive state-
+guides (Table 4). It has to be noticed under the                  ment of the Store Building on St Helena Island
+theme of intangible cultural heritage, oral history               appears when the feature is clicked with the iden-
+was designed as a category to integrate indig-                    tify tool (Figure 5: Main Interface).
+enous cultural history into the database. Addi-                      Secondly, decisions in terms of historic
+tionally, ‘acceptable change’ is a field under the                research, landscape restoration and potential
+theme of ‘conservation guide’. It contains the                    development could be assisted by the new knowl-
+acceptable parameters of compartments and                         edge from the sample GIS database. Taking his-
+components, which could be used as conserva-                      toric research as an example, the sample GIS
+tion references. For example, the cultivated land                 database provided new knowledge to identify the
+and the historic trees on the island need to be                   compartment needing historic research. Figure 6
+periodically trimmed so that the historic skyline                 is a holistic picture of the available historical
+of the landscape will not change.                                 artefacts representing St Helena Island. It indi-
+   The initial user interface of the sample GIS                   cates that two compartments of very high signifi-
+database is a map of St Helena Island (Figure 5).                 cance only have a moderate amount of historic
+This map and the layers available through it allow                representation. These are the Chief Warder’s
+access to the spatial layers and the ability to                   Quarters and the Superintendent’s Quarters, and
+perform queries on these layers. This graphic user                they should get the highest priority in terms of
+interface (GUI) is similar to the typical GUIs used               historic research.
+for Internet mapping, such as a Google map.                          Thirdly, the sample database produced visual
+Users are able to zoom in and out at different                    representations of the historic condition of St
+scales by using spatial bookmarks. Three book-                    Helena Island. For instance, the Garden Culti-
+marks were set for the three main layers of St                    vated Area is very significant in demonstrating the
+Helena Island: The whole island is the primary                    agricultural history of the Island. Currently,
+home of the ArcMap documents. Other two book-                     however, there is not enough documentary evi-
+marks display compartments and components                         dence or research being undertaken about the
+(Figure 5). These bookmarks, demonstrating St                     transformation of this agricultural land in the
+Helena Island at three different scales, cover all                early history of the prison. Thus, the vulnerable
+the objects in conservation and management.                       pattern of this farming land has quickly faded
+   The database addressed the three information                   away in the past 30 years (Figure 7). A thematic
+requirements in the conservation of St Helena                     map overlaying the cultivated land in 1887 on the
+Island. Firstly, it is a digital inventory containing             current satellite image revealed the extent of agri-
+contextual descriptions of historic remnants on                   cultural practice and the types of crops at that time
+
+© 2015 Institute of Australian Geographers
+
+332                                                                Geographical Research • August 2015 • 53(3):321–335
+
+
+
+
+Figure 6   Representations of St Helena Island between 1866 and 1920.
+
+
+(Figure 8). The knowledge of agricultural prac-
+                                                                  Differing from the conventional view of land-
+tice on the Island is thus demonstrated, and this
+                                                                  scape representation, this approach is based
+map can be used today to assist interpretation.
+                                                                  on an ‘interpretative model’ that acknowl-
+Maps of other themes, such as the development of
+                                                                  edges and values the role of the interpreter.
+the tramway system on the island, building
+                                                                  Rather than establishing a model based on a
+material production, and water supply, could be
+                                                                  generic, objective author (Duncan and Ley,
+easily created within the sample database.
+                                                                  1993), it recognises that interpretation is a
+                                                                  dialogue between one’s data – other places
+Discussion                                                        and other people – and the researcher who is
+An alternative approach using an ‘interpretive                    embedded within a particular intellectual and
+model’ of representation and advanced tools to                    institutional context (Duncan and Ley, 1993).
+document heritage landscapes in Australia is                      This ‘interpretative model’ built the connec-
+offered at both the theoretical and pragmatic                     tion between the society and heritage land-
+levels:                                                           scapes, which avoided the inapplicability of
+
+                                                                              © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                   333
+
+
+
+
+Figure 7   Cultivated areas on St Helena Island in (a) 1972 and (b) 2011.
+
+
+
+
+Figure 8   Historic locations of cultivated areas on St Helena Island.
+
+
+
+   many new databases. The designed database                             nologies, the focus of this paper was on
+   could be easily accepted and used by the con-                         improving the database designer’s under-
+   servation managers of St Helena Island since                          standing of the place.
+   its structure and language were derived from
+   stakeholders’ interpretations of the island.                    The design of GIS database uses a cultural
+   Rather than focusing primarily on GIS tech-                     landscape perspective. This paper explores St
+
+© 2015 Institute of Australian Geographers
+
+334                                                        Geographical Research • August 2015 • 53(3):321–335
+
+
+Helena Island as a whole landscape, rather than        focus on information support, and is a potentially
+separated natural and cultural elements. The           effective approach to user-centred designs of
+concept of ‘landscape compartment’ is intro-           geographic information systems.
+duced to integrate both cultural and natural
+heritage elements. Each compartment has its
+                                                       Conclusions
+own value and conservation instructions. This
+                                                       The fragmentation of information has become a
+approach to some extent can moderate the
+                                                       major obstacle for efficient conservation and
+conflicts between cultural and natural values.
+                                                       management of individual heritage landscapes.
+The design process also highlights the interaction
+                                                       In Australia, locally based conservation organi-
+between local communities and the landscape,
+                                                       sations lack comprehensive information plat-
+which is reflected by the concepts of ‘flexibility’
+                                                       forms assisting their conservation and
+of the database and ‘acceptable change’ of herit-
+                                                       management of heritage landscapes. This paper
+age parameters. The designed database assists a
+                                                       explores an innovative approach for building
+virtual dialogue among key stakeholders, which
+                                                       such information platforms. Firstly, an ‘interpre-
+contributes to the agreement of landscape
+                                                       tative model’ of database design facilitates a
+development.
+                                                       more explicit focus on information support, and
+   In Australia, the representation of indigenous
+                                                       is a potentially effective approach to user-centred
+culture is an important conservation issue. Based
+                                                       design of GIS. Secondly, the cultural landscape
+on the cultural landscape methodology, this
+                                                       perspective provides a holistic tool for heritage
+paper establishes an approach to represent the
+                                                       documentation, which integrates natural and cul-
+intangible dimensions of heritage landscape. In
+                                                       tural, tangible and intangible heritage, into con-
+the case study of St Helena Island, oral history, as
+                                                       servation and management. Thirdly, this paper
+the most important indigenous heritage, has been
+                                                       offers a pragmatic guide for building GIS, which
+collected and represented in the database. Thus,
+                                                       can be used as references for other landscape
+this paper offers an effective method to repre-
+                                                       documentation projects in Australia and other
+senting indigenous cultures related to heritage
+                                                       countries.
+landscapes.
+                                                          Sound documentation is essential for heritage
+   Digital documentation of heritage landscapes
+                                                       landscape conservation. The rapid development
+has become an unavoidable trend in the conser-
+                                                       of digital technologies not only brings opportu-
+vation domain. This paper presents a theoretical
+                                                       nities, but also challenges for the documentation
+framework for mapping and databasing heritage
+                                                       of heritage landscapes. Digital tools have to be
+landscapes. In this paper, some concepts, includ-
+                                                       used in a contextual framework so that in the
+ing an interpretative model, landscape compart-
+                                                       future heritage landscapes can be meaningfully
+ments, and flexible information system, were
+                                                       conserved.
+introduced and tested within the context of her-
+itage landscape documentation. This new frame-
+work is open and flexible, so that the designed        ACKNOWLEDGEMENTS
+database is a living archive of heritage landscape.    This paper is based on research undertaken by the author for
+                                                       a PhD thesis at Queensland University of Technology (QUT).
+   At the practical level, this paper presents a       China Scholarship Council (CSC) and QUT provided finan-
+pragmatic guide for building heritage landscape        cial support for this research. The author thanks Roland
+databases in Australia. The paper reveals the con-     Dowling and his colleagues in QPWS for their support on the
+temporary information requirements from a              data collection of St Helena Island. The staff in Moreton Bay
+small, locally based conservation organisation.        Environmental Education Centre and the State Library of
+                                                       Queensland assisted in the document collection of this
+The sample database is designed within the local       research. The author thanks Dr Jane Lennon and Dr Steve
+conservation context, which mainly focused on          Perry for their valuable comments on earlier drafts of this
+the historic infrastructure remnants. This method      paper.
+could be used for other heritage landscapes con-
+taining both natural and cultural heritage             REFERENCES
+elements. It is a bottom-up strategy that explores     Alfredson, G., 1983: St Helena Island – a changing pattern of
+local stakeholder’s understandings of heritage           exploitation? Australian Archaeology 17, 79–86.
+landscapes and uses them as indicators for data-       Arizpe, L., 2000: Cultural heritage and globalisation. In
+base design. The sample database can be easily           Avrant, E., Mason, R. and de la Torre, M. (eds) Values and
+                                                         Heritage Conservation. The Getty Conservation Institute,
+transferred into an applicable system to be used         Los Angeles, 32–37.
+by QPWS in conservation planning. This method          Australian Government, Department of Environment, 2012
+of database design facilitates a more explicit           17 December: History of the cultural site management
+
+
+                                                                       © 2015 Institute of Australian Geographers
+
+C. Yang: Contextual Design of Heritage Landscape Databases                                                              335
+
+  system. Retrieved: 12 January 2015 from <http://                 what are the Real Issues-Identity, Development, Climate or
+  www.environment.gov.au/topics/national-parks/uluru               Something Else? Tokyo.
+  -kata-tjuta-national-park/management-and-conservation/         Lennon, J., 2012: Cultural landscape management: interna-
+  park-management>.                                                tional influences. In Taylor, K. and Lennon, J. (eds) Man-
+Byrne, D., 1991: Western hegemony in archaeological herit-         aging Cultural Landscapes. Routledge, Abingdon, 45–70.
+  age management. History and Anthropology 5, 269–               Longley, P.A., Goodchild, M.F., Maguire, D.J. and Rhind,
+  276.                                                             D.W., 2011: Geographic Information Systems and Science,
+Chapman, H., 2006: Landscape Archaeology and GIS.                  Third edn. John Wiley & Sons, Inc, Hoboken, NJ.
+  Tempus Publishing Limited, The Mill, Brimscombe Port.          O’Donnell, P.M. and Turner, M., 2012: The historic urban
+Cleere, H., 2001: The uneasy bedfellows: universality and          landscape recommendation: a new UNESCO tool for a
+  cultural heritage. In Layton, R., Stone, P.G. and Thomas, J.     sustainable future. Retrieved: 5 May 2014 from <http://
+  (eds) Destruction and Conservation of Cultural Property.         www.heritagelandscapes.com>.
+  Routledge, London, 22–29.                                      Pickles, J., 2004: A History of Spaces: Cartographic Reason,
+Crampton, J.W. and Krygier, J., 2005: An introduction to           Mapping and the Geo-Coded World. Routledge, London.
+  critical cartography. ACME: An International E-Journal         Pocock, D., 1997: Some reflections on world heritage. Area
+  for Critical Geographies 4, 34–56.                               29, 260–268.
+Department of National Parks, Recreation, Sport and Racing,      Sullivan, S., 2004: Local involvement and traditional prac-
+  2013: St Helena Island National Park Management State-           tices in the world heritage system. In Merode, E., Smeets,
+  ment 2013. Queensland Government, Brisbane. Retrieved:           R. and Westrik, C. (eds) Linking Universal and Local
+  12 January 2015 from <http://nprsr.qld.gov.au/managing/          Values: Managing A Sustainable Future for World Herit-
+  plans-strategies/statements/pdf/st-helena                        age. World Heritage Centre, Paris, 49–55.
+  -island.pdf>.                                                  Taylor, K. and Lennon, J., 2011: Cultural landscapes: a
+Duncan, J. and Ley, D., 1993: Introduction: representing the       bridge between culture and nature? International Journal
+  place of culture. In Duncan, J. and Ley, D. (eds) Place/         of Heritage Studies 17, 537–554.
+  Culture/Representation. Routledge, London, 1–21.               Tesch, R., 1990: Qualitative Research: Analysis Types and
+Easa, S. and Chan, Y., 2000: Urban Planning and Develop-           Software Tools. The Falmer Press, Basingstoke.
+  ment Applications of GIS. American Society of Civil Engi-      Tuan, Y.-F., 1977: Space and Place: The Perspective of
+  neers, Reston, VA.                                               Experience. University of Minnesota Press, Minneapolis,
+Eetvelde, V.V. and Antrop, M., 2004: Analyzing structural          MN.
+  and functional changes of traditional landscapes – two         United Nations Educational, Scientific and Cultural Organi-
+  examples from Southern France. Landscape and Urban               zation, 2008: Operational Guidelines for the Implementa-
+  Planning 67, 79–95.                                              tion of the World Heritage Convention. UNESCO World
+Foote, K.E. and Lynch, M., 1995: Geographic information            Heritage Centre, Intergovernmental Committee for the
+  syatems as an integrating technology: context, concepts,         Protection of the World Cultural and Natural Heritage,
+  and definitions. Retrieved: 11 December 2014 from                Paris.
+  <http://www.colorado.edu/geography/gcraft/notes/intro/         United Nations Educational, Scientific and Cultural Organi-
+  intro.html>.                                                     zation, 2009: World Heritage Cultural Landscapes: A
+Freeman, C., Clark, R.D. and Heezik, Y.V., 2010: Creating          Handbook for Conservation and Management. World Her-
+  ecologically based land use and habitat maps quickly and         itage Centre, United Nations Educational, Scientific and
+  cheaply to support conservation planning at local scales: a      Cultural Organisation, Paris.
+  New Zealand example. Geographical Research 49, 99–111.         United Nations Educational, Scientific and Cultural Organi-
+Goodchild, M.F., 2009: Geographic information systems and          zation, 2010: Australian convict sites. UNESCO World
+  science: today and tomorrow. Procedia Earth and Plan-            Heritage Centre, United Nations Educational, Scientific
+  etary Science 1, 1037–1043.                                      and Cultural Organisation. Retrieved: 7 April 2015 from
+Griggs, D., Lynch, A., Joachim, L., Zhu, X., Adler, C.,            <http://whc.unesco.org/en/list/1306>.
+  Bischoff-Mattson, Z., Wang, P. and Kestin, T., 2013: Indig-    Veland, S., Lynch, A., Bischoff-Mattson, Z., Joachim, L. and
+  enous Voices in Climate Change Adaptation: Addressing            Johnson, N., 2014: All strings attached: negotiating rela-
+  the Challenges of Diverse Knowledge Systems in the               tionships of geographic information science. Geographical
+  Barmah-Millewa. National Climate Change Adaptation               Research 52, 296–308.
+  Research Facility, Gold Coast.                                 Wallis, P.J., Nally, R.M. and Langford, J., 2011: Mapping
+Hamylton, S., 2013: Critical cartography and the use of new        local-scale ecological research to aid management at land-
+  technologies for conserving the Australian coastline: a case     scape scales. Geographical Research 49, 203–216.
+  study from Lord Howe Island. Geographical Research 52,         Wheatley, D. and Gillings, M., 2002: Spatial Technology and
+  65–73.                                                           Archaeology: The Archaeological Applications of GIS.
+Harvey, D., 1989: The Condition of Postmodernity.                  Taylor & Francis, London and New York.
+  Blackwell, London.                                             Wood, D., 1992: The Power of Maps. Guilford Press, New
+Kington, W.J., 2006: ParkInfo: a geographic information            York.
+  system for land managers. Paper presented at the Life in a     Yang, C. and Sim, J., 2013: Deciphering cultural landscapes
+  Fire-prone Environment: Translating Science into Practice.       in China. Paper presented at the 2013 Annual Conference
+  Bushfire Conference 2006, Brisbane.                              of the Council of Educators in Landscape Architecture
+Lennon, J., 2007: The role of cultural landscapes in Asia and      Austin, Texas, USA.
+  the Pacific in conservation. Paper presented at the Present    Yoshida, K., 2004: The museum and the intangible cultural
+  Position of Our Cultural Heritage in Asia and the Pacific:       heritage. Museum International 56, 108–112.
+
+
+
+
+© 2015 Institute of Australian Geographers
+
+Copyright of Geographical Research is the property of Wiley-Blackwell and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.
+

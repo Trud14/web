@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task 4s on St Helena Island, Queensland</title>
+    <link>/task-4/</link>
+    <description>Recent content in Task 4s on St Helena Island, Queensland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/task-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping your data</title>
+      <link>/task-4/map-of-points-of-interests/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-4/map-of-points-of-interests/</guid>
+      <description>St Helena Island (Noogoon), Moreton Bay QueenslandThis is a map of the points of interest on St Helena Island, Queensland created using Qgis</description>
+    </item>
+    
+  </channel>
+</rss>

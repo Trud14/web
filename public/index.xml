@@ -1,12 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>St Helena Island, Queensland</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on St Helena Island, Queensland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thematic Analysis</title>
+      <link>/task-3/thematicanalysis/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-3/thematicanalysis/</guid>
+      <description>The AnalysisThis thematic analysis focussed on the history of the St Helena Penal Establishment located in Moreton Bay, Queensland. The sources gathered, once analysed, provide themes that reveal areas for further study. The data can be added to existing data to create an easily found and accessible (not behind a paywall), dataset, that is open access (not one program specific) and reproducible - a FAIR dataset.
+Key RepositoriesKey repositories used to access sources</description>
+    </item>
+    
+    <item>
+      <title>Harvesting data from the web</title>
+      <link>/task-1/harvesting-data-from-the-web/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-1/harvesting-data-from-the-web/</guid>
+      <description>The dataset that I have created involves the St Helena Penal Establishment prisoner cemetery. I have used as many online sources, which were not behind a pay wall, to provide as much information about the buried prisoners; to go beyond a mere list of names and death dates. The dataset aims to humanise the name and number of as many buried prisoners as possible.
+It must be noted however, that the names of those inmates buried at St Helena used in this dataset may be subject to change, and additions, or subtractions, made which were not available at the time of compilation.</description>
+    </item>
+    
+    <item>
+      <title>Historic Image Analysis</title>
+      <link>/task-2/imageanalysis/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-2/imageanalysis/</guid>
+      <description>Aerial photograph of St Helena prisonBrisbane City Council (1920) Aerial photograph of St Helena prison in the 1920s [photograph], Brisbane Images, Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.
+This aerial photograph of the St Helena Penal Establishment focuses on the buildings surrounding the stockade, as the island is much larger than shown.</description>
+    </item>
+    
+    <item>
+      <title>Thematic Analysis Discussion</title>
+      <link>/task-3/analysis-discussion/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-3/analysis-discussion/</guid>
+      <description>Analysis Discussion
+The codebook generated in Taguette clearly identifies five major tags which have far more highlights than other tags. I would have to say that some of the minor tags could possibly be merged with larger tags, for example, the crops tag could be merged with farm work, and on entry to penal establishment could be merged with the descriptions tag.
+I have combined here, warders and goings on behind closed doors because they had the same prominent theme, corruption, involving warders and prison gang members.</description>
+    </item>
+    
+    <item>
+      <title>Research design page</title>
+      <link>/research-design-page/research-design-page/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research-design-page/research-design-page/</guid>
+      <description>Research questionWhat is the contribution of research in the digital humanities to the production and dissemination of public ‘stories’ or interpretations about aspects of local community history and cultural heritage?
+Drawing on a series of related case studies, illustrate how these tools and methods can aid historical scholarship.
+IntroductionThe aim of this project is to explore how tools used in the digital humanities help to produce, interpret, and share the history of St Helena Island (Noogoon), Queensland, in the period 1867-1932.</description>
+    </item>
+    
+    <item>
+      <title>Discussion and conclusions</title>
+      <link>/discussion-and-conclusion/discussion-and-conclusion/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/discussion-and-conclusion/discussion-and-conclusion/</guid>
+      <description>The aim of this project was to explore how tools used in the digital humanities help to produce, interpret, and share the history of St Helena Island (Noogoon), Queensland, in the period 1867-1932. The project required me to create a dataset from sources in multiple repositories and thematically analyse them, analyse historic images, and display some of the areas of interest in a map created in QGis.
+By creating a dataset, I added information to the existing data relating to the prisoner’s cemetery on St Helena Island.</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>/references/references/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/references/references/</guid>
+      <description>A paying guest (12 February 1911) ‘Penal Establishment and health resort: High life and hell’, Truth, accessed 1 October 2022.
+A paying guest (5 February 1911) ‘Penal Establishment or Health Resort? High Life or Hell, Which?’, Truth, accessed 31 October 2022.
+Alfredson G (1983) ‘St Helena Island - A Changing Pattern of Exploitation?’, Australian Archaeology, 17(1):79–86, doi:[10.1080/03122417.1983.12092912](doi:%5B10.1080/03122417.1983.12092912){.uri}.
+Ancestry.com (n.d.) Queensland, Australia, Death Inquest Index, 1859-1897, Ancestry.com website, accessed 3 September 2022.</description>
+    </item>
+    
+    <item>
+      <title>Data Dictionary</title>
+      <link>/data-dictionary/data-dictionary/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/data-dictionary/data-dictionary/</guid>
+      <description>Aliasnames used by the inmate other than their legal names
+where none is provided use na
+Cause of deaththe cause of death stated on death certificate for each individual
+where none is provided use na
+Christian namelegal name
+where none is provided use na
+Crimethe crime that was committed by the inmate
+where none is provided use na
+Death Dateyear - where none is provided use 0 (zero) - numerals only</description>
+    </item>
+    
+    <item>
+      <title>Mapping your data</title>
+      <link>/task-4/map-of-points-of-interests/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-4/map-of-points-of-interests/</guid>
+      <description>St Helena Island (Noogoon), Moreton Bay QueenslandThis is a map of the points of interest on St Helena Island, Queensland created using Qgis</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>/2020/12/01/hello-r-markdown/</link>
@@ -35,15 +135,6 @@ You cannot run any R code in a plain Markdown document, whereas in an R Markdown
       
       <guid>/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task 3s on St Helena Island, Queensland</title>
+    <link>/task-3/</link>
+    <description>Recent content in Task 3s on St Helena Island, Queensland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/task-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thematic Analysis</title>
+      <link>/task-3/thematicanalysis/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-3/thematicanalysis/</guid>
+      <description>The AnalysisThis thematic analysis focussed on the history of the St Helena Penal Establishment located in Moreton Bay, Queensland. The sources gathered, once analysed, provide themes that reveal areas for further study. The data can be added to existing data to create an easily found and accessible (not behind a paywall), dataset, that is open access (not one program specific) and reproducible - a FAIR dataset.
+Key RepositoriesKey repositories used to access sources</description>
+    </item>
+    
+    <item>
+      <title>Thematic Analysis Discussion</title>
+      <link>/task-3/analysis-discussion/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-3/analysis-discussion/</guid>
+      <description>Analysis Discussion
+The codebook generated in Taguette clearly identifies five major tags which have far more highlights than other tags. I would have to say that some of the minor tags could possibly be merged with larger tags, for example, the crops tag could be merged with farm work, and on entry to penal establishment could be merged with the descriptions tag.
+I have combined here, warders and goings on behind closed doors because they had the same prominent theme, corruption, involving warders and prison gang members.</description>
+    </item>
+    
+  </channel>
+</rss>

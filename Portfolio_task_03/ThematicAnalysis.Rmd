@@ -22,6 +22,7 @@ This thematic analysis focussed on the history of the St Helena Penal Establishm
 ::: {.alert .alert-info role="alert"}
 #### Key Repositories
 :::
+
 \
 Key repositories used to access sources
 
@@ -40,19 +41,18 @@ Key repositories used to access sources
 | Project Gutenberg Australia                                               | SAGE Journals                                                                         | Taylor & Francis Online                                                                  |
 | ebscohost                                                                 | Your Time magazine                                                                    | Australia For Everyone                                                                   |
 
-
-
 \
 \
 
 ::: {.alert .alert-info role="alert"}
 #### Codes/Tags, definitions and highlight count
 :::
+
 \
 Codes, their descriptions and number of highlights each received
 
 | Code/Tag                                             | Definition                                                                                                           | Number of highlights |
-|------------------|------------------------------------|-----------------:|
+|------------------|-----------------------------------|-----------------:|
 | Reform                                               | mention of reform in sources, positive or negative. Reform of men and reform establishment                           |                   35 |
 | Home Secretary                                       | what he said, did, or did not do                                                                                     |                   12 |
 | New & minor offenders mixing with hardened criminals | examples of new and petty criminals mixing and being 'schooled' by men on more serious charges                       |                   38 |
@@ -83,7 +83,12 @@ Codes, their descriptions and number of highlights each received
 | St Helena too lenient                                | opinion that it was not harsh enough, men had it easy                                                                |                    9 |
 | Descriptions                                         | of the island - the men, the workshop activity, the hospital, the gardens etc.                                       |                  157 |
 
-
 #### [*Links*]{.underline}
 
-dd
+Analysis Discussion
+
+[Code book](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/code_tag_description_number_of_highlights.html)
+
+[Script - PDF to text](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/scriptpdftotext.html)
+
+[Taguette highlights](file:///C:/HINQ302Assessment_2/web/Portfolio_task_03/all_tags1.html)

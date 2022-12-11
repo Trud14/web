@@ -19,6 +19,8 @@ Baron Douglas-Scott-Montagu HJ (1853) *St. Helena, Moreton Bay* [artwork], [*St.
 
 Beatty B (13 December 1941) '[Convicts Foiled](https://nla.gov.au/nla.obj-1266892874,)', *The ABC Weekly,* accessed 26 October 2022.
 
+Boan T (2022) *Screen capture of Voyant Tools, a text reading and analysis environment* [screen capture], [*Author\'s personal collection*](https://voyant-tools.org/?corpus=6a144a76c4d64ea95bf28420ad925c01&view=Cirrus), accessed 12 October 2022.
+
 Bochenski N (9 December 2013) '[Painting of St Helena reveals colour of Brisbane's prison past](https://www.brisbanetimes.com.au/national/queensland/painting-of-st-helena-reveals-colour-of-brisbanes-prison-past-20131209-2z1h4.html)', *Brisbane Times website*, accessed 27 October 2022.
 
 Boggo Road Gaol Historical Society (n.d.) '[St Helena Island Penal Establishment (1867-1932)](https://www.boggoroadgaol.com.au/2015/10/st-helena-island.html)', *Inside Boggo Road blog*, accessed 30 October 2022.
@@ -50,6 +52,8 @@ Brisbane City Council (1868) *Tree clearing on St Helena Island* [photograph], [
 ------ (1930) *The prison vegetable garden, St Helena Island* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/), Brisbane City Council Archives website, accessed 12 October 2022.
 
 ------ (1937) *Sugar mill, St Helena Island* [photograph], [*Brisbane Images*](https://library-brisbane.ent.sirsidynix.net.au/), Brisbane City Council Archives website, accessed 12 October 2022.
+
+Brisbane Times (18 September 2007) \'[St Helena Island facts](https://www.brisbanetimes.com.au/national/queensland/st-helena-island-facts-20070918-ge93ss.html)\', *Brisbane Times*, accessed 27 November 2022, accessed 27 Auguat 2022.
 
 Brismania (2019) '[Day 148: Captive audience](https://brismania.com/day-148-captive-audience/)', *Brismania blog*, accessed 30 October 2022.
 
@@ -229,6 +233,8 @@ Russell A (2017) *Work station* [photograph], [*St Helena National Park*](https:
 
 Scholz Electrical (2021) [*Electricity in Australia and Overseas from 1882*](https://scholzelectrical.com.au/blog/electricity-in-australia-and-overseas-from-1882/), Scholz Electrical website, accessed 25 October 2022.
 
+Sinclair, S and Rockwell, G (2022) [*Cirrus*](https://voyant-tools.org/?corpus=6a144a76c4d64ea95bf28420ad925c01&view=Cirrus), Voyant Tools website. 7 October 2022.
+
 Snow F (1 November 1935) '[St Helena](https://nla.gov.au/nla.obj-721573586)', *Walkabout*, Trove website, accessed 26 October 2022.
 
 SpacePrez (n.d.) [*FeatureCollection list*](https://asgs.linked.fsdf.org.au/dataset/asgsed3/collections), Australian Statistical Geography Standard Linked Data API website, accessed 4 September 2022.
@@ -242,6 +248,8 @@ The Geological Survey of Queensland (GSQ) (n.d.) [*GIS datasets*](https://www.bu
 The Spacial Information Council (ANZLIC) (n.d.) [*Foundation Spatial Data Framework LINK Platform*](https://link.fsdf.org.au/), Australian Foundation Spatial Data website, accessed 4 September 2022.
 
 Toni D (2017) *St Helena prisoner grave* [photograph], [*St Helena National Park*](https://www.tripadvisor.com.au/Attraction_Review-g3208744-d263371-Reviews-St_Helena_Island_National_Park-Moreton_Bay_Region_Brisbane_Region_Queensland.html#/media-atf/263371/262939595:p/?albumid=-160&type=0&category=-160), Tripadvisor website, accessed 21 October 2022.
+
+University of Queensland (n.d.) [*Moreton Bay*](https://www.queenslandplaces.com.au/moreton-bay), Centre for the government of Queensland website, accessed 4 September 2022.
 
 Unknown (13 January 1869) '[From the Courier](http://nla.gov.au/nla.news-article75459987).', *Darling Downs Gazette and General Advertiser*, accessed 29 October 2022.
 

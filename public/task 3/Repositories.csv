@@ -1,0 +1,47 @@
+﻿Repositories,Repositories
+Trove,University of New England Library
+Boggo Road Gaol Historical Society,Queensland Historical Atlas
+Queensland Heritage Register,The Free Library by Farlex
+Queensland Government Department of Environment and Science,Indigenous Australia: National Centre of Biography at the Australian National University
+Your Time magazine,Australia For Everyone
+Scootle: Australian Government Department of Education.,"Australian Government Department of Climate Change, Energy, the Environment and Water "
+The Wayback Machine: Internet Archive,The St Helena Island Community blog
+ARDC Research Data Australia,HathiTrust Digital Library
+State Library of Queensland,Queensland State Archives
+Moreton Bay Region: Our Story,Moreton Bay Environmental Education Centre
+Queensland Police: Police Museum,The University of Queensland: UQ eSpace 
+googleScholar,Project Gutenberg Australia
+The National Library of Australia,Brisbane City Council Library Services: Brisbane Images
+JSTOR,SpringerLink
+Gale Academic OneFile,Informit
+ProQuest One Academic,Text Queensland: Queensland's past online
+The Royal Historical Society of Queensland: The Commissariat Store Museum,SAGE Journals
+Taylor & Francis Online,ebscohost
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"--- title: ""R Notebook"" output: html_notebook ---",
+"{r} my_tbl <- tibble::tribble( ~Repositories, ""dfhdfg"", ""hfh"", ""fdhfd"", ""fhdf"", ""dfhh"" ) require(rhandsontable) rhandsontable(my_tbl, rowHeaders = NULL, digits = 3, useTypes = FALSE, search = FALSE, width = NULL, height = NULL)",
+"{r echo=FALSE} df <- data.frame(stringsAsFactors = FALSE, Repositories = c(""Trove"", ""University of New England Library"", ""Boggo Road Gaol Historical Society"", ""The National Library of Australia"", ""Queensland Historical Atlas"", ""Queensland Heritage Register"", ""ProQuest One Academic"", ""Gale Academic OneFile"", ""Taylor & Francis Online"", ""Text Queensland: Queensland's past online"", ""Queensland Police: Police Museum"", ""The Royal Historical Society of Queensland: The Commissariat Store Museum"", ""SpringerLink"", ""State Library of Queensland"", ""googleScholar"", ""Moreton Bay Region: Our Story"", ""Queensland Government Department of Environment and Science""), Repositories = c(""Indigenous Australia: National Centre of Biography at the Australian National University"", ""The Free Library by Farlex"", ""Project Gutenberg Australia"", ""Scootle: Australian Government Department of Education"", ""Australian Government Department of Climate Change, Energy, the Environment and Water"", ""ebscohost"", ""JSTOR"", ""Brisbane City Council Library Services: Brisbane Images"", ""Queensland State Archives"", ""The Wayback Machine: Internet Archive"", ""The St Helena Island Community blog"", ""SAGE Journals"", ""Informit"", ""The University of Queensland: UQ eSpace"", ""Moreton Bay Environmental Education Centre"", ""ARDC Research Data Australia"", ""HathiTrust Digital Library"")) knitr::kable(x = df, caption = ""Repositories accessed for source material"")",

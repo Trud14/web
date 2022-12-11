@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discussion-and-conclusions on St Helena Island, Queensland</title>
+    <link>/discussion-and-conclusion/</link>
+    <description>Recent content in Discussion-and-conclusions on St Helena Island, Queensland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/discussion-and-conclusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discussion and conclusions</title>
+      <link>/discussion-and-conclusion/discussion-and-conclusion/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/discussion-and-conclusion/discussion-and-conclusion/</guid>
+      <description>The aim of this project was to explore how tools used in the digital humanities help to produce, interpret, and share the history of St Helena Island (Noogoon), Queensland, in the period 1867-1932. The project required me to create a dataset from sources in multiple repositories and thematically analyse them, analyse historic images, and display some of the areas of interest in a map created in QGis.
+By creating a dataset, I added information to the existing data relating to the prisoner’s cemetery on St Helena Island.</description>
+    </item>
+    
+  </channel>
+</rss>

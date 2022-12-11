@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task 2s on St Helena Island, Queensland</title>
+    <link>/task-2/</link>
+    <description>Recent content in Task 2s on St Helena Island, Queensland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/task-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historic Image Analysis</title>
+      <link>/task-2/imageanalysis/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/task-2/imageanalysis/</guid>
+      <description>Aerial photograph of St Helena prisonBrisbane City Council (1920) Aerial photograph of St Helena prison in the 1920s [photograph], Brisbane Images, Brisbane City Council website, © Brisbane Images, Brisbane City Council. This Copyright has expired. This image may be reproduced with acknowledgement, accessed 12 October 2022.
+This aerial photograph of the St Helena Penal Establishment focuses on the buildings surrounding the stockade, as the island is much larger than shown.</description>
+    </item>
+    
+  </channel>
+</rss>

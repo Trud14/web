@@ -1,0 +1,149 @@
+---
+title: "Research design page"
+author: "Trudy Boan"
+date: "2022-10-12"
+output: html_document
+---
+
+#### [***Research question***]{.underline}
+
+> *What is the contribution of research in the digital humanities to the production and dissemination of public 'stories' or interpretations about aspects of local community history and cultural heritage?*
+>
+> *Drawing on a series of related case studies, illustrate how these tools and methods can aid historical scholarship.*
+
+
+#### [***Introduction***]{.underline}
+
+The aim of this project is to explore how tools used in the digital humanities help to produce, interpret, and share the history of St Helena Island (Noogoon), Queensland, in the period 1867-1932. I intend to do this by creating a dataset from sources in multiple repositories and thematically analysing them. I will also analyse historic images, and display some of the areas of interest in a map created in QGis.
+
+<center>
+
+<h4>St Helena Island (Noogoon), Moreton Bay Queensland</h4>
+
+</center>
+
+\
+<a href="https://imgur.com/Hip3izC"><img src="https://i.imgur.com/Hip3izC.png" title="source: imgur.com"/></a> St Helena is a Queensland heritage-listed National Park, 45 minutes from Brisbane by ferry\
+\
+Known as *Noogoon* to the local Indigenous people, the island has its current name thanks to Eulope, the '...best-known 'fighting headman' of the Stradbroke Islanders (Quandamooka)' (Kerkhove 1 January 2018). It was said that he so closely resembled Napoleon Bonaparte that soldiers gave him the nickname '*Napoleon*'. Eulope was exiled to Noogoon by Captain Logan in 1827, and the island was regularly referred to as St Helena, alluding to the island in the South Atlantic Ocean where the real Napoleon Bonaparte was exiled only years earlier.
+
+Skip forward to 1865, and St Helena was the location chosen to construct a quarantine station, due to its isolation. Labour for construction was free as prisoners from the hulk '*Proserpine*' were made good use of. It was decided in 1867 to convert the buildings into a prison, as Brisbane could no longer house all its prisoners.
+
+Between 1867 and 1869, St Helena was under military guard by the '*50th (Queen's Own) Regiment*' (Hopkins-Weise and Pratt 2002), pre-dating warders. St Helena was proclaimed a Penal Establishment in 1867, a '...high-security 'gaol, prison, and house of correction' for long-term inmates' (Boggo Road Gaol Historical Society n.d.) in 1875, and then a Penal Establishment again in 1879. It remained a Penal Establishment until it was decided in the 1920s to turn it into a prison farm until 1932 when the last prisoners left the island (Department of Environment and Science 2005).
+
+#### [***Harvesting Data from the Web***]{.underline}
+
+To begin this task, I scoured Google and other repositories to see what information was already available. I noticed that while there were a lot of tourist blogs and websites offering tours and giving brief details of the island, there was less written about the 'unexciting' aspects of the island. While the stories of punishments handed out, a tour of the superintendent's house (come museum), and a walk through the ruins are a way of telling the story of the island and its inmates, there was more to tell.
+
+The story of the prisoner's cemetery gained my interest. There was little I could find, other than the cookie-cutter explanation that all the graves bear only a marker with a prisoner number as even death didn't free them from the prison.
+
+I wanted to know more and found a dataset online regarding the prisoner cemetery, on a cemetery repository site. The dataset was very simple, with not a lot of information beyond the name, prisoner number, and age of the inmates said to be buried in the prisoner plots. I used coding and rstudio to scrape the original dataset from the internet, and keeping the original dataset untouched, I began a dataset adapted from the original.
+
+Using an Excel spreadsheet, I recorded the variables I thought appropriate. In deciding on these, I took into consideration what I thought people would want to know if searching for information about the prisoner cemetery or the prisoners themselves. I searched the internet, available Government repositories, death records, archives, and Ancestry.com. While the latter site is hidden away behind a paywall, I have a subscription.
+
+I used the variables from the original dataset that I thought were important and then added my own variables and data. I was able to add four new prisoners to the list or fill in the blanks that were missing on some prisoners' details. To make my dataset information transparent, reproducible by anyone, and of interest to researchers, I added variables that included source details to information, such as:
+
+-   Inquest and burial
+
+-   Digital archive files
+
+-   Digital archive series
+
+-   Qld Birth, deaths, and divorces
+
+\
+
+The other variables I thought important were:\
+
+-   Where the prisoner was tried
+
+-   Their crime
+
+-   The sentence received
+
+-   Ethnicity\
+
+There were three types of sentences, so I gave them a column each, life, years, and months. I made sure I left no cells empty, containing no data, so empty text cells were filled with not applicable (na) and empty numerical cells were filled with a zero (0).
+
+The original dataset was messy, so to tidy it up (the copy I had converged with my new one, the original kept untouched) I used Openrefine. To ensure my dataset would be read easily by any computer, I had to normalise the data, starting with the most obvious fix, removing an empty column and row, which served no purpose other than to add white space, which is undesirable. I then renamed the columns in the merged section, as they ran from X1 through to X8, and the variables were recorded in row 1, so removed them from there and pasted them in the corresponding column headers. I renamed the first column, removing the pound (\#) sign and replacing it with the word number, and placed an underscore (\_), between each word in the column header, to reduce white space and avoid confusion and mistakes resulting from formatting differences between programs. I needed to split the given name column to form a first and separate middle name column. I split the surname column to create an alternate spelling column. I split the alias name column into three, first, second, and surname. I separated the death dates into the year, month, and the date and used text for the months so were clear to people who may view from America, for example, where their date and month are numerically read back to front to Australia so they may read Fourth of December 1878 (4/12/1878) as Twelfth of April 1878 (4/12/1878).
+
+Once I had those looking much tidier, I began checking columns using facets to find any problems with data. I removed leading and trailing white space, in columns that had this, and changed the death date and year column to numerical rather than text so that they would show as numbers during analysis. I also used facets to check spelling, and for any duplicate prisoner numbers or names. I also used openrefine to fill the blank cells with na, as it can do multiple cells at one time.
+
+#### [***Historical Image Analysis***]{.underline}
+
+This task required finding, analysing, and presenting a collection of historical images. I started by searching Google to get an idea of different repositories where I could find images. This led me to sites such as Trove, Brisbane City Council, National Library of Australia, Wynnum-Manly Local History blog, Queensland State Archives, State Library of Queensland, Queensland Police Museum, and the Museum of Brisbane. There were few historical images that were not taken by the Government, so the images are what they wanted people to see. I also used Blogger, Trip Advisor, Flickr, and Google maps user photos, as there are contemporary photos that relate to the history of the island, such as the cemetery, shark-proof swimming pool, the superintendent's house, farming equipment, and tools used in the workshops. These historic items were seldom photographed, basing this assumption on the freely available images on the internet.
+
+I downloaded a collection of 39 images, with metadata for each, into Zotero. I analysed each of the images, first with my initial thoughts, and then with a structured analyse. The structured analyse asked the following questions:
+
+-   What objects or physical features are in the image?
+
+-   What is the context of the image? Why was it taken?
+
+-   Is the photo spontaneous or staged? How do you know?
+
+-   Can you tell from which time period it came? What clues give you that information?
+
+-   How is the image composed?What is in the background, and what is in the foreground?
+
+The initial reflection and structured responses were placed in notes, with each image, in Zotero. From the 39 images, I selected seven to do further analysis on. Conducting such analyse raised new questions and thought about the period in question.
+
+#### [***Thematic Coding***]{.underline}
+
+To start this task, I collected sources from online repositories into Zotero, in a folder specifically for this task. I needed to have the sources in PDF format and make sure all sources had the correct metadata for when they are placed in the reference list.
+
+I then exported the folder and its contents, in RDF format, into a folder in the working directory for this task in rstudio. I ran a script in rstudio which converted the PDF files I had imported, into a text file format.
+
+I created a new project and uploaded each source, which had been converted into a text file, into Taguette. I tried to add PDF files directly into Taguette, but I could not get it to work. I had to import each text file individually, so for around 80 items, it took a while. I then read each of the sources, coding as I went (highlighting text which corresponds to a theme or idea).
+
+Once I had completed coding all the documents, I selected the '*highlights*' tab on the left of the screen. Then I selected '*see all highlights*', and everything I had highlighted, its source information, the tag it was given, and the number of highlights for each tag, were displayed in the main pane. In the top right corner '*export this view*' was chosen, and a drop down menu of file types appeared. I chose to export the highlights in csv, PDF, and html formats, just so I would have a copy in all file types.
+
+Once I had the summarised information, I could begin analysing it. I read through each tag and then looked at the highlights with the highest counts, as these are the main themes throughout the source documents. I also looked at the highlights with the lowest counts because these could be important themes, it is just that the area needs further research. I looked for patterns that may have emerged, such as if a certain year had a larger number of entries (if so, why?), if the sources in a tag are all agreeable (if not, why?), etc. The thematic analysis allows you to see themes in much less time than reading and taking notes. The data can be analysed quickly using spreadsheets or programs like openrefine.
+
+The final step in this task was to write a discussion around the results I found, using quotes from the source documents to support the discussion. This discussion can be located in the link below.
+
+#### [***Mapping your Data***]{.underline}
+
+To begin this task, I searched online repositories for map data that I could use, and that was relevant, to the project. I found datasets, which I could use for the layers of my map, from the following repositories:
+
++----------------------+---------------------------------------+---------------------------------------+
+| Geoscience Australia | National Map                          | QLD Spatial Catalogue                 |
++----------------------+---------------------------------------+---------------------------------------+
+| Moreton Bay Regional | QLD Government data portal            | SpacePrez FeatureCollection list      |
++----------------------+---------------------------------------+---------------------------------------+
+| Council Datahub      | University of the Sunshine            | Natural Earth quick\                  |
+|                      |                                       | start                                 |
++----------------------+---------------------------------------+---------------------------------------+
+| Coast GIS resources  | Business Queensland GIS datasets      | The Foundation Spatial Data Framework |
++----------------------+---------------------------------------+---------------------------------------+
+| QLD Government       | Museum of Lands Mapping and Surveying | Department of\                        |
+|                      |                                       | Resources Data and mapping            |
++----------------------+---------------------------------------+---------------------------------------+
+
+I added some of the datasets, and their sidecar files, to QGis and started to look for my base layer. I found a dataset for the Australian mainland I liked and then added further layers. I changed my mind regarding different attributes many times, some were too '*noisy*', but finally decided on adding a coastline and state border layer next, then:
+
+-   mangrove vegetation
+
+-   Queensland Heritage Register
+
+-   St Helena National Park
+
+-   St Helena outer shore layers
+
+Next was to add the points of interest to my created map using the point drawing tool. I did this for all points of interest and then selected the '*layer labeling options*' tab in the middle ribbon bar. In the '*layer styling box*' which appears in a pane to the right, I chose a point of interest I had made from the first drop-down box. In the next drop-down box, I selected '*single label*', and the label was displayed on the map beside the corresponding point of interest. From here I could also choose colours, fonts, point style, etc. The labels could be moved and rotated by using tabs in the middle ribbon bar.
+
+Now I needed to print the map. By selecting '*new print layout*' from the ribbon bar and providing a project title, a new window is opened. I chose '*add map*' from the vertical ribbon bar and point and dragged my mouse to create a box inside the displayed canvas. The map I had been working on appeared and I added a scale and north arrow from the vertical ribbon bar. In this new view, I noticed some of the labels were moved from where I had put them. I went back to the original map to move them to where they looked right in the print preview screen (the changes appeared there in real-time). I then added a legend, from the vertical ribbon bar, selected '*layout*' from the top ribbon bar, '*export as image*', made sure the export resolution was 300 dpi, and hit '*save'*. I had created a map and now had it as an image in .png format.\
+\
+
+#### [***Links***]{.underline}
+
+[Data dictionary](file:///C:/HINQ302Assessment_2/web/static/Data-Dictionary.html)
+
+[Harvesting from the web](file:///C:/HINQ302Assessment_2/web/static/Harvesting-data-from-the-web.html)
+
+[Historic Image Analysis](file:///C:/HINQ302Assessment_2/web/static/ImageAnalysis.html)
+
+[Mapping Data](file:///C:/HINQ302Assessment_2/web/static/Map-of-points-of-interests.html)
+
+[References](file:///C:/HINQ302Assessment_2/web/static/References.html)
+
+[Thematic Analysis](file:///C:/HINQ302Assessment_2/web/static/ThematicAnalysis.html)

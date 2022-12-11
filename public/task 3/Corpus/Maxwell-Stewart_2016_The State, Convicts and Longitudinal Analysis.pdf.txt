@@ -1,0 +1,888 @@
+      Australian Historical Studies
+
+
+
+
+      ISSN: 1031-461X (Print) 1940-5049 (Online) Journal homepage: https://www.tandfonline.com/loi/rahs20
+
+
+
+
+The State, Convicts and Longitudinal Analysis
+
+Hamish Maxwell-Stewart
+
+To cite this article: Hamish Maxwell-Stewart (2016) The State, Convicts and Longitudinal Analysis,
+Australian Historical Studies, 47:3, 414-429, DOI: 10.1080/1031461X.2016.1203963
+
+To link to this article: https://doi.org/10.1080/1031461X.2016.1203963
+
+
+
+
+       Published online: 31 Aug 2016.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 999
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+       Citing articles: 4 View citing articles
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=rahs20
+
+      The State, Convicts and Longitudinal Analysis
+                                     HAMISH MAXWELL-STEWART
+
+
+
+
+In 2006 the Records of the Tasmanian Convict Department were inscribed on the UNESCO
+Memory of the World Register. This extraordinarily intact collection of records document the
+lives of 73,000 male and female prisoners transported to Van Diemen’s Land. This article
+examines ways in which this information can be used to explore the impact of forced labour
+migration on the lives of convicts. It focuses in particular on the assembly of cradle-to-grave
+datasets. Such longitudinal approaches to the past can be powerful, especially where they
+involve the analysis of multiple life course events for a large number of individuals. The ﬁrst
+     part of the article explores ways in which quantitative approaches can be used to
+ reconstruct the circumstances that shaped the creation of record groups. The second part
+examines the way in which longitudinal analysis can be used to analyse the impact of state
+                                 action on the lives of convicts.
+
+
+
+The rise of the prison as an institution of mass incarceration for offenders has long
+fascinated historians. Since the 1970s a series of inﬂuential works have explored the
+shift in punishment from the body to the mind that accompanied the increased use
+of imprisonment as an instrument of justice. Much of this literature has focused on
+the role prisons played in the shaping of a new form of relationship between the
+state and its citizens.1 Important as these works are, there have been fewer attempts
+to describe the impact of imprisonment and punishment on the lives of prisoners
+and their families, or to use the data recorded in prison registers and related criminal
+justice record series to explore conditions experienced by working-class populations.
+     It is often the most marginalised members of society who are targeted by
+states and, as a result, have their lives documented in archival collections. This
+is especially true of those who run afoul of the law. From the late eighteenth
+century, prisons and court systems started to maintain ever more detailed regis-
+ters of offenders. As a record of prior conviction was one of the factors that judges
+took into consideration when determining sentencing options, it became increas-
+ingly important to document offending histories. As a result, information was
+routinely circulated between courts, prisons and other institutions. A striking
+feature of this was the speed with which such record-keeping systems were
+adopted across jurisdictions, including colonial societies.
+
+For background on this Forum on Big Data and the articles in this issue please see the free-to-access
+editorial in this issue, http://dx.doi.org/10.1080/1031461X.2016.1208728
+ 1
+   See, in particular, Michel Foucault, Discipline and Punish: The Birth of the Prison (London: Penguin,
+   1977); and Michael Ignatieff, A Just Measure of Pain: The Penitentiary in the Industrial Revolution
+   1705–1850 (New York: Pantheon, 1978).
+
+414
+
+                             Maxwell-Stewart: The state, convicts and longitudinal analysis         415
+
+
+
+      Because they were interested in tracking offenders, criminal justice records
+often included information absent in other series. Details of offenders, heights,
+their scars, tattoos and other physical deformities, the names of next of kin,
+place of birth and literacy, were all routinely collected by nineteenth-century
+police, prison and other penal institutions. Such records are particularly useful
+because they include information for women as well as men. This article
+reviews a range of ways in which the data employed to regulate the lives of
+the 73,000 or so convicts who were sentenced to penal servitude in Van
+Diemen’s Land between 1803 and 1853 can be used to shed light on convict
+lived experience.
+      Perhaps because of the detailed nature of the record groups assembled to
+regulate their lives, convicts transported to Australia have been the subject of a
+number of previous quantitative exercises. Early studies focused on the crimi-
+nality of transportees, attempting to establish the extent to which they had a
+record of offending prior to being sentenced to penal labour in Australia.2 Sub-
+sequent re-assessments placed much greater emphasis on the skills that convicts
+brought to the Australian colonies.3 Detailed studies of the convicts transported
+on individual ships have helped to considerably ﬂesh out this picture.4 There
+have also been a number of pioneering explorations of the manner in which
+convict labour was organised, punished and rewarded.5
+      The data employed in this article was assembled in order to explore the
+impact of transportation on health, socio-economic wellbeing and rates of offend-
+ing. This work forms part of a larger investigation into the relative impacts that
+penal transportation and incarceration in nineteenth-century British institutions
+had on the lives of prisoners.6 Rather than targeting a single record group, the aim
+has been to link many series that contain information about the same individual.
+In the case of transported convicts this includes British hulk records, the surgeons’
+journals compiled during the voyage to Australia, convict indents and description
+lists compiled on disembarkation and conduct records containing summaries of
+
+
+
+2
+  L. L. Robson, Convict Settlers of Australia (Melbourne: Melbourne University Press, 1967); and James
+  F. H. Moore, Convicts of Van Diemen’s Land (Hobart: Cat & Fiddle Press, 1976).
+3
+  S. Nicholas, ed., Convict Workers: Reinterpreting Australia’s Past (Cambridge: Cambridge University
+  Press, 1988); D. Oxley, Convict Maids: The Forced Migration of Women to Australia (Cambridge: Cam-
+  bridge University Press, 1996); and N. J. Meinzer, ‘The Western Australian Convicts’, Australian
+  Economic History Review 55, no. 2 (2015): 163–86.
+4
+  B. Smith, A Cargo of Women: Susannah Watson and the Convicts of the Princess Royal (Sydney: University
+  of New South Wales Press, 1988); D. Kent and N. Townsend, The Convicts of the Eleanor: Protest in
+  Rural England, New Lives in Australia (London: Pluto Press, 2002); and Lucy Frost, Abandoned
+  Women: Scottish Convicts Exiled Beyond the Seas (Sydney: Allen and Unwin, 2012).
+5
+  D. Meredith and D. Oxley, ‘Contracting Convicts: The Convict Labour Market in Van Diemen’s
+  Land, 1840–1857’, Australian Economic History Review 45, no. 1 (2005): 45–72; D. Roberts, ‘A
+  “Change of Place”: Illegal Movement on the Bathurst Frontier, 1822–1825’, Journal of Australian
+  Colonial History 7 (2005): 97–122; and C. Nunn, ‘Juveniles as Human Capital: Re-evaluating the
+  Economic Value of Juvenile Male Convict Labour’, Labour History 108 (2015): 53–69.
+6
+  See ‘The Digital Panopticon: The Global Impact of London Punishments’, www.digitalpanopticon.
+  org (accessed 25 May 2016).
+
+416   Australian Historical Studies, 47, 2016
+
+
+court appearances and punishments for convicts under sentence in Van Diemen’s
+Land.
+     Since these records contain a series of internal identiﬁers this process is labor-
+ious, but otherwise not technically difﬁcult. Tasmanian convict records regularly
+include the ship of arrival in the colony and the convict’s police number. Infor-
+mation about age and date and court of trial can be used to link these series to
+records compiled by British and Irish criminal justice systems.
+     The process of connecting prisoners with information about their pre-transpor-
+tation families or details of their lives post-release is more complicated but is assisted
+by the nature of the data assembled to regulate their institutional lives. Record
+linkage to nineteenth-century British census data, for example, is facilitated by
+knowledge of the convict’s next of kin recorded on arrival in Australia. Information
+about post-release offending can be retrieved from a number of record sources
+including the colonial police gazettes, a series of weekly publications that printed
+details of convicted criminals including the ship that brought them to the colony.
+Such longitudinal approaches can be powerful, especially where they involve the
+analysis of multiple life-course events for a large number of individuals.7 They also
+offer the potential to explore the intergenerational impact of forced labour migration.
+They are not, however, unproblematic.
+     The legal document that held a convict in place was an indenture. It was this that
+conferred charge of the convict to the master of the vessel for the duration of the
+voyage to Australia. Upon landing, property rights in the body of the prisoner
+passed back to the state, although it was common practice for these to be subsequently
+assigned, loaned or hired out to private masters and mistresses. The close relationship
+between the state and the private sector shaped the colonial archive. The use of archi-
+tectural restraints was impractical in a colony where the economy depended upon the
+ﬂexible deployment of unfree labour. As a result, record systems largely substituted for
+cell walls. Without paperwork there was no way of separating those members of the
+colonial working class who were bound by a sentence from those that were not. The
+descriptions of runaway prisoners circulated in the pages of the Government Gazette and
+other colonial newspapers helped to determine who was government lost property.
+     It was not just important to punish those whose indiscretions landed them in
+a colonial courtroom. The stain of conviction had to be made indelible. Every
+quarter each magistrates’ bench was tasked with drawing up a summary of all
+charges that had been brought against convicts and former convicts. It was
+these that were laboriously transcribed into the conduct registers. The volumes
+that made up this series contained the information that the colonial state used
+to ﬁx the severity of sanctions applied to convict bodies and select those con-
+sidered worthy of indulgence. Like colonial archives these record groups were
+not ‘dead matter’ in the sense that they were shelved and forgotten.8 They
+
+7
+  J. Bradley, R. Kippen, H. Maxwell-Stewart, J. McCalman and S. Silcot, ‘Research Note: The Foun-
+  ders and Survivors Project’, The History of the Family 15, no. 4 (2010): 470.
+8
+  A. L. Stoler, Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense (Princeton, NJ:
+  Princeton University Press, 2009), 3.
+
+                               Maxwell-Stewart: The state, convicts and longitudinal analysis          417
+
+
+
+remained live records for many years after their creation; some even contain
+notes entered in the early twentieth century.
+     The point was forcibly impressed on each cohort of fresh arrivals. Mustered in
+the yard of the penitentiary or female factory they were informed that henceforth
+their wellbeing would depend upon their conduct. While the wicked risked
+painful encounters with road and chain gangs, penal stations and female fac-
+tories, those that worked hard and without complaint could expect to be recipi-
+ents of the state’s largesse.9 In order to translate knowledge into power,
+convicts had to believe in the infallibility of the state’s bureaucratic engine.
+     Records were used to tie convicts to the interests of the state in other ways too.
+Those in hulks awaiting transportation were set to work at tasks such as dredging and
+constructing jetties and breakwaters. The value of the labour they performed was
+carefully calculated. As a reward for diligent service every convict was entitled to
+keep one penny out of each shilling’s worth of work they completed for the govern-
+ment. At the end of every week the prisoners received one-third of their accumu-
+lated savings while the remainder was left in hand until they were discharged.10
+     Many convicts also had opportunities to earn money while under sentence in Aus-
+tralia. When they passed the threshold of an institution, cash found on their person was
+taken from them and added to any sums already banked on their behalf. As well as
+incentivising labour, bank accounts provided a handy reserve from which ﬁnes could
+be deducted. Even the value of the labour power of absconded convicts was monetised.
+The reward of £2 advertised for the recapture of every male runaway provided the
+opportunity for some to make a sizeable deposit into their account. The cost of the
+reward, however, was subtracted from the accumulated assets of the absconder.
+While physical coercion was used to chastise those who did not bend their will to
+state and master, positive inducements were also an important labour extraction tool.
+     There has been some criticism of previous attempts to use quantitative tech-
+niques to explore Australia’s convict past precisely because of the role that records
+played in underpinning state power. There is certainly a danger that mining the
+colonial archive might merely succeed in reproducing nineteenth-century domi-
+nant views about convicts.11 Convict record series are rich in data precisely
+because they functioned as important governmental technologies.12 This is cer-
+tainly not an issue that is unique to colonial Australia. All systems of labour
+exploitation justify the unequal distribution of power relations on the basis of
+the perceived shortcomings or failures said to be characteristic of subaltern popu-
+lations.13 A good illustration of this is provided by Governor George Arthur’s
+
+
+9
+   C. Pybus and H. Maxwell-Stewart, American Citizens, British Slaves: Yankee Political Prisoners in an Aus-
+   tralian Penal Colony 1839–1850 (Melbourne: Melbourne University Press, 2002), 76–7.
+10
+   ‘The Hulks at Woolwich’, Oxford Journal, 29 December 1832.
+11
+   R. Evans and W. Thorpe, ‘Power, Punishment and Penal Labour: Convict Workers and Moreton Bay’,
+   Australian Historical Studies 25, no. 98 (1992): 90–111.
+12
+   A. Stoler, ‘Colonial Archives and the Arts of Governance’, Archival Science 2 (2002): 87–8.
+13
+   H. Maxwell-Stewart, ‘“Like Poor Galley Slaves”: Slavery and Convict Transportation’, in Legacies of
+   Slavery: Comparative Perspectives, ed. Marie Suzette Fernandes Dias (Newcastle: Cambridge Scholars
+   Publishing, 2007), 56–7.
+
+418     Australian Historical Studies, 47, 2016
+
+
+comparison of the operation of ‘convictism’ in colonial Australia and plantation
+racism in the Caribbean. He argued that, while convicts were not black, ‘they
+are criminals, and the master … may draw, from his knowledge of their crimes,
+a sanction, quite as satisfactory as that arising from difference of colour, for any
+severity he would practice against them’.14 It was record-keeping systems that
+disseminated knowledge of convict ‘crimes’, ensuring that any attempt to chal-
+lenge the circumstances in which a prisoner found themselves merely increased
+the number of damning entries recorded against their name. Any act of protest
+thus risked strengthening the bureaucratic shackles that held the convict in place.
+     While some have cautioned against the naive use of state archives, others
+have questioned the extent to which information that was at least in part elicited
+from convicts can be trusted.15 In this sense, the information contained in convict
+records might be regarded as the product of a cat and mouse game, where the
+state attempted to gather the information that it needed to control and effectively
+exploit its charges, whereas the convict tried to conceal and obfuscate as much as
+possible.
+     State records are problematic in other ways too. Much of the data collected
+about transported convicts has a snapshot quality – it represents a particular
+moment when that individual was interrogated or otherwise described.16 These
+very public encounters tell us little about private life. Those who avoided run-
+ins with magistrates’ benches as they negotiated a route to freedom are far less
+documented than others who frequently appeared in court. The moments
+when a convict was publicly shamed are invariably present in the archive,
+while other life achievements went largely undocumented. It is not just convict
+history that suffers from this problem. Since most records are generated by
+encounters with the state, the individual only enters the archive when a public
+intermediary, such as a census enumerator, knocks at the door or in other
+ways interrupts the ﬂow of private life. Yet, this problem is a particular character-
+istic of archival series produced by surveillance systems. Convicts may be extra-
+ordinarily well documented compared to other lower-order citizens, but a lot of
+government-generated paperwork cannot substitute for a convict voice – or at
+least not an unproblematic one. It is right to be sceptical about claims that trans-
+ported convicts can speak to us, not in words, but out of the dry dust of the stat-
+istics used to regulate their lives.17 This does not necessarily mean that they are
+rendered mute however.18
+
+
+
+14
+   George Arthur, Defence of Transportation in Reply to the Remarks of the Archbishop of Dublin in his Second
+   Letter to Early Grey by Colonel George Arthur (London: George Cowie, 1835), 18.
+15
+   Robson, 181–2; Frost, 26.
+16
+   Alan Atkinson, ‘Writing about Convicts: Our Escape from the One Big Gaol’, Tasmanian Historical
+   Studies 6, no. 2 (1999): 24–5.
+17
+   S. Nicholas and P. Shergold, ‘Convicts as Migrants’, in Convict Workers, ed. Nicholas, 45.
+18
+   Ian Dufﬁeld, ‘“Stated This Offence”: High-Density Convict Micro-Narratives’, in Chain Letters: Nar-
+   rating Convict Lives, eds L. Frost and H. Maxwell-Stewart (Melbourne: Melbourne University Press,
+   2001), 119–35.
+
+                             Maxwell-Stewart: The state, convicts and longitudinal analysis       419
+
+
+
+      All historical data is a product of the cultural, political and social forces that shaped
+the creation and subsequent use of record series. Access to a lot of information is
+useful, however, in that it can be used to explore those processes in some detail. Quan-
+titative approaches can be particularly important in that they can help to ﬂesh out vari-
+ations in recording practice. A lot of information is also useful in that it can help to
+reconstruct the historical moment in which the record was ﬁrst drawn up.
+      On arrival in Van Diemen’s Land convicts were asked to provide details of
+their previous conviction history, but were informed that their colonial interroga-
+tors already had access to detailed information about their prior lives extracted
+from metropolitan gaol and hulk reports. Those detected lying or concealing
+information risked punishment. As George Arthur put it:
+      The man perceives at once that the ofﬁcer who is examining him does
+      know something of his history; and not being quite conscious how much
+      of it is known, he reveals, I should think, generally a very fair statement
+      of his past life, apprehensive of being detected in stating what is untrue.19
+It is possible to collectively test the outcome of encounters between convict and
+state. On balance, convicts confessed to more offences than were ofﬁcially
+recorded against their name. Over 20 per cent of male convicts with gaol
+reports describing them as ‘unknown’ admitted to having been convicted at
+least once before.20 The evidence suggests that the state won this particular
+tussle, tricking convicts into coughing up details of prior offending of which the
+colonial establishment had no prior knowledge. Resort to British criminal
+justice record series reveals, however, that they tended to conceal the severity
+of former encounters with the law. Serious charges of assault, for example,
+were often passed off as ‘rows’ – a description that made them sound as
+though the offence was no more than a barroom scufﬂe.21
+      If convicts were not always forthcoming about the nature of the offence that
+they had committed, it is also possible that they attempted to conceal or invent
+other details of their past lives. There is a great deal of variation in the manner in
+which convict occupations are described in various record groups. Not only are
+post-embarkation records more detailed than those compiled in British and Irish
+gaols and hulks, they also tend to credit convicts with greater levels of skills.
+Whereas 45 per cent of male prisoners housed in two British hulks in the period
+1837–43 are recorded as having unskilled occupations, only 26 per cent of male con-
+victs convicted in England, Scotland and Wales and landed in Van Diemen’s Land
+over the same period confessed to having such low-skilled trades (see Table 1).
+
+
+19
+   Cited by P. R. Eldershaw, Public Records of Tasmania. Section Three. Convict Department (Hobart:
+   Archives Ofﬁce of Tasmania, 2003), 7.
+20
+   A total of 3,637 male convicts have gaol records that describe them as ‘unknown’. Of these 674 con-
+   fessed to having been convicted once before. Tasmanian Archive and Heritage Ofﬁce (hereafter
+   TAHO), Con 31, Conduct Registers of Male Convicts Arriving in the Assignment Period, and Con
+   33, Conduct Registers of Male Convicts Arriving in the Period of the Probation System.
+21
+   H. Rogers, ‘“A Very Fair Statement of His Past Life”: Transported Convicts, Former Lives and Pre-
+   vious Offences’, Open Library of Humanities 1, no. 1 (2015): e3, http://doi.org/10.16995/olh.27
+
+420     Australian Historical Studies, 47, 2016
+
+
+                    Table 1. Distribution of convict occupations (%).
+                                                Hulk         Embarked          Arrived
+                    Professional                 1.5             1.2              1.1
+                    Semi-professional            1.4             1.3              1.1
+                    Skilled                     44.2            44.7             40.0
+                    Semi-skilled                 7.8             8.1             32.7
+                    Unskilled                   45.1            44.8             26.1
+                    N=                         9,353           6,890            11,812
+
+                    Sources: The National Archive (TNA), HO 9, York and Fortitude.
+
+
+     It is unlikely, however, that convict lying can explain the scale of the discre-
+pancy in occupational recording between metropolitan and colonial records.
+Indeed, if convicts attempted to conceal information it would be logical for
+them to be consistent about the answers that they gave. Inventing an occupation
+mid-voyage would seem to be a poor strategy, especially as each transportee was
+told that information collected in the hulks had been forwarded with them.
+     There are a number of different ways in which it is possible to check the quality
+of the occupational information elicited from convicts. There are for example distinct
+regional patterns embedded in the data that are consistent with the geography of
+employment in nineteenth-century Britain. Over three-quarters of the potters trans-
+ported to Van Diemen’s Land were tried in the county of Staffordshire, the centre of
+the British pottery industry. The same proportion of button makers were convicted
+in Warwickshire, and cotton factory workers in Lancashire and Cheshire. These dis-
+tributions are very similar to those reported by Nicholas and Shergold for New South
+Wales.22 If convicts systematically lied about the skills they brought to Australia they
+did so in ways that matched the regional distribution of occupations in the land from
+which they had been deported.
+     Many also bore signs on their body that were consistent with their claimed prior
+occupation. Well-sinkers and colliers arrived with blue marks on their heads. These
+‘miner’s tattoos’ were an occupational hazard – the product of underground cuts that
+had been contaminated with dirt and coal dust.23 Others arrived with the signs of
+injuries that support occupational claims. Clerks were heavily scarred on their left
+hand – all nineteenth-century clerical workers used razor-sharp implements to cut
+goose quills.24 A high proportion of cotton spinners had mutilated or broken
+ﬁngers. It was common for cotton factory workers to clean lint and other detritus
+from clogged gears, leading to high rates of injury.25
+
+22
+   S. Nicholas and P. R. Shergold, ‘Convicts as Workers’, in Convict Workers, ed. Nicholas, 65.
+23
+   Chris Winder, ‘Occupational Skin Diseases’, in Occupational Toxicology, eds Chris Winder and Neill
+   Stacey (London: CRC Press, 2004), 128.
+24
+   H. Maxwell-Stewart and J. Bradley, ‘“Behold the Man”: Power, Observation and the Tattooed
+   Convict’, Australian Studies 12, no. 1 (1997): 81.
+25
+   Reasons in Favour of Sir Robert Peel’s Bill, for Ameliorating the Condition of Children Employed in Cotton
+   Factories (London: W. Clowes, 1819), 61; and J. D. Schmidt, Industrial Violence and the Legal
+   Origins of Child Labor (Cambridge: Cambridge University Press, 2010), 85.
+
+                             Maxwell-Stewart: The state, convicts and longitudinal analysis     421
+
+
+
+     Rather than the product of lies, variations in the information recorded about
+convicts reﬂect the different institutional settings in which each record group was
+drawn up. The most noticeable difference between the hulk records and the occu-
+pational information elicited from convicts on arrival in Australia, for example, is
+the relatively small proportion of agricultural workers listed in the hulk registers.
+As there was no ready use that could be made of convicts with rural skills in
+British dockyards, it made sense to record them as labourers. By contrast agricul-
+tural skills were at a premium in the Australian colonies. It was not unusual for
+the convicts with experience of farm work to list the range of agricultural tasks
+they could perform. The ability to sow, reap, mow, shear, and handle livestock
+were all important skills, the possession of which increased the potential utility
+of the prisoner.26
+     Rather than eliciting information about occupation in order to place an indi-
+vidual in the class structure – a common preoccupation of courts – the colonial
+state sought to record sufﬁcient information to ensure that convict labour could
+be efﬁciently utilised. This is almost certainly why many convicts listed more
+than one occupation. Rather than reporting the trade they had followed most
+recently, they provided information about past employment. This helps to
+explain why so many female convicts are recorded as domestic servants.27 Dom-
+estic service has been called a ‘life-cycle’ occupation.28 It was what most working-
+class girls did before graduating to other work such as employment in a factory.
+Even if they were not formally employed as servants, many had experience of
+tasks such as laundry work.29 Thus, convict records differ from census data in
+that they do not record details of employment at the point of arrest, but are
+instead abbreviated curricula vitae listing the most important skills a prisoner
+brought to the colony. This is why it is rare for no trade to be listed against a con-
+vict’s name.
+     Not all convicts sentenced to transportation were actually sent; it is thus poss-
+ible that those arriving in Australia were not representative of those entering the
+hulks – the most skilled being sent to supply labour to the penal colonies.30 Analy-
+sis of the hulk registers suggests that occupational selection on these lines was not
+routinely practised. Those transported to Bermuda, Gibraltar, New South Wales
+and Van Diemen’s Land had a range of skills that were broadly reﬂective of
+those entering the hulks. There was a difference in age structure however. Con-
+victs who served out their sentence in the British Isles had a mean recorded age of
+29.6 on arrival in the hulk, compared to 24.9 for those who were transported.
+Convicts who were thought unlikely to survive the voyage were not embarked.
+Since morbidity rates were correlated with age, a selection process focused on
+ﬁtness tended to favour the young.
+
+26
+   See in particular TAHO, Con 27, Appropriation Lists of Convicts.
+27
+   Oxley, 139–41, 164–6, 236.
+28
+   P. Laslett, The World We Have Lost (London: Methuen, 1971), 36–7.
+29
+   A. Fauve-Chamoux, ‘Introduction’, in Domestic Service and the Formation of European Identity, ed.
+   Antoinette Fauve-Chamoux (Bern: Peter Lang, 2004), 8.
+30
+   Oxley, 236.
+
+422    Australian Historical Studies, 47, 2016
+
+
+Table 2. Literacy rates for male convicts (%).
+                                                    Hulk                            Arrival in VDL
+Neither read nor write                               29.53                               16.85
+Read only                                            26.88                               26.55
+Read and write                                       43.59                               56.60
+                                                   100.00                               100.00
+N=                                                  9,392                               23,532
+Sources: TNA, HO 9, York and Fortitude.
+
+
+     Men were less literate when they entered the hulks than when disembarked
+in Van Diemen’s Land (see Table 2). Yet, this difference should perhaps not be
+unexpected in a system that placed great emphasis on schooling. Reading and
+writing classes were held in both the hulks and on board convict vessels.31 Lit-
+eracy data can also be used as a further check on the integrity of occupational
+information. The most literate convicts were those with professional skills, fol-
+lowed closely by shopkeepers and dealers. The least literate were labourers,
+miners and agricultural workers. Some trades considered to be low-skilled had
+fairly high literacy rates, reﬂecting the requirements of the job. Errand boys
+and messengers, for example, needed to be able to read addresses (see Table 3).
+     There are other ways of testing the integrity of literacy data. While average
+literacy increased with age, convicts who claimed to be twenty, thirty, forty
+and ﬁfty years old were less likely to be able to read and write. This was particu-
+larly the case with female convicts and those born in Ireland. There is a well-
+established relationship between lower levels of literacy and age rounding. This
+can be measured using Whipple’s index.32 The closer a Whipple score is to 100,
+the least evidence there is for age heaping within that population. As can be
+seen from Table 3, convicts with occupations associated with higher levels of
+reported literacy had signiﬁcantly lower Whipple scores than those with occu-
+pations associated with poor literacy rates.
+     In summary there is nothing to suggest that convict records are a particularly
+inaccurate source of data. Checks on the answers that convicts provided to their
+colonial interrogators do not provide evidence of large-scale systematic bias.
+Comparisons with hulk data reveal many differences in the recording of infor-
+mation about prisoners, but these can be explained by the different contexts in
+which the data was captured and the impact of state interventions like compul-
+sory schooling.
+
+
+
+31
+   Rosalind Crone, ‘Attempts to (Re)shape Common Reading Habits: Bible Reading on the Nine-
+   teenth-Century Convict Ship’, in A Return to the Common Reader: Print Culture and the Novel, 1850–
+   1900, eds Beth Palmer and Adelene Buckland (Farnham: Ashgate, 2011), 103–20.
+32
+   A Whipple index score is calculated by summing the number of individuals aged 23 and 62 who
+   report ages ending in 0 and 5 and then dividing that sum by the total number of individuals
+   aged 23 to 62 and multiplying by ﬁve.
+
+                                Maxwell-Stewart: The state, convicts and longitudinal analysis             423
+
+
+
+Table 3. Literacy and Whipple scores for male convicts reporting different
+                              occupations.
+Recorded occupation                                         Literacy score                  Whipple index
+Professional                                                      4.95                             104
+Shopkeepers and dealers                                           4.45                             104
+Workers in wood                                                   4.24                             109
+Food and drink                                                    4.18                             111
+Clothing                                                          4.17                             110
+Errand boys, messengers and porters                               4.10                             109
+Domestic service                                                  4.02                             120
+Military                                                          3.75                             112
+Marine transport                                                  3.72                             117
+Labourers                                                         3.28                             117
+Quarrying and mining                                              3.20                             121
+Agricultural workers                                              3.07                             123
+
+N = 26,530.
+Literacy scored as 1 = neither read nor write, 2 = read a little, 3 = read only, 4 = read and write a little, 5
+= read and write.
+Sources: TAHO Con 18 Description Lists of Male Convicts, Con 23 Alphabetical Register of Male
+Convicts, and Con 33 Conduct Registers of Male Convicts Arriving in the Period of the Probation
+System.
+
+
+    Quantitative techniques can also be used to read the archive against its grain,
+that is, to deploy data in ways that were not originally envisaged by its creators.
+The whole purpose of compiling a record of life-course offending was to use the
+power of paperwork to control convict labour. When many convict lives are read
+in parallel, however, it is the state that is placed in the spotlight. Rather than indi-
+vidual failings, the analysis of collective lives reveals the impact of state actions.
+Morbidity and mortality rates, the distributions of punishments and rewards,
+reconviction and family formation can all be used to explore ways in which trans-
+portation policy shaped the collective experience of convicts.
+    Detailed mortality data is available for male convicts from the moment they
+entered the hulk. The experience of death can be reconstructed for both male and
+female convicts from the point where they were embarked on a convict vessel.
+Death rates amongst convicts at sea were strikingly low. It was much safer to
+travel as a convict to Australia in the ﬁrst half of the nineteenth century than it
+was to take a steerage passage across the Atlantic (see Table 4). The risk of
+death amongst male convicts was greatest in the hulk. It fell dramatically post-
+embarkation, but rose over the course of the four-month voyage to Australia
+(excluding deaths from shipwrecks). Arrival in the Antipodes did not bring
+immediate relief. Convicts died in greater numbers in the ﬁrst two months on
+shore than they did during the last month of the voyage. Thereafter the risk of
+death declined to levels that compare favourably with those for nineteenth-
+century non-institutionalised populations (see Figure 1). Male convicts under
+sentence in Van Diemen’s Land were four times less likely to die than prisoners
+
+424     Australian Historical Studies, 47, 2016
+
+
+Table 4. Age-speciﬁc mortality rates.
+                 Transatlantic         Convicts                                    England and
+                   migrants              hulk           Convicts at sea               Wales
+Age               1836–53a             1837–43            1817–53                   1843–47b
+15–24                 2.53               2.63                 2.19                     0.69
+25–34                 4.40               3.12                 2.48                     0.82
+35–44                 5.07               4.61                 2.58                     1.07
+a
+ R. L. Cohen, ‘Determinants of Individual Immigrant Mortality on Sailing Ships, 1836–1853’,
+Explorations in Economic History 24, no. 4 (1987): 371–91.
+b
+ Roderick Floud and Bernard Harris, ‘Health, Height, and Welfare: Britain, 1700–1980’, in Health and
+Welfare during Industrialization, eds Richard H. Steckel and Roderick Floud (Chicago: University of
+Chicago Press, 1997), 98.
+
+
+undergoing ‘separate treatment’ in Millbank prison, London.33 While female
+convicts were at greater risk of death than male convicts at sea, post-disembarka-
+tion the relative fortunes of the two populations were reversed.
+      Such longitudinal mortality proﬁles provide startling evidence of the effec-
+tiveness of pre-voyage screening. In an era before germ theory when there was
+little understanding of disease vectors, surgeon superintendents and the hulk
+administration were nevertheless able to ensure that onshore experience of
+death was not transmitted on board transport vessels. Differing outcomes can
+be partially explained by the changes in the demands placed on convict bodies
+– it was impossible to work convicts at sea in the same way as they were
+tasked on land. The variation in age between convicts who were not transported
+and those who were embarked for the long voyage to Australia was also signiﬁ-
+cant. Table 4 shows that older convicts were at greater risk of mortality, especially
+in the hulks. The death rate in port was further lowered through the practice of
+discharging sick convicts back onto land.
+      The experience of surgeon superintendents on convict vessels helps to
+explain why it took so long for miasma theory to lose its appeal. The measures
+taken to stop the sources of decaying matter thought to spread disease from enter-
+ing convict vessels appeared to work. The constant scrubbing and washing of
+bodies, clothes and decks cut rates of infection. It was only when convict
+vessels ventured into the southern oceans that mortality rates started to climb
+back towards those experienced in hulks. Pitching decks disrupted daily cleaning
+routines and increased the rate of accidents, while dwindling supplies of fresh
+stores increased the risk of death from scurvy.34
+
+
+33
+   House of Commons. ‘Report from the Surveyor-General on the discipline and management of
+   prisons with appendix 1847–53’, British Parliamentary Papers, Crime and Punishment, Prisons, 14
+   (Shannon: Irish University Press, 1970), 60–1.
+34
+   R. Kippen and H. Maxwell-Stewart, ‘Morbidity and Mortality on Convict Voyages to Australia’, in
+   Lives in Transition: Longitudinal Analysis from Historical Sources, eds P. Baskerville and K. Inwood
+   (Montreal: McGill-Queens University Press, 2015), 43–70.
+
+                             Maxwell-Stewart: The state, convicts and longitudinal analysis     425
+
+
+
+
+Figure 1. Death rates in the hulks at sea and during the ﬁrst year in the colony for male and
+female convicts arriving on voyages to Van Diemen’s Land, 1830–53.
+    Perhaps surprisingly, arrival in Australia provided scant relief. Mortality rates
+increased after disembarkation due to a combination of knock-on effects from the
+long voyage and exposure to new sources of infection. Newly arrived convicts
+were processed in large barracks where they rubbed shoulders with old hands.
+Female convicts made a quicker post-voyage adjustment because the labour
+demands imposed upon them were physically less demanding and the female
+factory was less crowded than the male penitentiary. Within six months the
+mean death rate for both male and female convicts had fallen to levels that
+were not much greater than those experienced by the same age cohorts in
+England and Wales. In fact, the risk of death amongst convicts was less than
+that for the soldiers who guarded them.35 This decline coincided with the shift
+of the bulk of the convict population from public sector barracks to accommo-
+dation provided by the private sector masters to whom they were either assigned,
+loaned or hired.
+    There is a temptation to read such health outcomes as a sign that the experi-
+ence of being transported as a convict was relatively benign. While it is true that
+death rates in convict Australia were insigniﬁcant compared to the experience of
+mortality in other penal colonies, this does not mean that the experience of being
+transported to Australia was not coercive.36 The reduction in mortality rates at sea
+
+
+35
+   H. Maxwell-Stewart, ‘Revisiting Linus Miller’s “Dark Picture of Van Diemen’s Land”’, Australasian
+   Canadian Studies 29, nos. 1–2 (2012): 113.
+36
+   H. Maxwell-Stewart, ‘Isles of the Dead: Convict Death Rates in Comparative Perspective’, Historic
+   Environment 24, no. 3 (2012): 26–34.
+
+426    Australian Historical Studies, 47, 2016
+
+
+was only possible because of the degree of control state ofﬁcials exercised over
+their convict charges. It is no accident that mortality rates declined ﬁrst on
+vessels used to transport slaves and convicts. Because of their status as unfree pas-
+sengers, measures designed to improve hygiene could be imposed upon bonded
+workers.37
+     Despite the low overall death rates, the variations in health outcomes for con-
+victs in Van Diemen’s Land were marked. All convicts who worked in gangs were
+at a greater risk of death. This was partially because ganged convicts were accom-
+modated in barracks, but it was also because they were coerced in ways that were
+uncommon in the private sector. Ganged convicts were punished at a much
+higher rate than non-ganged convicts.38 Some forms of punishment seem to
+have been particularly pernicious. Kippen and McCalman found evidence that
+solitary conﬁnement exposure shortened life expectancy, although they could
+ﬁnd no evidence that ﬂogging had a similar effect.39
+     Oscillations in the overall male convict death rate were correlated with the
+number of convicts sentenced to ganged labour. This in turn appears to have
+been driven by colonial labour market conditions. It was most advantageous
+for masters to employ convict labour when the costs of feeding and clothing an
+unfree worker were relatively low compared to the cost of free wages.40 As the
+annual maintenance bill rose, the number of convicts sentenced to hard labour
+in road and chain gangs by magistrates’ benches also increased.41 The effect
+was to shift the costs of maintaining convicts from the private to the public
+sector at the points when it became most advantageous to disinvest in unfree
+workers.
+     The trend exposes an important issue. Conduct records are not the complete
+list of all indiscretions, as claimed by some.42 They are instead the product of a
+complex set of factors culminating in a decision to prosecute.43 That decision
+could be affected by many things including the worth of the convict; thus convicts
+with skills that were not in demand in the colonial economy were at a greater risk
+of punishment than others. This is why the number of charges brought against
+serving prisoners was inversely correlated with colonial wage rates. The easier
+
+
+37
+   R. Haines and R. Shlomowitz, ‘Explaining the Mortality Decline in the Eighteenth-Century British
+   Slave Trade’, Economic History Review 53, no. 2 (2000): 273; and J. McDonald and R. Shlomowitz,
+   ‘Mortality on Convict Voyages to Australia, 1788–1868’, Social Science History 13, no. 3 (1989): 291.
+38
+   H. Maxwell-Stewart, ‘The Rise and Fall of John Longworth: Work and Punishment in Early Port
+   Arthur’, Tasmanian Historical Studies 6, no. 2 (1999): 104–5.
+39
+   R. Kippen and J. McCalman, ‘Mortality Under and After Sentence of Male Convicts Transported to
+   Van Diemen’s Land (Tasmania), 1840–1852’, History of the Family 20, no. 3 (2015): 345–65.
+40
+   Meredith and Oxley.
+41
+   H. Maxwell-Stewart, ‘Convict Labour Extraction and Transportation from Britain and Ireland
+   1615–1870’, in Convict Labour: A Global Regime, eds C. Vito and A. Lichtenstein (Leiden: Brill,
+   2015), 191–3.
+42
+   R. Kippen and J. MaCalman, ‘A Test of Character: A Case Study of Male Convicts Transported to
+   Van Diemen’s Land, 1826–38’, in Lives in Transition, eds Baskerville and Inwood, 21–2.
+43
+   See P. King, ‘Decision-Makers and Decision-Making in the English Criminal Law, 1750–1800’, The
+   Historical Journal 27, no. 1 (1984): 25–58.
+
+                               Maxwell-Stewart: The state, convicts and longitudinal analysis          427
+
+
+
+it was to get a replacement for a convict worker, the more likely they were to be
+charged with an offence.44
+     The ability to link convict records to other archival series enables an explora-
+tion of post-sentence lives. Some have argued that the emphasis colonial trans-
+portation systems placed on punishment through labour extraction helped
+former prisoners to integrate into the free economy, resulting in lower offending
+rates than those generally characteristic of ex-inmate populations.45 Others are
+more sceptical.46 The post-1865 practice of circulating the details of released
+offenders in the pages of the Tasmanian Police Gazette has enabled a detailed analy-
+sis of those former convicts who failed to desist from offending. The picture that
+emerges is complex.
+     Former female convicts were less likely to be rearrested than men. This is sig-
+niﬁcant since they confessed to a worse record of prior offending on arrival in
+Australia. On the whole, transportation seems to have been effective at breaking
+cycles of female offending. There was a noticeable relationship between stature
+and offending amongst male convicts, but not female. Male convicts who were
+short compared to others born in the same region of the British Isles were
+more likely to be reconvicted subsequent to their release from the convict
+system.47
+     Other trends are also discernible. There was a relationship between the levels
+of punishment received by male convicts under sentence and the probability that
+they would subsequently reoffend. Rather than deterring convicts, increasing
+severity inhibited their ability to ‘go straight’.48 This is particularly noteworthy
+since much of what is recorded in conduct records might be described as ‘status
+offending’. This is a term employed by criminologists to describe charges that
+can only be brought against an individual as a result of conditions imposed
+upon them. Convict movement offences are a good example. It was not possible
+to prosecute free workers for being out after hours. As we have already seen, the
+level of prosecution for such offences was driven by many factors including the
+operation of local labour markets. Despite the trivial nature of such offences, pro-
+secution and punishment increased the probability of post-release offending.
+     Convicts were at particular risk from charges relating to sexual conduct. This
+included childbirth outside of wedlock, although it should be remembered that
+marriage amongst female convicts was discouraged in order to ensure the
+supply of domestic servants.49 The result was that most convict women did not
+
+44
+   Maxwell-Stewart, ‘Convict Labour Extraction’, 189–92.
+45
+   J. Braithwaite, ‘Crime in the Convict Republic’, The Modern Law Review 64 (2001): 16–17, 19–21.
+46
+   B. Godfrey and D. J. Cox, ‘“The Last Fleet”: Crime, Reformation, and Punishment in Western Aus-
+   tralia after 1868’, Australian and New Zealand Journal of Criminology 41, no. 2 (2008): 236–58.
+47
+   H. Maxwell-Stewart, K. Inwood and M. Cracknell, ‘Height, Crime and Colonial History’, Law, Crime
+   and History 5, no. 1 (2015): 25–42.
+48
+   R. Kippen and H. Maxwell-Stewart, ‘“What Is a Man That Is a Bolter to Do? I Would Steal the Gov-
+   ernor’s Axe Rather Than Starve”: Old Lags and Recidivism in the Tasmanian Penal Colony’, in
+   Transnational Penal Cultures, eds J. Campbell and V. Miller (London: Routledge, 2014), 165–83.
+49
+   K. Reid, Gender, Crime and Empire: Convicts, Settlers and the State in Early Colonial Australia (Manche-
+   ster: Manchester University Press, 2007), 123–60.
+
+428    Australian Historical Studies, 47, 2016
+
+
+embark on colonial family formation until late in their sentence or after the point
+they had become free. This appears to have resulted in some peculiar intergenera-
+tional effects.
+     A comparison of the heights of colonially born offenders recorded in the
+descriptions circulated in the Tasmanian Police Gazette in the period after 1865 con-
+ﬁrms that the native born were signiﬁcantly taller than transported convicts – a
+product of improved childhood nutrition and a disease environment that was
+benign compared to that of those brought up in industrialising Britain. A signiﬁ-
+cant number of these colonially born prisoners had one or more parents who had
+been a convict. This provides an opportunity to explore the extent to which the
+slur of convict transportation was intergenerationally transmitted. The surprise
+is that not only are there no indications that the children of convicts were
+stunted, but those that could be traced to a convict mother were taller than
+average.50
+     This statistically signiﬁcant result is likely to reﬂect the way in which state
+coercion impacted upon convict family formation. Because the point at which
+convict women could fall pregnant without risk of prosecution was delayed by
+a sentence, they had low fertility rates compared to other colonial women. As
+others have demonstrated, net gains in the height of adult populations were
+almost certainly inﬂuenced by declining family size.51 Smaller families meant
+that there were fewer mouths to feed and as a result pay packets went further.
+The difference with convict families is that this did not reﬂect choice, but the
+impact of state policing designed to ensure the supply of convict domestic
+servants.
+     The purpose of criminal justice record systems was to accumulate sufﬁcient
+information about an individual to control or otherwise inﬂuence their actions.
+This included assembling the necessary data to inform sentencing policy and
+the awarding of indulgences. Entries in record series such as the conduct registers
+were intended to be read in isolation. It has taken considerable time and effort to
+convert cross-sectional samples of these records into machine-readable form so
+they can be analysed as a series, rather than as a collection of individual
+records. Access to large amounts of sentencing data enables historians to
+examine the timing of prosecutions and explore changes in sentencing strategy
+in relation to other data series, such as information on prices and wages. The
+effect of this is to decentralise the role of the prisoner. In this sense quantitative
+analysis provides the opportunity to turn the archive inside out, making the
+state the subject of panoptic power.
+     By reading such archives in ways not intended by their creators it is possible
+to explore the inﬂuence that factors other than personal failings had on life-
+course outcomes. Linking records in order to piece together something of the
+
+50
+   K. Inwood, H. Maxwell-Stewart and J. Stankovich, ‘The Prison and the Colonial Family’, History of
+   the Family 20, no. 2 (2015): 12–14.
+51
+   R. E. Bailey, T. J. Hatton and K. Inwood, ‘Health, Height, and the Household at the Turn of the
+   Twentieth Century’, The Economic History Review 69, no. 1 (2016): 35–53.
+
+                         Maxwell-Stewart: The state, convicts and longitudinal analysis   429
+
+
+
+lives of convicts before and after sentence can further enhance this approach. The
+results of this work reveal ways in which state intervention may have beneﬁted
+prisoners and their families. Health regimes imposed during the voyage to Austra-
+lia reduced mortality. There is also evidence that convict transportation helped
+some prisoners to cease offending, especially women. Others who attracted the
+ire of the colonial administration while under sentence continued to be persons
+of interest to police post-release. State policy also appears to have impacted
+upon the children of convicts, although there is little evidence that they were dis-
+advantaged as a result of the forced migration of their parents. Further research
+promises to extend understandings of the complex ways in which penal transpor-
+tation helped to shape the lives of the transported and their descendants. While
+imprisonment and convict transportation may not be ‘family friendly’ processes,
+the datasets generated by linking criminal justice systems promise to shed con-
+siderable light on the role of the state in shaping life in colonial Australia and
+elsewhere.
+
+
+Disclosure statement
+
+No potential conﬂict of interest was reported by the author.
+
+
+Funding
+
+This work was supported by the Australian Research Council [grant number
+DP140102231], [grant number LP140100783], [grant number LP140100623].
+
+
+ORCiD
+
+Hamish Maxwell-Stewart      http://orcid.org/0000-0001-7336-0953
+
+Hamish Maxwell-Stewart
+University of Tasmania
+Email: hamish.maxwellstewart@utas.edu.au
+
