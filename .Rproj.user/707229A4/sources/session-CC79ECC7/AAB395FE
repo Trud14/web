@@ -1,12 +1,12 @@
 {
-    "id": "084D864D",
+    "id": "AAB395FE",
     "path": "C:/HINQ302Assessment_2/web/content/post/2022-10-13-data-dictionary/index.Rmd",
     "project_path": "content/post/2022-10-13-data-dictionary/index.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1670898539157.0,
+    "created": 1670900857387.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
@@ -17,15 +17,15 @@
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
-        "rmdVisualModeLocation": "2313:2503.333251953125",
+        "rmdVisualModeLocation": "108:0",
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1670899662,
+    "lastKnownWriteTime": 1670900857,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670899662017,
+    "last_content_update": 1670900857,
     "read_only": false,
     "read_only_alternatives": []
 }
