@@ -1,0 +1,8 @@
+---
+title: Data Dictionary
+author: ''
+date: '2022-10-13'
+slug: data-dictionary
+categories: []
+tags: []
+---
