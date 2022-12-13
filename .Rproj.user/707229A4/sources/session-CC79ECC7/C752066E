@@ -3,7 +3,7 @@
     "path": "C:/HINQ302Assessment_2/web/content/Research Design Page/Research-Design-Page.Rmd",
     "project_path": "content/Research Design Page/Research-Design-Page.Rmd",
     "type": "r_markdown",
-    "hash": "223828252",
+    "hash": "1983618679",
     "contents": "",
     "dirty": false,
     "created": 1670895605259.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "138,80",
+        "cursorPosition": "138,103",
         "scrollLine": "136",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "1271:1280"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670897449,
+    "lastKnownWriteTime": 1670899760,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670897449774,
+    "last_content_update": 1670899761000,
     "read_only": false,
     "read_only_alternatives": []
 }
